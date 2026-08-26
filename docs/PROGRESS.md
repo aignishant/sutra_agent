@@ -14,3 +14,5 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 | 2 | 2026-08-26 | AG-02 | 16 (+3 papers) | `<hash>` | ✅ |
 | 3 | 2026-08-26 | AG-03 | 14 (+1 paper) | `<hash>` | ✅ |
 | 4 | 2026-08-26 | AG-04 | 16 (+1 paper) | `<hash>` | ✅ |
+| 5 | 2026-08-26 | ADK-01, ADK-02, ADK-73 | 16 | 57280b6 | ✅ |
+| 6 | 2026-08-26 | ADK-03, AG-05 | 19 (+1 paper) | `<hash>` | ✅ |
