@@ -1,0 +1,37 @@
+# ── secrets ───────────────────────────────────────────────
+# Written on Day 0, BEFORE .env exists. Principle 9: secrets never touch git,
+# and this repository goes public in Phase 14.
+.env
+.env.*
+!.env.example
+.envrc
+*.pem
+*.key
+
+# ── the environment (rebuildable from uv.lock) ────────────
+.venv/
+__pycache__/
+*.py[cod]
+
+# ── tool caches ───────────────────────────────────────────
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# ── runtime artifacts: never commit a session store ───────
+.adk/
+*.db
+*.sqlite3
+
+# ── build output ──────────────────────────────────────────
+build/
+dist/
+*.egg-info/
+
+# ── scratch ───────────────────────────────────────────────
+days/*/lab/
+.ipynb_checkpoints/
+.DS_Store
+experiment.ipynb
