@@ -32,3 +32,6 @@ can be found in prose without guessing where it ends.
 | ReAct: Synergizing Reasoning and Acting in Language Models | arXiv:2210.03629 | 2022 | 2026-08-25 | 3 | `days/day-03-loop-hand-rolled/papers/01-react.md` |
 | Toolformer: Language Models Can Teach Themselves to Use Tools | arXiv:2302.04761 | 2023 | 2026-08-25 | 4 | `days/day-04-tools-by-hand/papers/01-toolformer.md` |
 | Training language models to follow instructions with human feedback | arXiv:2203.02155 | 2022 | 2026-08-26 | 6 | `days/day-06-instructions-and-personas/papers/01-instructgpt.md` |
+| RouteLLM: Learning to Route LLMs with Preference Data | arXiv:2406.18665 | 2024 | 2026-08-26 | 9 | `days/day-09-four-free-providers/papers/01-routellm.md` |
+| FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance | arXiv:2305.05176 | 2023 | 2026-08-26 | 9 | *(not taught — named in `papers/01-routellm.md` as the cascade the router is contrasted with)* |
+| Efficient Guided Generation for Large Language Models | arXiv:2307.09702 | 2023 | 2026-08-27 | 12 | `days/day-12-structured-output/papers/01-guided-generation.md` |

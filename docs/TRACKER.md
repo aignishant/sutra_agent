@@ -1,7 +1,7 @@
 ---
 name: tracker
 plan: sutra
-generated: "2026-08-26"
+generated: "2026-08-27"
 generator: scripts/tracker.py
 ---
 
@@ -15,17 +15,17 @@ generator: scripts/tracker.py
 
 | | Count | Of total |
 |---|---|---|
-| 📄 Days written in the hub + parts/ shape | **6** | 6.2% |
-| 📚 Sub-topic documents in `parts/` | **93** | — |
+| 📄 Days written in the hub + parts/ shape | **13** | 13.4% |
+| 📚 Sub-topic documents in `parts/` | **208** | — |
 | ✅ Days completed (checklist fully ticked) | **5** | 5.2% |
-| 🗃️ Legacy days awaiting regeneration | **91** | 93.8% |
+| 🗃️ Legacy days awaiting regeneration | **84** | 86.6% |
 | ⬜ Never written | **0** | 0.0% |
 | Total days in plan | 97 | (Day 0 + Days 1–96) |
 
 ```
-written  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6/97
+written  █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13/97
 complete ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5/97
-legacy   ██████████████████████████████████████░░  91/97
+legacy   ███████████████████████████████████░░░░░  84/97
 ```
 
 **Legend:** ✅ done (checklist fully ticked) · 📄 written (hub + `parts/` + checklist) · ⚠️ no checklist · 🗃️ legacy (v1 lesson only, needs regenerating) · ⬜ pending
@@ -35,8 +35,8 @@ legacy   ███████████████████████�
 | Phase | Theme | Days | Written | Parts | Done |
 |---|---|---|---|---|---|
 | 0 | Foundry | 0 | 1/1 | 17 | 1/1 |
-| 1 | Foundations | 1–8 | 5/8 | 76 | 4/8 |
-| 2 | Models & tools | 9–16 | 0/8 | 0 | 0/8 |
+| 1 | Foundations | 1–8 | 8/8 | 127 | 4/8 |
+| 2 | Models & tools | 9–16 | 4/8 | 64 | 0/8 |
 | 3 | State, context & discipline | 17–24 | 0/8 | 0 | 0/8 |
 | 4 | Agent Skills | 25–31 | 0/7 | 0 | 0/7 |
 | 5 | MCP I: the protocol | 32–38 | 0/7 | 0 | 0/7 |
@@ -67,19 +67,19 @@ legacy   ███████████████████████�
 | 2 | LLM mechanics for agent builders — tokens, context, sampling; first raw `go… | AG-02 | ✅ done | 16 | 0 |
 | 3 | The loop: think→act→observe, hand-rolled (no framework) | AG-03 | ✅ done | 14 | 0 |
 | 4 | Tools by hand — function calling, JSON schemas, the tool-result turn | AG-04 | ✅ done | 16 | 0 |
-| 5 | First ADK agent — install `google-adk`, `Agent` + runner, pin `gemini-3.5-f… | ADK-01, ADK-02, ADK-73 | 📄 written | 16 | 104 |
-| 6 | Instructions & personas; the `adk web` dev UI | ADK-03, AG-05 | 🗃️ legacy | — | — |
-| 7 | Events & streaming — the 2.x event model (traps #2 and #3) | ADK-04, ADK-05 | 🗃️ legacy | — | — |
-| 8 | Sessions, runs & in-memory services | ADK-06, ADK-07 | 🗃️ legacy | — | — |
+| 5 | First ADK agent — install `google-adk`, `Agent` + runner, pin `gemini-3.5-f… | ADK-01, ADK-02, ADK-73 | 📄 written | 16 | 106 |
+| 6 | Instructions & personas; the `adk web` dev UI | ADK-03, AG-05 | 📄 written | 19 | 113 |
+| 7 | Events & streaming — the 2.x event model (traps #2 and #3) | ADK-04, ADK-05 | 📄 written | 16 | 77 |
+| 8 | Sessions, runs & in-memory services | ADK-06, ADK-07 | 📄 written | 16 | 76 |
 
 ### Phase 2 — Models & tools (Days 9–16)
 
 | Day | Title | IDs | Status | Parts | Open boxes |
 |---|---|---|---|---|---|
-| 9 | Same agent, four free providers — Gemini ↔ Groq ↔ OpenRouter `:free` ↔ Olla… | ADK-08, ADK-09 | 🗃️ legacy | — | — |
-| 10 | Function tools in ADK — from Day 4's hand-rolled version to `FunctionTool` | ADK-10, ADK-11 | 🗃️ legacy | — | — |
-| 11 | Tool context & state in tools; tool design principles | ADK-12, AG-06 | 🗃️ legacy | — | — |
-| 12 | Structured output — schemas on the way out | ADK-13 | 🗃️ legacy | — | — |
+| 9 | Same agent, four free providers — Gemini ↔ Groq ↔ OpenRouter `:free` ↔ Olla… | ADK-08, ADK-09 | 📄 written | 16 | 84 |
+| 10 | Function tools in ADK — from Day 4's hand-rolled version to `FunctionTool` | ADK-10, ADK-11 | 📄 written | 16 | 83 |
+| 11 | Tool context & state in tools; tool design principles | ADK-12, AG-06 | 📄 written | 16 | 104 |
+| 12 | Structured output — schemas on the way out | ADK-13 | 📄 written | 16 | 90 |
 | 13 | Callbacks — before/after model & tool | ADK-14, ADK-15 | 🗃️ legacy | — | — |
 | 14 | Plugins — cross-cutting behavior | ADK-16 | 🗃️ legacy | — | — |
 | 15 | Toolsets, OpenAPI & third-party tool wrappers | ADK-17 | 🗃️ legacy | — | — |
@@ -234,14 +234,14 @@ legacy   ███████████████████████�
 
 The next ten days to write, in order:
 
-- **Day 6** — Instructions & personas; the `adk web` dev UI `(ADK-03, AG-05)`  ·  🗃️ has a v1 lesson to mine
-- **Day 7** — Events & streaming — the 2.x event model (traps #2 and #3) `(ADK-04, ADK-05)`  ·  🗃️ has a v1 lesson to mine
-- **Day 8** — Sessions, runs & in-memory services `(ADK-06, ADK-07)`  ·  🗃️ has a v1 lesson to mine
-- **Day 9** — Same agent, four free providers — Gemini ↔ Groq ↔ OpenRouter `:free` ↔ Ollama via LiteLLM; quality/latency/RPD benchmark table; Claude/OpenAI as 🅿️ reading `(ADK-08, ADK-09)`  ·  🗃️ has a v1 lesson to mine
-- **Day 10** — Function tools in ADK — from Day 4's hand-rolled version to `FunctionTool` `(ADK-10, ADK-11)`  ·  🗃️ has a v1 lesson to mine
-- **Day 11** — Tool context & state in tools; tool design principles `(ADK-12, AG-06)`  ·  🗃️ has a v1 lesson to mine
-- **Day 12** — Structured output — schemas on the way out `(ADK-13)`  ·  🗃️ has a v1 lesson to mine
 - **Day 13** — Callbacks — before/after model & tool `(ADK-14, ADK-15)`  ·  🗃️ has a v1 lesson to mine
 - **Day 14** — Plugins — cross-cutting behavior `(ADK-16)`  ·  🗃️ has a v1 lesson to mine
 - **Day 15** — Toolsets, OpenAPI & third-party tool wrappers `(ADK-17)`  ·  🗃️ has a v1 lesson to mine
+- **Day 16** — Built-in tools with brakes — search grounding (free-allowance check + open-source search-MCP fallback per Addendum 02) + code execution; grounding vs retrieval; sandboxing concept `(ADK-18, AG-07, AG-32, SEC-01)`  ·  🗃️ has a v1 lesson to mine
+- **Day 17** — Session state deep dive — prefixes, scopes, lifetimes `(ADK-19, ADK-20)`  ·  🗃️ has a v1 lesson to mine
+- **Day 18** — Artifacts — files that survive turns `(ADK-21)`  ·  🗃️ has a v1 lesson to mine
+- **Day 19** — Context engineering I — what earns a place in the window `(AG-08, AG-09)`  ·  🗃️ has a v1 lesson to mine
+- **Day 20** — Context engineering II — compaction & summarization `(AG-10, ADK-22)`  ·  🗃️ has a v1 lesson to mine
+- **Day 21** — Error handling — surface, don't swallow (trap #4) `(ADK-23, SEC-02)`  ·  🗃️ has a v1 lesson to mine
+- **Day 22** — Structured logging — every turn tells its story `(OPS-04)`  ·  🗃️ has a v1 lesson to mine
 

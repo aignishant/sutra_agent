@@ -1,6 +1,6 @@
 # 📇 Curriculum index — Project Sutra
 
-_Generated 2026-08-26 by `scripts/trace.py` from the master plan's §14._
+_Generated 2026-08-27 by `scripts/trace.py` from the master plan's §14._
 **Do not edit by hand.**
 
 §14 answers *what does day 43 teach?* This file answers the reverse — *where do I learn
@@ -16,7 +16,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-03` | [3](../days/day-03-loop-hand-rolled/LESSON.md) | The loop: think→act→observe, hand-rolled (no framework) |
 | `AG-04` | [4](../days/day-04-tools-by-hand/LESSON.md) | Tools by hand — function calling, JSON schemas, the tool-result turn |
 | `AG-05` | [6](../days/day-06-instructions-and-personas/LESSON.md) | Instructions & personas; the `adk web` dev UI |
-| `AG-06` | [11](../days/day-11/LESSON.md) | Tool context & state in tools; tool design principles |
+| `AG-06` | [11](../days/day-11-tool-context/LESSON.md) | Tool context & state in tools; tool design principles |
 | `AG-07` | [16](../days/day-16/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `AG-08` | [19](../days/day-19/LESSON.md) | Context engineering I — what earns a place in the window |
 | `AG-09` | [19](../days/day-19/LESSON.md) | Context engineering I — what earns a place in the window |
@@ -53,16 +53,16 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-01` | [5](../days/day-05-first-adk-agent/LESSON.md) | First ADK agent — install `google-adk`, `Agent` + runner, pin `gemini-3.5-flash` explic… |
 | `ADK-02` | [5](../days/day-05-first-adk-agent/LESSON.md) | First ADK agent — install `google-adk`, `Agent` + runner, pin `gemini-3.5-flash` explic… |
 | `ADK-03` | [6](../days/day-06-instructions-and-personas/LESSON.md) | Instructions & personas; the `adk web` dev UI |
-| `ADK-04` | [7](../days/day-07/LESSON.md) | Events & streaming — the 2.x event model (traps #2 and #3) |
-| `ADK-05` | [7](../days/day-07/LESSON.md) | Events & streaming — the 2.x event model (traps #2 and #3) |
-| `ADK-06` | [8](../days/day-08/LESSON.md) | Sessions, runs & in-memory services |
-| `ADK-07` | [8](../days/day-08/LESSON.md) | Sessions, runs & in-memory services |
-| `ADK-08` | [9](../days/day-09/LESSON.md) | Same agent, four free providers — Gemini ↔ Groq ↔ OpenRouter `:free` ↔ Ollama via LiteL… |
-| `ADK-09` | [9](../days/day-09/LESSON.md) | Same agent, four free providers — Gemini ↔ Groq ↔ OpenRouter `:free` ↔ Ollama via LiteL… |
-| `ADK-10` | [10](../days/day-10/LESSON.md) | Function tools in ADK — from Day 4's hand-rolled version to `FunctionTool` |
-| `ADK-11` | [10](../days/day-10/LESSON.md) | Function tools in ADK — from Day 4's hand-rolled version to `FunctionTool` |
-| `ADK-12` | [11](../days/day-11/LESSON.md) | Tool context & state in tools; tool design principles |
-| `ADK-13` | [12](../days/day-12/LESSON.md) | Structured output — schemas on the way out |
+| `ADK-04` | [7](../days/day-07-events-and-streaming/LESSON.md) | Events & streaming — the 2.x event model (traps #2 and #3) |
+| `ADK-05` | [7](../days/day-07-events-and-streaming/LESSON.md) | Events & streaming — the 2.x event model (traps #2 and #3) |
+| `ADK-06` | [8](../days/day-08-sessions-and-services/LESSON.md) | Sessions, runs & in-memory services |
+| `ADK-07` | [8](../days/day-08-sessions-and-services/LESSON.md) | Sessions, runs & in-memory services |
+| `ADK-08` | [9](../days/day-09-four-free-providers/LESSON.md) | Same agent, four free providers — Gemini ↔ Groq ↔ OpenRouter `:free` ↔ Ollama via LiteL… |
+| `ADK-09` | [9](../days/day-09-four-free-providers/LESSON.md) | Same agent, four free providers — Gemini ↔ Groq ↔ OpenRouter `:free` ↔ Ollama via LiteL… |
+| `ADK-10` | [10](../days/day-10-function-tools/LESSON.md) | Function tools in ADK — from Day 4's hand-rolled version to `FunctionTool` |
+| `ADK-11` | [10](../days/day-10-function-tools/LESSON.md) | Function tools in ADK — from Day 4's hand-rolled version to `FunctionTool` |
+| `ADK-12` | [11](../days/day-11-tool-context/LESSON.md) | Tool context & state in tools; tool design principles |
+| `ADK-13` | [12](../days/day-12-structured-output/LESSON.md) | Structured output — schemas on the way out |
 | `ADK-14` | [13](../days/day-13/LESSON.md) | Callbacks — before/after model & tool |
 | `ADK-15` | [13](../days/day-13/LESSON.md) | Callbacks — before/after model & tool |
 | `ADK-16` | [14](../days/day-14/LESSON.md) | Plugins — cross-cutting behavior |
