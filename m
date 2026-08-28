@@ -61,6 +61,15 @@ case "${1:-help}" in
     uv run python scripts/tracker.py
     ;;
 
+  wiki)
+    uv run python scripts/wiki.py
+    ;;
+
+  brief)
+    [ -z "$DAY" ] && { echo "usage: ./m brief <day>"; exit 1; }
+    uv run python scripts/brief.py "$DAY"
+    ;;
+
   status)
     uv run python scripts/tracker.py --summary
     ;;
@@ -73,6 +82,7 @@ case "${1:-help}" in
     uv run python -m pytest -q -m "not live" || [ $? -eq 5 ]
     uv run python scripts/depth_check.py
     uv run python scripts/trace.py
+    uv run python scripts/wiki.py
     echo "OK all green"
     ;;
 
@@ -98,11 +108,13 @@ usage: ./m <command> [day]
   status         one line: how many days are written / complete
   tracker        regenerate docs/TRACKER.md
   trace          regenerate docs/TRACEABILITY.md from the day hubs vs plan §14
+  wiki           regenerate docs/WIKI.md + docs/wiki/ - the compact index over days/
+  brief N        what day N must close, the phase gate, and whether N is allowed yet
   start N        point at day N's hub and list its parts/
   parts N        list day N's sub-topic documents
   depth [N]      check day N (or every written day) against plan §17, the depth contract
   scaffold N     create days/day-NN-<slug>/lab/
-  check          ruff + ruff format + offline pytest + depth contract + traceability
+  check          ruff + ruff format + offline pytest + depth contract + traceability + wiki
   done N         refuse unless the checklist is ticked and checks are green, then commit
 USAGE
     ;;

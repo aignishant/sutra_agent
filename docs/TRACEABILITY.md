@@ -1,5 +1,5 @@
 # Traceability (regenerated; do not edit by hand)
-_Generated 2026-08-27 by scripts/trace.py_
+_Generated 2026-08-29 by scripts/trace.py_
 
 Plan §14 assigns each ID to exactly one day. An ID counts as **closed** only when that
 day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
@@ -19,17 +19,17 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | ADK-73 | 1 | 5 | ✅ closed day 5 |
 | ADK-03 | 1 | 6 | ✅ closed day 6 |
 | AG-05 | 1 | 6 | ✅ closed day 6 |
-| ADK-04 | 1 | 7 | ⬜ open |
-| ADK-05 | 1 | 7 | ⬜ open |
-| ADK-06 | 1 | 8 | ⬜ open |
-| ADK-07 | 1 | 8 | ⬜ open |
-| ADK-08 | 2 | 9 | ⬜ open |
-| ADK-09 | 2 | 9 | ⬜ open |
-| ADK-10 | 2 | 10 | ⬜ open |
-| ADK-11 | 2 | 10 | ⬜ open |
-| ADK-12 | 2 | 11 | ⬜ open |
-| AG-06 | 2 | 11 | ⬜ open |
-| ADK-13 | 2 | 12 | ⬜ open |
+| ADK-04 | 1 | 7 | ✅ closed day 7 |
+| ADK-05 | 1 | 7 | ✅ closed day 7 |
+| ADK-06 | 1 | 8 | ✅ closed day 8 |
+| ADK-07 | 1 | 8 | ✅ closed day 8 |
+| ADK-08 | 2 | 9 | ✅ closed day 9 |
+| ADK-09 | 2 | 9 | ✅ closed day 9 |
+| ADK-10 | 2 | 10 | ✅ closed day 10 |
+| ADK-11 | 2 | 10 | ✅ closed day 10 |
+| ADK-12 | 2 | 11 | ✅ closed day 11 |
+| AG-06 | 2 | 11 | ✅ closed day 11 |
+| ADK-13 | 2 | 12 | ✅ closed day 12 |
 | ADK-14 | 2 | 13 | ⬜ open |
 | ADK-15 | 2 | 13 | ⬜ open |
 | ADK-16 | 2 | 14 | ⬜ open |
@@ -207,4 +207,4 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | ADK-72 | 14 | 91 | ⬜ open |
 | SEC-16 | 14 | 92 | ⬜ open |
 
-**12 / 199 IDs closed.**
+**23 / 199 IDs closed.**

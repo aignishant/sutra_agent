@@ -8,13 +8,29 @@ Progress is `docs/PROGRESS.md` (the last row is where we are) and `docs/TRACKER.
 Traceability is `docs/TRACEABILITY.md` (generated). Amendments are logged in
 `docs/CHANGELOG_PLAN.md`.
 
-**Read in this order before doing anything:**
+**Read in this order — how far down the list you go depends on what you are doing.**
 
-1. `docs/00_MASTER_PLAN.md` — the contract. Never contradict it. **§17 is the depth contract; read
-   it before writing a single line of any day.**
-2. `docs/PROGRESS.md` — the last row is where we actually are.
-3. `docs/TRACEABILITY.md` — any open ID from a completed phase is a bug.
-4. `days/day-<last>-<slug>/LESSON.md` and its `CHECKLIST.md` — how the previous day ended.
+*Always, before anything:*
+
+1. `./m brief N` — day N's assignment, the phase gate, any ID that should already be closed, and
+   whether N is allowed yet. One command; it replaces reading plan §14, `docs/PROGRESS.md` and
+   `docs/TRACEABILITY.md` when that is all you need. It exits non-zero if N is out of order.
+2. `docs/WIKI.md` — one row per day. For what an earlier day taught, open `docs/wiki/day-NN.md`.
+   For "which day taught X?" or "is this paper already taught?", `docs/wiki/ENTITIES.md`.
+
+*Additionally, in full, before writing or amending a day:*
+
+3. `docs/00_MASTER_PLAN.md` — the contract. Never contradict it. **§17 is the depth contract; read
+   it in full before writing a single line of any day.** §17 is never summarised, never skimmed and
+   never replaced by the wiki: it carries the judgement no checker can make for you — the one-idea
+   test, the standalone test, and whether a story is one the reader has plausibly lived.
+4. Both addenda (see **Precedence** below), in full.
+5. `days/day-<last>-<slug>/LESSON.md` and its `CHECKLIST.md` — how the previous day ended.
+
+**The wiki and the brief are generated indexes over the days, never a substitute for them.** Every
+line in them is copied from a source file; nothing in them is written by a model. If an index ever
+disagrees with the day it indexes, **the day is right and the index is stale** — run `./m wiki`.
+Read a day's `parts/` when you need the teaching; read its wiki page when you need the address.
 
 **Precedence.** `docs/02_ADDENDUM_ZERO_BUDGET_MODELS.md` wins over the plan on model choice and
 paid services. `docs/01_MASTER_PLAN_ADDENDUM_GAPS.md` wins on MCP and the ADK 2.2–2.6 deltas.
@@ -183,7 +199,9 @@ Use the skill: `/day-sutra N`. It is at `.claude/skills/day-sutra/SKILL.md` and 
 # type check               → TODO(not adopted yet; decide at the Day 31 quality gate, OPS-08)
 # depth contract           → ./m depth [N]
 # traceability             → ./m trace
-# whole-project gate       → ./m check      (ruff + format + pytest + depth + trace)
+# the day-N brief          → ./m brief N    (assignment + phase gate + the N-is-next guard)
+# the compact day index    → ./m wiki       (docs/WIKI.md + docs/wiki/; --check verifies staleness)
+# whole-project gate       → ./m check      (ruff + format + pytest + depth + trace + wiki)
 # finish a day             → ./m done N     (refuses on an unticked checklist)
 ```
 
