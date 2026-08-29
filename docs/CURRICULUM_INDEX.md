@@ -63,8 +63,8 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-11` | [10](../days/day-10-function-tools/LESSON.md) | Function tools in ADK — from Day 4's hand-rolled version to `FunctionTool` |
 | `ADK-12` | [11](../days/day-11-tool-context/LESSON.md) | Tool context & state in tools; tool design principles |
 | `ADK-13` | [12](../days/day-12-structured-output/LESSON.md) | Structured output — schemas on the way out |
-| `ADK-14` | [13](../days/day-13/LESSON.md) | Callbacks — before/after model & tool |
-| `ADK-15` | [13](../days/day-13/LESSON.md) | Callbacks — before/after model & tool |
+| `ADK-14` | [13](../days/day-13-callbacks-four-doors/LESSON.md) | Callbacks — before/after model & tool |
+| `ADK-15` | [13](../days/day-13-callbacks-four-doors/LESSON.md) | Callbacks — before/after model & tool |
 | `ADK-16` | [14](../days/day-14/LESSON.md) | Plugins — cross-cutting behavior |
 | `ADK-17` | [15](../days/day-15/LESSON.md) | Toolsets, OpenAPI & third-party tool wrappers |
 | `ADK-18` | [16](../days/day-16/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
