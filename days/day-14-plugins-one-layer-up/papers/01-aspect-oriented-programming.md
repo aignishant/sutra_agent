@@ -297,6 +297,20 @@ WEAVE=1 uv run python desk.py
 WEAVE=0 uv run python desk.py
 ```
 
+**Line by line:**
+
+- `cd` into the demo's own directory first, because `desk.py` does `import concern` and that resolves
+  against the working directory. The demo is deliberately two plain files with no packaging — a
+  `pyproject.toml` here would be a file you could delete and still have the claim land.
+- `WEAVE=1` is written out even though `concern.py` defaults to `"1"`. The two commands then differ by
+  exactly one character, which is what makes the pair readable as an experiment rather than as two
+  unrelated invocations.
+- The same script, twice, in the same shell — **not** two scripts, and not one script with an `if`
+  around the business logic. If the second run used different components, the comparison would prove
+  nothing about where the audit records came from.
+- Running `WEAVE=1` **first** is the order that shows the feature before it shows the absence. Reverse
+  it and the second run looks like an addition rather than the removal of an ablation.
+
 ```text
 WEAVE=1
   ticket for acme

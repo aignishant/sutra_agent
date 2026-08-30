@@ -35,3 +35,4 @@ can be found in prose without guessing where it ends.
 | RouteLLM: Learning to Route LLMs with Preference Data | arXiv:2406.18665 | 2024 | 2026-08-26 | 9 | `days/day-09-four-free-providers/papers/01-routellm.md` |
 | FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance | arXiv:2305.05176 | 2023 | 2026-08-26 | 9 | *(not taught — named in `papers/01-routellm.md` as the cascade the router is contrasted with)* |
 | Efficient Guided Generation for Large Language Models | arXiv:2307.09702 | 2023 | 2026-08-27 | 12 | `days/day-12-structured-output/papers/01-guided-generation.md` |
+| Aspect-oriented programming | doi:10.1007/BFb0053381 | 1997 | 2026-08-30 | 14 | `days/day-14-plugins-one-layer-up/papers/01-aspect-oriented-programming.md` |

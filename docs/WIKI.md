@@ -19,3 +19,4 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [11](wiki/day-11.md) | Tool context and tool design — the parameter the model never sees | ADK-12, AG-06 | 16 | - |
 | [12](wiki/day-12.md) | Structured output — a shape on the way out | ADK-13 | 16 | arXiv:2307.09702 |
 | [13](wiki/day-13.md) | Callbacks — four doors and one rule | ADK-14, ADK-15 | 19 | - |
+| [14](wiki/day-14.md) | Plugins — one layer up | ADK-16 | 19 | doi:10.1007/BFb0053381 |

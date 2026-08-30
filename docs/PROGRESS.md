@@ -22,6 +22,7 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 | 10 | 2026-08-27 | ADK-10, ADK-11 | 16 | 5c85364 | ✅ |
 | 11 | 2026-08-27 | ADK-12, AG-06 | 16 | 5c85364 | ✅ |
 | 12 | 2026-08-27 | ADK-13 | 16 (+1 paper) | 5c85364 | ✅ |
+| 13 | 2026-08-29 | ADK-14, ADK-15 | 19 | ab9e5a1 | ✅ |
 
 > **Deviation from Principle 2, recorded rather than hidden.** Days 7–12 were written and committed
 > together in `5c85364` (2026-08-27) instead of one commit per day, and their rows were not appended
@@ -30,3 +31,13 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 > counts were re-counted from the tree and the IDs read from each hub's frontmatter. The gate was
 > re-run over all six before the `✅` column was written. The history was **not** rewritten to make
 > the commits look compliant — the ledger records what happened.
+
+> **Day 13, same shape, recorded the same way.** Day 13 was written and committed inside `ab9e5a1`
+> (2026-08-29) — a commit that also carried an unfinished Day 14 — and its row was not appended at the
+> time. The row above was reconstructed on 2026-08-30 from the hub's own §11 template, with
+> `<date>`/`<hash>` filled from `git log --diff-filter=A -- days/day-13-callbacks-four-doors`, the part
+> count re-counted from the tree and the IDs read from the hub's frontmatter. `./m depth 13` was
+> re-run green before the `✅` was written. **Day 14 has no row yet on purpose**: its `parts/` and
+> `papers/` landed in `ab9e5a1` without a hub or a checklist, those were written on 2026-08-30, and the
+> row is pasted when the commit that finishes the day exists and its hash can be observed rather than
+> guessed (Principle 7).

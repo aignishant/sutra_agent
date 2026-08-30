@@ -1,6 +1,6 @@
 # 📇 Curriculum index — Project Sutra
 
-_Generated 2026-08-29 by `scripts/trace.py` from the master plan's §14._
+_Generated 2026-08-30 by `scripts/trace.py` from the master plan's §14._
 **Do not edit by hand.**
 
 §14 answers *what does day 43 teach?* This file answers the reverse — *where do I learn
@@ -65,7 +65,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-13` | [12](../days/day-12-structured-output/LESSON.md) | Structured output — schemas on the way out |
 | `ADK-14` | [13](../days/day-13-callbacks-four-doors/LESSON.md) | Callbacks — before/after model & tool |
 | `ADK-15` | [13](../days/day-13-callbacks-four-doors/LESSON.md) | Callbacks — before/after model & tool |
-| `ADK-16` | [14](../days/day-14/LESSON.md) | Plugins — cross-cutting behavior |
+| `ADK-16` | [14](../days/day-14-plugins-one-layer-up/LESSON.md) | Plugins — cross-cutting behavior |
 | `ADK-17` | [15](../days/day-15/LESSON.md) | Toolsets, OpenAPI & third-party tool wrappers |
 | `ADK-18` | [16](../days/day-16/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `ADK-19` | [17](../days/day-17/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |
