@@ -36,3 +36,4 @@ can be found in prose without guessing where it ends.
 | FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance | arXiv:2305.05176 | 2023 | 2026-08-26 | 9 | *(not taught — named in `papers/01-routellm.md` as the cascade the router is contrasted with)* |
 | Efficient Guided Generation for Large Language Models | arXiv:2307.09702 | 2023 | 2026-08-27 | 12 | `days/day-12-structured-output/papers/01-guided-generation.md` |
 | Aspect-oriented programming | doi:10.1007/BFb0053381 | 1997 | 2026-08-30 | 14 | `days/day-14-plugins-one-layer-up/papers/01-aspect-oriented-programming.md` |
+| Implementing remote procedure calls | doi:10.1145/2080.357392 | 1984 | 2026-08-30 | 15 | `days/day-15-toolsets-and-openapi/papers/01-implementing-remote-procedure-calls.md` |

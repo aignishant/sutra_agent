@@ -20,6 +20,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-14** - 13 parts: [13/1.1](day-13.md), [13/1.2](day-13.md), [13/1.3](day-13.md), [13/1.4](day-13.md), [13/2.1](day-13.md), [13/2.2](day-13.md), [13/2.3](day-13.md), [13/2.4](day-13.md), [13/2.5](day-13.md), [13/3.4](day-13.md), [13/4.2](day-13.md), [13/6.1](day-13.md), [13/6.2](day-13.md)
 - **ADK-15** - 14 parts: [13/1.1](day-13.md), [13/1.2](day-13.md), [13/1.3](day-13.md), [13/1.4](day-13.md), [13/3.1](day-13.md), [13/3.2](day-13.md), [13/3.3](day-13.md), [13/3.4](day-13.md), [13/4.1](day-13.md), [13/4.2](day-13.md), [13/4.3](day-13.md), [13/5.1](day-13.md), [13/6.1](day-13.md), [13/6.2](day-13.md)
 - **ADK-16** - 19 parts: [14/1.1](day-14.md), [14/1.2](day-14.md), [14/1.3](day-14.md), [14/2.1](day-14.md), [14/2.2](day-14.md), [14/2.3](day-14.md), [14/2.4](day-14.md), [14/3.1](day-14.md), [14/3.2](day-14.md), [14/3.3](day-14.md), [14/4.1](day-14.md), [14/4.2](day-14.md), [14/4.3](day-14.md), [14/5.1](day-14.md), [14/5.2](day-14.md), [14/6.1](day-14.md), [14/7.1](day-14.md), [14/7.2](day-14.md), [14/7.3](day-14.md)
+- **ADK-17** - 19 parts: [15/1.1](day-15.md), [15/1.2](day-15.md), [15/1.3](day-15.md), [15/2.1](day-15.md), [15/2.2](day-15.md), [15/2.3](day-15.md), [15/3.1](day-15.md), [15/3.2](day-15.md), [15/4.1](day-15.md), [15/4.2](day-15.md), [15/4.3](day-15.md), [15/4.4](day-15.md), [15/4.5](day-15.md), [15/5.1](day-15.md), [15/5.2](day-15.md), [15/6.1](day-15.md), [15/7.1](day-15.md), [15/7.2](day-15.md), [15/7.3](day-15.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **AG-01** - 4 parts: [01/1.1](day-01.md), [01/1.2](day-01.md), [01/1.3](day-01.md), [01/1.4](day-01.md)
 - **AG-02** - 16 parts: [02/1.1](day-02.md), [02/1.2](day-02.md), [02/1.3](day-02.md), [02/1.4](day-02.md), [02/1.5](day-02.md), [02/2.1](day-02.md), [02/2.2](day-02.md), [02/2.3](day-02.md), [02/3.1](day-02.md), [02/3.2](day-02.md), [02/3.3](day-02.md), [02/4.1](day-02.md), [02/4.2](day-02.md), [02/4.3](day-02.md), [02/5.1](day-02.md), [02/6.1](day-02.md)
@@ -55,3 +56,5 @@ A paper is taught once in the whole curriculum.
   - taught in day 14; cited by 14/1.1
 - **doi:10.1017/S0269888900008122** - Intelligent agents: theory and practice — where the word came from
   - taught in day 01; cited by 01/1.1, 01/1.2
+- **doi:10.1145/2080.357392** - Implementing remote procedure calls
+  - taught in day 15; cited by 15/4.1, 15/4.2

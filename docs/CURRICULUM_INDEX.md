@@ -66,7 +66,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-14` | [13](../days/day-13-callbacks-four-doors/LESSON.md) | Callbacks — before/after model & tool |
 | `ADK-15` | [13](../days/day-13-callbacks-four-doors/LESSON.md) | Callbacks — before/after model & tool |
 | `ADK-16` | [14](../days/day-14-plugins-one-layer-up/LESSON.md) | Plugins — cross-cutting behavior |
-| `ADK-17` | [15](../days/day-15/LESSON.md) | Toolsets, OpenAPI & third-party tool wrappers |
+| `ADK-17` | [15](../days/day-15-toolsets-and-openapi/LESSON.md) | Toolsets, OpenAPI & third-party tool wrappers |
 | `ADK-18` | [16](../days/day-16/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `ADK-19` | [17](../days/day-17/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |
 | `ADK-20` | [17](../days/day-17/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |

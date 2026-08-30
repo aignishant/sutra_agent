@@ -1,7 +1,7 @@
 ---
 name: tracker
 plan: sutra
-generated: "2026-08-27"
+generated: "2026-08-30"
 generator: scripts/tracker.py
 ---
 
@@ -15,17 +15,17 @@ generator: scripts/tracker.py
 
 | | Count | Of total |
 |---|---|---|
-| 📄 Days written in the hub + parts/ shape | **13** | 13.4% |
-| 📚 Sub-topic documents in `parts/` | **208** | — |
+| 📄 Days written in the hub + parts/ shape | **16** | 16.5% |
+| 📚 Sub-topic documents in `parts/` | **265** | — |
 | ✅ Days completed (checklist fully ticked) | **5** | 5.2% |
-| 🗃️ Legacy days awaiting regeneration | **84** | 86.6% |
+| 🗃️ Legacy days awaiting regeneration | **81** | 83.5% |
 | ⬜ Never written | **0** | 0.0% |
 | Total days in plan | 97 | (Day 0 + Days 1–96) |
 
 ```
-written  █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13/97
+written  ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  16/97
 complete ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5/97
-legacy   ███████████████████████████████████░░░░░  84/97
+legacy   █████████████████████████████████░░░░░░░  81/97
 ```
 
 **Legend:** ✅ done (checklist fully ticked) · 📄 written (hub + `parts/` + checklist) · ⚠️ no checklist · 🗃️ legacy (v1 lesson only, needs regenerating) · ⬜ pending
@@ -36,7 +36,7 @@ legacy   ███████████████████████�
 |---|---|---|---|---|---|
 | 0 | Foundry | 0 | 1/1 | 17 | 1/1 |
 | 1 | Foundations | 1–8 | 8/8 | 127 | 4/8 |
-| 2 | Models & tools | 9–16 | 4/8 | 64 | 0/8 |
+| 2 | Models & tools | 9–16 | 7/8 | 121 | 0/8 |
 | 3 | State, context & discipline | 17–24 | 0/8 | 0 | 0/8 |
 | 4 | Agent Skills | 25–31 | 0/7 | 0 | 0/7 |
 | 5 | MCP I: the protocol | 32–38 | 0/7 | 0 | 0/7 |
@@ -80,9 +80,9 @@ legacy   ███████████████████████�
 | 10 | Function tools in ADK — from Day 4's hand-rolled version to `FunctionTool` | ADK-10, ADK-11 | 📄 written | 16 | 83 |
 | 11 | Tool context & state in tools; tool design principles | ADK-12, AG-06 | 📄 written | 16 | 104 |
 | 12 | Structured output — schemas on the way out | ADK-13 | 📄 written | 16 | 90 |
-| 13 | Callbacks — before/after model & tool | ADK-14, ADK-15 | 🗃️ legacy | — | — |
-| 14 | Plugins — cross-cutting behavior | ADK-16 | 🗃️ legacy | — | — |
-| 15 | Toolsets, OpenAPI & third-party tool wrappers | ADK-17 | 🗃️ legacy | — | — |
+| 13 | Callbacks — before/after model & tool | ADK-14, ADK-15 | 📄 written | 19 | 105 |
+| 14 | Plugins — cross-cutting behavior | ADK-16 | 📄 written | 19 | 104 |
+| 15 | Toolsets, OpenAPI & third-party tool wrappers | ADK-17 | 📄 written | 19 | 114 |
 | 16 | Built-in tools with brakes — search grounding (free-allowance check + open-… | ADK-18, AG-07, AG-32, SEC-01 | 🗃️ legacy | — | — |
 
 ### Phase 3 — State, context & discipline (Days 17–24)
@@ -234,9 +234,6 @@ legacy   ███████████████████████�
 
 The next ten days to write, in order:
 
-- **Day 13** — Callbacks — before/after model & tool `(ADK-14, ADK-15)`  ·  🗃️ has a v1 lesson to mine
-- **Day 14** — Plugins — cross-cutting behavior `(ADK-16)`  ·  🗃️ has a v1 lesson to mine
-- **Day 15** — Toolsets, OpenAPI & third-party tool wrappers `(ADK-17)`  ·  🗃️ has a v1 lesson to mine
 - **Day 16** — Built-in tools with brakes — search grounding (free-allowance check + open-source search-MCP fallback per Addendum 02) + code execution; grounding vs retrieval; sandboxing concept `(ADK-18, AG-07, AG-32, SEC-01)`  ·  🗃️ has a v1 lesson to mine
 - **Day 17** — Session state deep dive — prefixes, scopes, lifetimes `(ADK-19, ADK-20)`  ·  🗃️ has a v1 lesson to mine
 - **Day 18** — Artifacts — files that survive turns `(ADK-21)`  ·  🗃️ has a v1 lesson to mine
@@ -244,4 +241,7 @@ The next ten days to write, in order:
 - **Day 20** — Context engineering II — compaction & summarization `(AG-10, ADK-22)`  ·  🗃️ has a v1 lesson to mine
 - **Day 21** — Error handling — surface, don't swallow (trap #4) `(ADK-23, SEC-02)`  ·  🗃️ has a v1 lesson to mine
 - **Day 22** — Structured logging — every turn tells its story `(OPS-04)`  ·  🗃️ has a v1 lesson to mine
+- **Day 23** — Testing agents I — unit tests for tools & callbacks `(OPS-05, OPS-06)`  ·  🗃️ has a v1 lesson to mine
+- **Day 24** — Token accounting & budgets — denominated in quota (RPM/RPD), not dollars `(OPS-07, AG-11)`  ·  🗃️ has a v1 lesson to mine
+- **Day 25** — Skills: the open spec — `SKILL.md` anatomy `(SK-01, SK-02, SK-03)`  ·  🗃️ has a v1 lesson to mine
 

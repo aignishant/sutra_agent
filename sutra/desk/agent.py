@@ -59,6 +59,12 @@ and I'll triage it.
 root_agent = LlmAgent(
     name="sutra_desk",
     model="gemini-3.7-flash",
-    description="Triages customer support tickets against a known-issue knowledge base.",
+    description=(
+        "Triages incoming customer support tickets: explains what a ticket is "
+        "about, proposes a likely cause as a hypothesis, and recommends a "
+        "priority. Works only from ticket text supplied in the request. Does "
+        "not look anything up, and does not handle refunds, billing or account "
+        "changes."
+    ),
     instruction=INSTRUCTION,
 )
