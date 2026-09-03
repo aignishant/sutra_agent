@@ -1,7 +1,7 @@
 ---
 name: tracker
 plan: sutra
-generated: "2026-08-30"
+generated: "2026-09-04"
 generator: scripts/tracker.py
 ---
 
@@ -15,17 +15,17 @@ generator: scripts/tracker.py
 
 | | Count | Of total |
 |---|---|---|
-| 📄 Days written in the hub + parts/ shape | **16** | 16.5% |
-| 📚 Sub-topic documents in `parts/` | **265** | — |
+| 📄 Days written in the hub + parts/ shape | **26** | 26.8% |
+| 📚 Sub-topic documents in `parts/` | **425** | — |
 | ✅ Days completed (checklist fully ticked) | **5** | 5.2% |
-| 🗃️ Legacy days awaiting regeneration | **81** | 83.5% |
+| 🗃️ Legacy days awaiting regeneration | **71** | 73.2% |
 | ⬜ Never written | **0** | 0.0% |
 | Total days in plan | 97 | (Day 0 + Days 1–96) |
 
 ```
-written  ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  16/97
+written  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  26/97
 complete ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5/97
-legacy   █████████████████████████████████░░░░░░░  81/97
+legacy   █████████████████████████████░░░░░░░░░░░  71/97
 ```
 
 **Legend:** ✅ done (checklist fully ticked) · 📄 written (hub + `parts/` + checklist) · ⚠️ no checklist · 🗃️ legacy (v1 lesson only, needs regenerating) · ⬜ pending
@@ -36,9 +36,9 @@ legacy   ███████████████████████�
 |---|---|---|---|---|---|
 | 0 | Foundry | 0 | 1/1 | 17 | 1/1 |
 | 1 | Foundations | 1–8 | 8/8 | 127 | 4/8 |
-| 2 | Models & tools | 9–16 | 7/8 | 121 | 0/8 |
-| 3 | State, context & discipline | 17–24 | 0/8 | 0 | 0/8 |
-| 4 | Agent Skills | 25–31 | 0/7 | 0 | 0/7 |
+| 2 | Models & tools | 9–16 | 8/8 | 145 | 0/8 |
+| 3 | State, context & discipline | 17–24 | 8/8 | 122 | 0/8 |
+| 4 | Agent Skills | 25–31 | 1/7 | 14 | 0/7 |
 | 5 | MCP I: the protocol | 32–38 | 0/7 | 0 | 0/7 |
 | 6 | MCP II: production | 39–45 | 0/7 | 0 | 0/7 |
 | 7 | Memory & retrieval | 46–52 | 0/7 | 0 | 0/7 |
@@ -83,26 +83,26 @@ legacy   ███████████████████████�
 | 13 | Callbacks — before/after model & tool | ADK-14, ADK-15 | 📄 written | 19 | 105 |
 | 14 | Plugins — cross-cutting behavior | ADK-16 | 📄 written | 19 | 104 |
 | 15 | Toolsets, OpenAPI & third-party tool wrappers | ADK-17 | 📄 written | 19 | 114 |
-| 16 | Built-in tools with brakes — search grounding (free-allowance check + open-… | ADK-18, AG-07, AG-32, SEC-01 | 🗃️ legacy | — | — |
+| 16 | Built-in tools with brakes — search grounding (free-allowance check + open-… | ADK-18, AG-07, AG-32, SEC-01 | 📄 written | 24 | 90 |
 
 ### Phase 3 — State, context & discipline (Days 17–24)
 
 | Day | Title | IDs | Status | Parts | Open boxes |
 |---|---|---|---|---|---|
-| 17 | Session state deep dive — prefixes, scopes, lifetimes | ADK-19, ADK-20 | 🗃️ legacy | — | — |
-| 18 | Artifacts — files that survive turns | ADK-21 | 🗃️ legacy | — | — |
-| 19 | Context engineering I — what earns a place in the window | AG-08, AG-09 | 🗃️ legacy | — | — |
-| 20 | Context engineering II — compaction & summarization | AG-10, ADK-22 | 🗃️ legacy | — | — |
-| 21 | Error handling — surface, don't swallow (trap #4) | ADK-23, SEC-02 | 🗃️ legacy | — | — |
-| 22 | Structured logging — every turn tells its story | OPS-04 | 🗃️ legacy | — | — |
-| 23 | Testing agents I — unit tests for tools & callbacks | OPS-05, OPS-06 | 🗃️ legacy | — | — |
-| 24 | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars | OPS-07, AG-11 | 🗃️ legacy | — | — |
+| 17 | Session state deep dive — prefixes, scopes, lifetimes | ADK-19, ADK-20 | 📄 written | 18 | 70 |
+| 18 | Artifacts — files that survive turns | ADK-21 | 📄 written | 15 | 64 |
+| 19 | Context engineering I — what earns a place in the window | AG-08, AG-09 | 📄 written | 16 | 60 |
+| 20 | Context engineering II — compaction & summarization | AG-10, ADK-22 | 📄 written | 15 | 46 |
+| 21 | Error handling — surface, don't swallow (trap #4) | ADK-23, SEC-02 | 📄 written | 14 | 48 |
+| 22 | Structured logging — every turn tells its story | OPS-04 | 📄 written | 12 | 52 |
+| 23 | Testing agents I — unit tests for tools & callbacks | OPS-05, OPS-06 | 📄 written | 19 | 58 |
+| 24 | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars | OPS-07, AG-11 | 📄 written | 13 | 53 |
 
 ### Phase 4 — Agent Skills (Days 25–31)
 
 | Day | Title | IDs | Status | Parts | Open boxes |
 |---|---|---|---|---|---|
-| 25 | Skills: the open spec — `SKILL.md` anatomy | SK-01, SK-02, SK-03 | 🗃️ legacy | — | — |
+| 25 | Skills: the open spec — `SKILL.md` anatomy | SK-01, SK-02, SK-03 | 📄 written | 14 | 48 |
 | 26 | `SkillToolset` — loading skills into ADK | SK-04, SK-05, ADK-24 | 🗃️ legacy | — | — |
 | 27 | Authoring Sutra's first skills | SK-06, SK-07, SK-08 | 🗃️ legacy | — | — |
 | 28 | Progressive disclosure & skill design | SK-09, SK-10, SK-11 | 🗃️ legacy | — | — |
@@ -234,14 +234,14 @@ legacy   ███████████████████████�
 
 The next ten days to write, in order:
 
-- **Day 16** — Built-in tools with brakes — search grounding (free-allowance check + open-source search-MCP fallback per Addendum 02) + code execution; grounding vs retrieval; sandboxing concept `(ADK-18, AG-07, AG-32, SEC-01)`  ·  🗃️ has a v1 lesson to mine
-- **Day 17** — Session state deep dive — prefixes, scopes, lifetimes `(ADK-19, ADK-20)`  ·  🗃️ has a v1 lesson to mine
-- **Day 18** — Artifacts — files that survive turns `(ADK-21)`  ·  🗃️ has a v1 lesson to mine
-- **Day 19** — Context engineering I — what earns a place in the window `(AG-08, AG-09)`  ·  🗃️ has a v1 lesson to mine
-- **Day 20** — Context engineering II — compaction & summarization `(AG-10, ADK-22)`  ·  🗃️ has a v1 lesson to mine
-- **Day 21** — Error handling — surface, don't swallow (trap #4) `(ADK-23, SEC-02)`  ·  🗃️ has a v1 lesson to mine
-- **Day 22** — Structured logging — every turn tells its story `(OPS-04)`  ·  🗃️ has a v1 lesson to mine
-- **Day 23** — Testing agents I — unit tests for tools & callbacks `(OPS-05, OPS-06)`  ·  🗃️ has a v1 lesson to mine
-- **Day 24** — Token accounting & budgets — denominated in quota (RPM/RPD), not dollars `(OPS-07, AG-11)`  ·  🗃️ has a v1 lesson to mine
-- **Day 25** — Skills: the open spec — `SKILL.md` anatomy `(SK-01, SK-02, SK-03)`  ·  🗃️ has a v1 lesson to mine
+- **Day 26** — `SkillToolset` — loading skills into ADK `(SK-04, SK-05, ADK-24)`  ·  🗃️ has a v1 lesson to mine
+- **Day 27** — Authoring Sutra's first skills `(SK-06, SK-07, SK-08)`  ·  🗃️ has a v1 lesson to mine
+- **Day 28** — Progressive disclosure & skill design `(SK-09, SK-10, SK-11)`  ·  🗃️ has a v1 lesson to mine
+- **Day 29** — Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint `(SK-12, SK-13, SK-14, SK-15, SK-16)`  ·  🗃️ has a v1 lesson to mine
+- **Day 30** — Skill testing & versioning `(SK-17, SK-18, SK-19)`  ·  🗃️ has a v1 lesson to mine
+- **Day 31** — Quality gate — `./m check`: lint, tests, skills lint, `:free`-suffix lint `(SK-20, OPS-08)`  ·  🗃️ has a v1 lesson to mine
+- **Day 32** — MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the phone-call→web reframe `(MCP-01, MCP-26, MCP-32)`  ·  🗃️ has a v1 lesson to mine
+- **Day 33** — The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as 🅿️ legacy reading) `(MCP-02, MCP-03)`  ·  🗃️ has a v1 lesson to mine
+- **Day 34** — Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) `(MCP-04, MCP-05, MCP-06)`  ·  🗃️ has a v1 lesson to mine
+- **Day 35** — Resources & prompts `(MCP-07, MCP-08, MCP-09)`  ·  🗃️ has a v1 lesson to mine
 

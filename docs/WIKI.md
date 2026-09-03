@@ -28,3 +28,6 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [20](wiki/day-20.md) | Context engineering II — compaction & summarization | AG-10, ADK-22 | 15 | arXiv:2310.08560 |
 | [21](wiki/day-21.md) | Error handling — surface, don't swallow | SEC-02, ADK-23 | 14 | doi:10.1145/357401.357402 |
 | [22](wiki/day-22.md) | Structured logging — every turn tells its story | OPS-04 | 12 | doi:10.1145/359545.359563 |
+| [23](wiki/day-23.md) | Testing agents I — unit tests for tools & callbacks | OPS-05, OPS-06 | 19 | doi:10.1145/1028664.1028765 |
+| [24](wiki/day-24.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars | AG-11, OPS-07 | 13 | doi:10.1109/MCOM.1986.1092946 |
+| [25](wiki/day-25.md) | Skills: the open spec — `SKILL.md` anatomy | SK-01, SK-02, SK-03 | 14 | - |

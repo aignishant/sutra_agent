@@ -1,6 +1,6 @@
 # 📇 Curriculum index — Project Sutra
 
-_Generated 2026-09-03 by `scripts/trace.py` from the master plan's §14._
+_Generated 2026-09-04 by `scripts/trace.py` from the master plan's §14._
 **Do not edit by hand.**
 
 §14 answers *what does day 43 teach?* This file answers the reverse — *where do I learn
@@ -21,7 +21,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-08` | [19](../days/day-19-context-engineering-selection/LESSON.md) | Context engineering I — what earns a place in the window |
 | `AG-09` | [19](../days/day-19-context-engineering-selection/LESSON.md) | Context engineering I — what earns a place in the window |
 | `AG-10` | [20](../days/day-20-context-engineering-compaction/LESSON.md) | Context engineering II — compaction & summarization |
-| `AG-11` | [24](../days/day-24/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
+| `AG-11` | [24](../days/day-24-token-accounting-and-budgets/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
 | `AG-12` | [48](../days/day-48/LESSON.md) | Memory design — what to remember, what to forget |
 | `AG-13` | [48](../days/day-48/LESSON.md) | Memory design — what to remember, what to forget |
 | `AG-14` | [50](../days/day-50/LESSON.md) | Chunking, top-k & when RAG is the wrong tool |
@@ -171,9 +171,9 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 
 | ID | Day | Day title |
 | --- | --- | --- |
-| `SK-01` | [25](../days/day-25/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
-| `SK-02` | [25](../days/day-25/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
-| `SK-03` | [25](../days/day-25/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
+| `SK-01` | [25](../days/day-25-skills-the-open-spec/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
+| `SK-02` | [25](../days/day-25-skills-the-open-spec/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
+| `SK-03` | [25](../days/day-25-skills-the-open-spec/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
 | `SK-04` | [26](../days/day-26/LESSON.md) | `SkillToolset` — loading skills into ADK |
 | `SK-05` | [26](../days/day-26/LESSON.md) | `SkillToolset` — loading skills into ADK |
 | `SK-06` | [27](../days/day-27/LESSON.md) | Authoring Sutra's first skills |
@@ -200,9 +200,9 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `OPS-02` | [1](../days/day-01-bootstrap-and-map/LESSON.md) | Bootstrap & the map — repo, `.env`+`.gitignore`, uv+Python 3.12, ledgers & `scripts/tra… |
 | `OPS-03` | [1](../days/day-01-bootstrap-and-map/LESSON.md) | Bootstrap & the map — repo, `.env`+`.gitignore`, uv+Python 3.12, ledgers & `scripts/tra… |
 | `OPS-04` | [22](../days/day-22-structured-logging/LESSON.md) | Structured logging — every turn tells its story |
-| `OPS-05` | [23](../days/day-23/LESSON.md) | Testing agents I — unit tests for tools & callbacks |
-| `OPS-06` | [23](../days/day-23/LESSON.md) | Testing agents I — unit tests for tools & callbacks |
-| `OPS-07` | [24](../days/day-24/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
+| `OPS-05` | [23](../days/day-23-testing-tools-and-callbacks/LESSON.md) | Testing agents I — unit tests for tools & callbacks |
+| `OPS-06` | [23](../days/day-23-testing-tools-and-callbacks/LESSON.md) | Testing agents I — unit tests for tools & callbacks |
+| `OPS-07` | [24](../days/day-24-token-accounting-and-budgets/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
 | `OPS-08` | [31](../days/day-31/LESSON.md) | Quality gate — `./m check`: lint, tests, skills lint, `:free`-suffix lint |
 | `OPS-09` | [45](../days/day-45/LESSON.md) | Phase gate — full MCP audit of sutra-core |
 | `OPS-10` | [51](../days/day-51/LESSON.md) | Caching — context & response caching as the quota lifeline |

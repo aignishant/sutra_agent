@@ -1,5 +1,5 @@
 # Traceability (regenerated; do not edit by hand)
-_Generated 2026-09-03 by scripts/trace.py_
+_Generated 2026-09-04 by scripts/trace.py_
 
 Plan §14 assigns each ID to exactly one day. An ID counts as **closed** only when that
 day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.

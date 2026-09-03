@@ -42,3 +42,5 @@ can be found in prose without guessing where it ends.
 | MemGPT: Towards LLMs as Operating Systems | arXiv:2310.08560 | 2023 | 2026-09-03 | 20 | `days/day-20-context-engineering-compaction/papers/01-memgpt.md` |
 | End-to-end arguments in system design | doi:10.1145/357401.357402 | 1984 | 2026-09-03 | 21 | `days/day-21-errors-surface-not-swallow/papers/01-end-to-end-arguments.md` |
 | Time, clocks, and the ordering of events in a distributed system | doi:10.1145/359545.359563 | 1978 | 2026-09-03 | 22 | `days/day-22-structured-logging/papers/01-time-clocks-ordering.md` |
+| Mock roles, not objects | doi:10.1145/1028664.1028765 | 2004 | 2026-09-04 | 23 | `days/day-23-testing-tools-and-callbacks/papers/01-mock-roles-not-objects.md` |
+| New directions in communications (or which way to the information age?) | doi:10.1109/MCOM.1986.1092946 | 1986 | 2026-09-04 | 24 | `days/day-24-token-accounting-and-budgets/papers/01-the-leaky-bucket.md` |

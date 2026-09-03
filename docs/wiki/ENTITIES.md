@@ -38,13 +38,20 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-08** - 8 parts: [19/1.1](day-19.md), [19/1.2](day-19.md), [19/1.3](day-19.md), [19/4.1](day-19.md), [19/4.2](day-19.md), [19/6.1](day-19.md), [19/6.2](day-19.md), [19/6.3](day-19.md)
 - **AG-09** - 9 parts: [19/2.1](day-19.md), [19/2.2](day-19.md), [19/2.3](day-19.md), [19/2.4](day-19.md), [19/3.1](day-19.md), [19/3.2](day-19.md), [19/3.3](day-19.md), [19/5.1](day-19.md), [19/6.1](day-19.md)
 - **AG-10** - 7 parts: [20/1.1](day-20.md), [20/1.2](day-20.md), [20/1.3](day-20.md), [20/1.4](day-20.md), [20/4.1](day-20.md), [20/4.2](day-20.md), [20/5.1](day-20.md)
+- **AG-11** - 5 parts: [24/1.1](day-24.md), [24/1.2](day-24.md), [24/1.3](day-24.md), [24/2.3](day-24.md), [24/5.2](day-24.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **OPS-01** - 3 parts: [01/2.1](day-01.md), [01/2.2](day-01.md), [01/2.3](day-01.md)
 - **OPS-02** - 4 parts: [01/3.1](day-01.md), [01/3.2](day-01.md), [01/3.3](day-01.md), [01/3.4](day-01.md)
 - **OPS-03** - 3 parts: [01/4.1](day-01.md), [01/4.2](day-01.md), [01/4.3](day-01.md)
 - **OPS-04** - 12 parts: [22/1.1](day-22.md), [22/1.2](day-22.md), [22/1.3](day-22.md), [22/1.4](day-22.md), [22/2.1](day-22.md), [22/2.2](day-22.md), [22/2.3](day-22.md), [22/3.1](day-22.md), [22/3.2](day-22.md), [22/4.1](day-22.md), [22/4.2](day-22.md), [22/4.3](day-22.md)
+- **OPS-05** - 13 parts: [23/1.1](day-23.md), [23/1.2](day-23.md), [23/1.3](day-23.md), [23/1.4](day-23.md), [23/3.1](day-23.md), [23/3.2](day-23.md), [23/3.3](day-23.md), [23/4.1](day-23.md), [23/4.2](day-23.md), [23/4.3](day-23.md), [23/5.1](day-23.md), [23/5.2](day-23.md), [23/6.1](day-23.md)
+- **OPS-06** - 14 parts: [23/2.1](day-23.md), [23/2.2](day-23.md), [23/2.3](day-23.md), [23/2.4](day-23.md), [23/2.5](day-23.md), [23/3.1](day-23.md), [23/3.2](day-23.md), [23/3.3](day-23.md), [23/4.1](day-23.md), [23/4.2](day-23.md), [23/4.3](day-23.md), [23/5.1](day-23.md), [23/5.2](day-23.md), [23/6.2](day-23.md)
+- **OPS-07** - 11 parts: [24/1.3](day-24.md), [24/2.1](day-24.md), [24/2.2](day-24.md), [24/2.3](day-24.md), [24/3.1](day-24.md), [24/3.2](day-24.md), [24/3.3](day-24.md), [24/4.1](day-24.md), [24/4.2](day-24.md), [24/5.1](day-24.md), [24/5.2](day-24.md)
 - **SEC-01** - 4 parts: [16/4.3](day-16.md), [16/6.1](day-16.md), [16/6.3](day-16.md), [16/8.1](day-16.md)
 - **SEC-02** - 8 parts: [21/1.1](day-21.md), [21/1.2](day-21.md), [21/1.3](day-21.md), [21/3.1](day-21.md), [21/3.2](day-21.md), [21/3.3](day-21.md), [21/4.1](day-21.md), [21/5.1](day-21.md)
+- **SK-01** - 3 parts: [25/1.1](day-25.md), [25/1.2](day-25.md), [25/1.3](day-25.md)
+- **SK-02** - 6 parts: [25/2.1](day-25.md), [25/2.2](day-25.md), [25/2.3](day-25.md), [25/2.4](day-25.md), [25/4.1](day-25.md), [25/4.2](day-25.md)
+- **SK-03** - 6 parts: [25/3.1](day-25.md), [25/3.2](day-25.md), [25/3.3](day-25.md), [25/4.1](day-25.md), [25/5.1](day-25.md), [25/5.2](day-25.md)
 
 ## By paper
 
@@ -76,6 +83,10 @@ A paper is taught once in the whole curriculum.
   - taught in day 14; cited by 14/1.1
 - **doi:10.1017/S0269888900008122** - Intelligent agents: theory and practice — where the word came from
   - taught in day 01; cited by 01/1.1, 01/1.2
+- **doi:10.1109/MCOM.1986.1092946** - New directions in communications — the leaky bucket
+  - taught in day 24; cited by no parts
+- **doi:10.1145/1028664.1028765** - Mock roles, not objects
+  - taught in day 23; cited by 23/1.1, 23/1.4
 - **doi:10.1145/2080.357392** - Implementing remote procedure calls
   - taught in day 15; cited by 15/4.1, 15/4.2
 - **doi:10.1145/357401.357402** - End-to-end arguments in system design
