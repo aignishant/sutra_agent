@@ -26,6 +26,7 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 | 14 | 2026-08-30 | ADK-16 | 19 (+1 paper) | 3dc89ec | ✅ |
 | 15 | 2026-08-30 | ADK-17 | 19 (+1 paper) | 4029771 | ✅ |
 | 16 | 2026-09-03 | ADK-18, AG-07, AG-32, SEC-01 | 24 (+1 paper) | 210a3b3 | ✅ |
+| 17 | 2026-09-03 | ADK-19, ADK-20 | 18 | 124b186 | ✅ |
 
 > **Deviation from Principle 2, recorded rather than hidden.** Days 7–12 were written and committed
 > together in `5c85364` (2026-08-27) instead of one commit per day, and their rows were not appended

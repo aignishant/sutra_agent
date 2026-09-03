@@ -23,3 +23,4 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [15](wiki/day-15.md) | Toolsets and OpenAPI — tools you did not write | ADK-17 | 19 | doi:10.1145/2080.357392 |
 | [16](wiki/day-16.md) | Built-in tools with brakes | ADK-18, AG-07, SEC-01, AG-32 | 24 | arXiv:2211.10435 |
 | [17](wiki/day-17.md) | Session state — prefixes, scopes and lifetimes | ADK-19, ADK-20 | 18 | - |
+| [18](wiki/day-18.md) | Artifacts — files that survive turns | ADK-21 | 15 | - |
