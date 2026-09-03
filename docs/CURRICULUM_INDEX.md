@@ -176,9 +176,9 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `SK-03` | [25](../days/day-25-skills-the-open-spec/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
 | `SK-04` | [26](../days/day-26-loading-skills-into-adk/LESSON.md) | `SkillToolset` — loading skills into ADK |
 | `SK-05` | [26](../days/day-26-loading-skills-into-adk/LESSON.md) | `SkillToolset` — loading skills into ADK |
-| `SK-06` | [27](../days/day-27/LESSON.md) | Authoring Sutra's first skills |
-| `SK-07` | [27](../days/day-27/LESSON.md) | Authoring Sutra's first skills |
-| `SK-08` | [27](../days/day-27/LESSON.md) | Authoring Sutra's first skills |
+| `SK-06` | [27](../days/day-27-authoring-first-skills/LESSON.md) | Authoring Sutra's first skills |
+| `SK-07` | [27](../days/day-27-authoring-first-skills/LESSON.md) | Authoring Sutra's first skills |
+| `SK-08` | [27](../days/day-27-authoring-first-skills/LESSON.md) | Authoring Sutra's first skills |
 | `SK-09` | [28](../days/day-28/LESSON.md) | Progressive disclosure & skill design |
 | `SK-10` | [28](../days/day-28/LESSON.md) | Progressive disclosure & skill design |
 | `SK-11` | [28](../days/day-28/LESSON.md) | Progressive disclosure & skill design |

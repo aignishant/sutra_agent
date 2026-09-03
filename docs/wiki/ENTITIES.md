@@ -55,6 +55,9 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **SK-03** - 6 parts: [25/3.1](day-25.md), [25/3.2](day-25.md), [25/3.3](day-25.md), [25/4.1](day-25.md), [25/5.1](day-25.md), [25/5.2](day-25.md)
 - **SK-04** - 5 parts: [26/1.1](day-26.md), [26/1.2](day-26.md), [26/1.3](day-26.md), [26/1.4](day-26.md), [26/4.1](day-26.md)
 - **SK-05** - 7 parts: [26/2.1](day-26.md), [26/2.2](day-26.md), [26/2.3](day-26.md), [26/2.4](day-26.md), [26/2.5](day-26.md), [26/4.3](day-26.md), [26/5.1](day-26.md)
+- **SK-06** - 10 parts: [27/1.1](day-27.md), [27/1.2](day-27.md), [27/1.3](day-27.md), [27/1.4](day-27.md), [27/1.5](day-27.md), [27/1.6](day-27.md), [27/1.7](day-27.md), [27/2.1](day-27.md), [27/2.2](day-27.md), [27/5.2](day-27.md)
+- **SK-07** - 4 parts: [27/3.1](day-27.md), [27/3.2](day-27.md), [27/3.3](day-27.md), [27/5.1](day-27.md)
+- **SK-08** - 5 parts: [27/4.1](day-27.md), [27/4.2](day-27.md), [27/4.3](day-27.md), [27/6.1](day-27.md), [27/6.2](day-27.md)
 
 ## By paper
 
@@ -65,7 +68,7 @@ A paper is taught once in the whole curriculum.
 - **arXiv:1904.09751** - The Curious Case of Neural Text Degeneration — why the most likely word is the wrong word
   - taught in day 02; cited by 02/4.2
 - **arXiv:2201.11903** - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models — the tax you pay for
-  - taught in day 02; cited by 02/2.3
+  - taught in day 02; cited by 02/2.3, 27/1.4
 - **arXiv:2203.02155** - Training language models to follow instructions with human feedback
   - taught in day 06; cited by 06/1.1
 - **arXiv:2210.03629** - ReAct: Synergizing Reasoning and Acting in Language Models — the loop you just built
