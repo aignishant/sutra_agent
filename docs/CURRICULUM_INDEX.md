@@ -20,7 +20,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-07` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `AG-08` | [19](../days/day-19-context-engineering-selection/LESSON.md) | Context engineering I — what earns a place in the window |
 | `AG-09` | [19](../days/day-19-context-engineering-selection/LESSON.md) | Context engineering I — what earns a place in the window |
-| `AG-10` | [20](../days/day-20/LESSON.md) | Context engineering II — compaction & summarization |
+| `AG-10` | [20](../days/day-20-context-engineering-compaction/LESSON.md) | Context engineering II — compaction & summarization |
 | `AG-11` | [24](../days/day-24/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
 | `AG-12` | [48](../days/day-48/LESSON.md) | Memory design — what to remember, what to forget |
 | `AG-13` | [48](../days/day-48/LESSON.md) | Memory design — what to remember, what to forget |
@@ -71,7 +71,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-19` | [17](../days/day-17-state-scopes-and-lifetimes/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |
 | `ADK-20` | [17](../days/day-17-state-scopes-and-lifetimes/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |
 | `ADK-21` | [18](../days/day-18-artifacts-that-survive/LESSON.md) | Artifacts — files that survive turns |
-| `ADK-22` | [20](../days/day-20/LESSON.md) | Context engineering II — compaction & summarization |
+| `ADK-22` | [20](../days/day-20-context-engineering-compaction/LESSON.md) | Context engineering II — compaction & summarization |
 | `ADK-23` | [21](../days/day-21/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
 | `ADK-24` | [26](../days/day-26/LESSON.md) | `SkillToolset` — loading skills into ADK |
 | `ADK-25` | [39](../days/day-39/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |

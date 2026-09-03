@@ -39,3 +39,4 @@ can be found in prose without guessing where it ends.
 | Implementing remote procedure calls | doi:10.1145/2080.357392 | 1984 | 2026-08-30 | 15 | `days/day-15-toolsets-and-openapi/papers/01-implementing-remote-procedure-calls.md` |
 | PAL: Program-aided Language Models | arXiv:2211.10435 | 2022 | 2026-09-03 | 16 | `days/day-16-built-in-tools-with-brakes/papers/01-program-aided-language-models.md` |
 | Lost in the Middle: How Language Models Use Long Contexts | arXiv:2307.03172 | 2023 | 2026-09-03 | 19 | `days/day-19-context-engineering-selection/papers/01-lost-in-the-middle.md` |
+| MemGPT: Towards LLMs as Operating Systems | arXiv:2310.08560 | 2023 | 2026-09-03 | 20 | `days/day-20-context-engineering-compaction/papers/01-memgpt.md` |

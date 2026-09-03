@@ -25,6 +25,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-19** - 13 parts: [17/1.1](day-17.md), [17/1.2](day-17.md), [17/1.3](day-17.md), [17/3.1](day-17.md), [17/3.2](day-17.md), [17/3.3](day-17.md), [17/4.1](day-17.md), [17/4.2](day-17.md), [17/5.1](day-17.md), [17/5.2](day-17.md), [17/6.1](day-17.md), [17/7.1](day-17.md), [17/7.3](day-17.md)
 - **ADK-20** - 6 parts: [17/2.1](day-17.md), [17/2.2](day-17.md), [17/2.3](day-17.md), [17/2.4](day-17.md), [17/7.1](day-17.md), [17/7.2](day-17.md)
 - **ADK-21** - 15 parts: [18/1.1](day-18.md), [18/1.2](day-18.md), [18/1.3](day-18.md), [18/2.1](day-18.md), [18/2.2](day-18.md), [18/2.3](day-18.md), [18/3.1](day-18.md), [18/3.2](day-18.md), [18/4.1](day-18.md), [18/4.2](day-18.md), [18/4.3](day-18.md), [18/5.1](day-18.md), [18/6.1](day-18.md), [18/6.2](day-18.md), [18/6.3](day-18.md)
+- **ADK-22** - 10 parts: [20/2.1](day-20.md), [20/2.2](day-20.md), [20/2.3](day-20.md), [20/2.4](day-20.md), [20/3.1](day-20.md), [20/3.2](day-20.md), [20/3.3](day-20.md), [20/4.1](day-20.md), [20/5.1](day-20.md), [20/5.2](day-20.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **AG-01** - 4 parts: [01/1.1](day-01.md), [01/1.2](day-01.md), [01/1.3](day-01.md), [01/1.4](day-01.md)
 - **AG-02** - 16 parts: [02/1.1](day-02.md), [02/1.2](day-02.md), [02/1.3](day-02.md), [02/1.4](day-02.md), [02/1.5](day-02.md), [02/2.1](day-02.md), [02/2.2](day-02.md), [02/2.3](day-02.md), [02/3.1](day-02.md), [02/3.2](day-02.md), [02/3.3](day-02.md), [02/4.1](day-02.md), [02/4.2](day-02.md), [02/4.3](day-02.md), [02/5.1](day-02.md), [02/6.1](day-02.md)
@@ -35,6 +36,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-07** - 6 parts: [16/4.1](day-16.md), [16/4.2](day-16.md), [16/4.3](day-16.md), [16/4.4](day-16.md), [16/7.1](day-16.md), [16/8.2](day-16.md)
 - **AG-08** - 8 parts: [19/1.1](day-19.md), [19/1.2](day-19.md), [19/1.3](day-19.md), [19/4.1](day-19.md), [19/4.2](day-19.md), [19/6.1](day-19.md), [19/6.2](day-19.md), [19/6.3](day-19.md)
 - **AG-09** - 9 parts: [19/2.1](day-19.md), [19/2.2](day-19.md), [19/2.3](day-19.md), [19/2.4](day-19.md), [19/3.1](day-19.md), [19/3.2](day-19.md), [19/3.3](day-19.md), [19/5.1](day-19.md), [19/6.1](day-19.md)
+- **AG-10** - 7 parts: [20/1.1](day-20.md), [20/1.2](day-20.md), [20/1.3](day-20.md), [20/1.4](day-20.md), [20/4.1](day-20.md), [20/4.2](day-20.md), [20/5.1](day-20.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **OPS-01** - 3 parts: [01/2.1](day-01.md), [01/2.2](day-01.md), [01/2.3](day-01.md)
 - **OPS-02** - 4 parts: [01/3.1](day-01.md), [01/3.2](day-01.md), [01/3.3](day-01.md), [01/3.4](day-01.md)
@@ -63,6 +65,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 19; cited by 19/3.3
 - **arXiv:2307.09702** - Efficient Guided Generation for Large Language Models
   - taught in day 12; cited by 12/1.1
+- **arXiv:2310.08560** - MemGPT: Towards LLMs as Operating Systems
+  - taught in day 20; cited by 20/1.1, 20/4.2
 - **arXiv:2406.18665** - RouteLLM: Learning to Route LLMs with Preference Data
   - taught in day 09; cited by 09/5.1
 - **doi:10.1007/BFb0053381** - Aspect-oriented programming
