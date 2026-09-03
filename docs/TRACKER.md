@@ -15,17 +15,17 @@ generator: scripts/tracker.py
 
 | | Count | Of total |
 |---|---|---|
-| 📄 Days written in the hub + parts/ shape | **26** | 26.8% |
-| 📚 Sub-topic documents in `parts/` | **425** | — |
+| 📄 Days written in the hub + parts/ shape | **27** | 27.8% |
+| 📚 Sub-topic documents in `parts/` | **442** | — |
 | ✅ Days completed (checklist fully ticked) | **5** | 5.2% |
-| 🗃️ Legacy days awaiting regeneration | **71** | 73.2% |
+| 🗃️ Legacy days awaiting regeneration | **70** | 72.2% |
 | ⬜ Never written | **0** | 0.0% |
 | Total days in plan | 97 | (Day 0 + Days 1–96) |
 
 ```
-written  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  26/97
+written  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  27/97
 complete ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5/97
-legacy   █████████████████████████████░░░░░░░░░░░  71/97
+legacy   █████████████████████████████░░░░░░░░░░░  70/97
 ```
 
 **Legend:** ✅ done (checklist fully ticked) · 📄 written (hub + `parts/` + checklist) · ⚠️ no checklist · 🗃️ legacy (v1 lesson only, needs regenerating) · ⬜ pending
@@ -38,7 +38,7 @@ legacy   ███████████████████████�
 | 1 | Foundations | 1–8 | 8/8 | 127 | 4/8 |
 | 2 | Models & tools | 9–16 | 8/8 | 145 | 0/8 |
 | 3 | State, context & discipline | 17–24 | 8/8 | 122 | 0/8 |
-| 4 | Agent Skills | 25–31 | 1/7 | 14 | 0/7 |
+| 4 | Agent Skills | 25–31 | 2/7 | 31 | 0/7 |
 | 5 | MCP I: the protocol | 32–38 | 0/7 | 0 | 0/7 |
 | 6 | MCP II: production | 39–45 | 0/7 | 0 | 0/7 |
 | 7 | Memory & retrieval | 46–52 | 0/7 | 0 | 0/7 |
@@ -103,7 +103,7 @@ legacy   ███████████████████████�
 | Day | Title | IDs | Status | Parts | Open boxes |
 |---|---|---|---|---|---|
 | 25 | Skills: the open spec — `SKILL.md` anatomy | SK-01, SK-02, SK-03 | 📄 written | 14 | 48 |
-| 26 | `SkillToolset` — loading skills into ADK | SK-04, SK-05, ADK-24 | 🗃️ legacy | — | — |
+| 26 | `SkillToolset` — loading skills into ADK | SK-04, SK-05, ADK-24 | 📄 written | 17 | 45 |
 | 27 | Authoring Sutra's first skills | SK-06, SK-07, SK-08 | 🗃️ legacy | — | — |
 | 28 | Progressive disclosure & skill design | SK-09, SK-10, SK-11 | 🗃️ legacy | — | — |
 | 29 | Sourcing & auditing third-party skills — provenance ledger; Agent Registry … | SK-12, SK-13, SK-14, SK-15, SK-16 | 🗃️ legacy | — | — |
@@ -234,7 +234,6 @@ legacy   ███████████████████████�
 
 The next ten days to write, in order:
 
-- **Day 26** — `SkillToolset` — loading skills into ADK `(SK-04, SK-05, ADK-24)`  ·  🗃️ has a v1 lesson to mine
 - **Day 27** — Authoring Sutra's first skills `(SK-06, SK-07, SK-08)`  ·  🗃️ has a v1 lesson to mine
 - **Day 28** — Progressive disclosure & skill design `(SK-09, SK-10, SK-11)`  ·  🗃️ has a v1 lesson to mine
 - **Day 29** — Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint `(SK-12, SK-13, SK-14, SK-15, SK-16)`  ·  🗃️ has a v1 lesson to mine
@@ -244,4 +243,5 @@ The next ten days to write, in order:
 - **Day 33** — The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as 🅿️ legacy reading) `(MCP-02, MCP-03)`  ·  🗃️ has a v1 lesson to mine
 - **Day 34** — Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) `(MCP-04, MCP-05, MCP-06)`  ·  🗃️ has a v1 lesson to mine
 - **Day 35** — Resources & prompts `(MCP-07, MCP-08, MCP-09)`  ·  🗃️ has a v1 lesson to mine
+- **Day 36** — Long jobs — progress, the Tasks extension (`tasks/get `(MCP-10, MCP-14, MCP-28)`  ·  🗃️ has a v1 lesson to mine
 

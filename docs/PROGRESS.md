@@ -32,6 +32,10 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 | 20 | 2026-09-03 | AG-10, ADK-22 | 15 (+1 paper) | e40c6ad | ✅ |
 | 21 | 2026-09-03 | ADK-23, SEC-02 | 14 (+1 paper) | 7315bac | ✅ |
 | 22 | 2026-09-03 | OPS-04 | 12 (+1 paper) | 3560bf9 | ✅ |
+| 23 | 2026-09-04 | OPS-05, OPS-06 | 19 (+1 paper) | 3e660c6 | ⚠️ |
+| 24 | 2026-09-04 | OPS-07, AG-11 | 13 (+1 paper) | 3e660c6 | ⚠️ |
+| 25 | 2026-09-04 | SK-01, SK-02, SK-03 | 14 | 3e660c6 | ⚠️ |
+| 26 | 2026-09-04 | SK-04, SK-05, ADK-24 | 17 | <hash> | ⚠️ |
 
 > **Deviation from Principle 2, recorded rather than hidden.** Days 7–12 were written and committed
 > together in `5c85364` (2026-08-27) instead of one commit per day, and their rows were not appended
@@ -65,3 +69,19 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 > `git log -1 --format='%H %cd' 4029771`, the part count re-counted from the tree (nineteen parts and
 > one paper) and the ID read from the hub's frontmatter. `./m depth 15` was green on 2026-09-03 before
 > the `✅` was written. The commit was **not** amended; the ledger records what happened.
+
+> **Days 23-25, three days in one commit, and a gate that is not green.** Days 23, 24 and 25 were
+> written and committed together in `3e660c6` (2026-09-04) instead of one commit per day, and their
+> rows were not appended here at the time, so `./m brief 26` refused with `the last PROGRESS row is
+> day 22`. The three rows above were reconstructed on 2026-09-04 by copying each hub's own §11
+> template and filling `<date>`/`<hash>` from `git log -1 --format='%H %cd' 3e660c6`; the part counts
+> were re-counted from the tree by `./m depth` and the IDs read from each hub's frontmatter. History
+> was **not** rewritten to make the commits look compliant.
+>
+> **The gate column says ⚠️ and means it.** `./m depth`, `./m trace` and `./m wiki --check` are green
+> over all twenty-six written days. `./m check` is **red**, on one lint error that has nothing to do
+> with these three days: `tests/test_persona.py:7` fails ruff `I001` (import block un-sorted). That
+> file last changed in `4029771` (day 15), so the same error was already red under the ✅ written on
+> the rows for days 16-22 - those ticks are optimistic and this note is the correction. The file is
+> the learner's own code under `tests/`, which no generated day may edit, so it was left untouched;
+> the fix is `uv run ruff check --fix tests/test_persona.py`, and the ⚠️ becomes ✅ once it is run.

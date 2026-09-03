@@ -27,6 +27,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-21** - 15 parts: [18/1.1](day-18.md), [18/1.2](day-18.md), [18/1.3](day-18.md), [18/2.1](day-18.md), [18/2.2](day-18.md), [18/2.3](day-18.md), [18/3.1](day-18.md), [18/3.2](day-18.md), [18/4.1](day-18.md), [18/4.2](day-18.md), [18/4.3](day-18.md), [18/5.1](day-18.md), [18/6.1](day-18.md), [18/6.2](day-18.md), [18/6.3](day-18.md)
 - **ADK-22** - 10 parts: [20/2.1](day-20.md), [20/2.2](day-20.md), [20/2.3](day-20.md), [20/2.4](day-20.md), [20/3.1](day-20.md), [20/3.2](day-20.md), [20/3.3](day-20.md), [20/4.1](day-20.md), [20/5.1](day-20.md), [20/5.2](day-20.md)
 - **ADK-23** - 8 parts: [21/2.1](day-21.md), [21/2.2](day-21.md), [21/2.3](day-21.md), [21/2.4](day-21.md), [21/4.1](day-21.md), [21/4.2](day-21.md), [21/5.1](day-21.md), [21/5.2](day-21.md)
+- **ADK-24** - 5 parts: [26/3.1](day-26.md), [26/3.2](day-26.md), [26/3.3](day-26.md), [26/4.2](day-26.md), [26/5.2](day-26.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **AG-01** - 4 parts: [01/1.1](day-01.md), [01/1.2](day-01.md), [01/1.3](day-01.md), [01/1.4](day-01.md)
 - **AG-02** - 16 parts: [02/1.1](day-02.md), [02/1.2](day-02.md), [02/1.3](day-02.md), [02/1.4](day-02.md), [02/1.5](day-02.md), [02/2.1](day-02.md), [02/2.2](day-02.md), [02/2.3](day-02.md), [02/3.1](day-02.md), [02/3.2](day-02.md), [02/3.3](day-02.md), [02/4.1](day-02.md), [02/4.2](day-02.md), [02/4.3](day-02.md), [02/5.1](day-02.md), [02/6.1](day-02.md)
@@ -52,6 +53,8 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **SK-01** - 3 parts: [25/1.1](day-25.md), [25/1.2](day-25.md), [25/1.3](day-25.md)
 - **SK-02** - 6 parts: [25/2.1](day-25.md), [25/2.2](day-25.md), [25/2.3](day-25.md), [25/2.4](day-25.md), [25/4.1](day-25.md), [25/4.2](day-25.md)
 - **SK-03** - 6 parts: [25/3.1](day-25.md), [25/3.2](day-25.md), [25/3.3](day-25.md), [25/4.1](day-25.md), [25/5.1](day-25.md), [25/5.2](day-25.md)
+- **SK-04** - 5 parts: [26/1.1](day-26.md), [26/1.2](day-26.md), [26/1.3](day-26.md), [26/1.4](day-26.md), [26/4.1](day-26.md)
+- **SK-05** - 7 parts: [26/2.1](day-26.md), [26/2.2](day-26.md), [26/2.3](day-26.md), [26/2.4](day-26.md), [26/2.5](day-26.md), [26/4.3](day-26.md), [26/5.1](day-26.md)
 
 ## By paper
 
@@ -76,7 +79,7 @@ A paper is taught once in the whole curriculum.
 - **arXiv:2307.09702** - Efficient Guided Generation for Large Language Models
   - taught in day 12; cited by 12/1.1
 - **arXiv:2310.08560** - MemGPT: Towards LLMs as Operating Systems
-  - taught in day 20; cited by 20/1.1, 20/4.2
+  - taught in day 20; cited by 20/1.1, 20/4.2, 26/2.2, 26/5.1
 - **arXiv:2406.18665** - RouteLLM: Learning to Route LLMs with Preference Data
   - taught in day 09; cited by 09/5.1
 - **doi:10.1007/BFb0053381** - Aspect-oriented programming

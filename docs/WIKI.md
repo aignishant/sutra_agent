@@ -31,3 +31,4 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [23](wiki/day-23.md) | Testing agents I — unit tests for tools & callbacks | OPS-05, OPS-06 | 19 | doi:10.1145/1028664.1028765 |
 | [24](wiki/day-24.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars | AG-11, OPS-07 | 13 | doi:10.1109/MCOM.1986.1092946 |
 | [25](wiki/day-25.md) | Skills: the open spec — `SKILL.md` anatomy | SK-01, SK-02, SK-03 | 14 | - |
+| [26](wiki/day-26.md) | `SkillToolset` — loading skills into ADK | SK-04, SK-05, ADK-24 | 17 | - |

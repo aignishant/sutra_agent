@@ -73,7 +73,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-21` | [18](../days/day-18-artifacts-that-survive/LESSON.md) | Artifacts — files that survive turns |
 | `ADK-22` | [20](../days/day-20-context-engineering-compaction/LESSON.md) | Context engineering II — compaction & summarization |
 | `ADK-23` | [21](../days/day-21-errors-surface-not-swallow/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
-| `ADK-24` | [26](../days/day-26/LESSON.md) | `SkillToolset` — loading skills into ADK |
+| `ADK-24` | [26](../days/day-26-loading-skills-into-adk/LESSON.md) | `SkillToolset` — loading skills into ADK |
 | `ADK-25` | [39](../days/day-39/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
 | `ADK-26` | [42](../days/day-42/LESSON.md) | Serving agents over MCP — `to_mcp_server`; agent-as-tool vs agent-as-peer |
 | `ADK-27` | [46](../days/day-46/LESSON.md) | Sessions vs memory — `MemoryService` semantics |
@@ -174,8 +174,8 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `SK-01` | [25](../days/day-25-skills-the-open-spec/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
 | `SK-02` | [25](../days/day-25-skills-the-open-spec/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
 | `SK-03` | [25](../days/day-25-skills-the-open-spec/LESSON.md) | Skills: the open spec — `SKILL.md` anatomy |
-| `SK-04` | [26](../days/day-26/LESSON.md) | `SkillToolset` — loading skills into ADK |
-| `SK-05` | [26](../days/day-26/LESSON.md) | `SkillToolset` — loading skills into ADK |
+| `SK-04` | [26](../days/day-26-loading-skills-into-adk/LESSON.md) | `SkillToolset` — loading skills into ADK |
+| `SK-05` | [26](../days/day-26-loading-skills-into-adk/LESSON.md) | `SkillToolset` — loading skills into ADK |
 | `SK-06` | [27](../days/day-27/LESSON.md) | Authoring Sutra's first skills |
 | `SK-07` | [27](../days/day-27/LESSON.md) | Authoring Sutra's first skills |
 | `SK-08` | [27](../days/day-27/LESSON.md) | Authoring Sutra's first skills |
