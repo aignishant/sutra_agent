@@ -42,6 +42,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **OPS-01** - 3 parts: [01/2.1](day-01.md), [01/2.2](day-01.md), [01/2.3](day-01.md)
 - **OPS-02** - 4 parts: [01/3.1](day-01.md), [01/3.2](day-01.md), [01/3.3](day-01.md), [01/3.4](day-01.md)
 - **OPS-03** - 3 parts: [01/4.1](day-01.md), [01/4.2](day-01.md), [01/4.3](day-01.md)
+- **OPS-04** - 12 parts: [22/1.1](day-22.md), [22/1.2](day-22.md), [22/1.3](day-22.md), [22/1.4](day-22.md), [22/2.1](day-22.md), [22/2.2](day-22.md), [22/2.3](day-22.md), [22/3.1](day-22.md), [22/3.2](day-22.md), [22/4.1](day-22.md), [22/4.2](day-22.md), [22/4.3](day-22.md)
 - **SEC-01** - 4 parts: [16/4.3](day-16.md), [16/6.1](day-16.md), [16/6.3](day-16.md), [16/8.1](day-16.md)
 - **SEC-02** - 8 parts: [21/1.1](day-21.md), [21/1.2](day-21.md), [21/1.3](day-21.md), [21/3.1](day-21.md), [21/3.2](day-21.md), [21/3.3](day-21.md), [21/4.1](day-21.md), [21/5.1](day-21.md)
 
@@ -79,3 +80,5 @@ A paper is taught once in the whole curriculum.
   - taught in day 15; cited by 15/4.1, 15/4.2
 - **doi:10.1145/357401.357402** - End-to-end arguments in system design
   - taught in day 21; cited by 21/5.1
+- **doi:10.1145/359545.359563** - Time, clocks, and the ordering of events in a distributed system
+  - taught in day 22; cited by 22/1.4

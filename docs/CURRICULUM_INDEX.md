@@ -199,7 +199,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `OPS-01` | [1](../days/day-01-bootstrap-and-map/LESSON.md) | Bootstrap & the map — repo, `.env`+`.gitignore`, uv+Python 3.12, ledgers & `scripts/tra… |
 | `OPS-02` | [1](../days/day-01-bootstrap-and-map/LESSON.md) | Bootstrap & the map — repo, `.env`+`.gitignore`, uv+Python 3.12, ledgers & `scripts/tra… |
 | `OPS-03` | [1](../days/day-01-bootstrap-and-map/LESSON.md) | Bootstrap & the map — repo, `.env`+`.gitignore`, uv+Python 3.12, ledgers & `scripts/tra… |
-| `OPS-04` | [22](../days/day-22/LESSON.md) | Structured logging — every turn tells its story |
+| `OPS-04` | [22](../days/day-22-structured-logging/LESSON.md) | Structured logging — every turn tells its story |
 | `OPS-05` | [23](../days/day-23/LESSON.md) | Testing agents I — unit tests for tools & callbacks |
 | `OPS-06` | [23](../days/day-23/LESSON.md) | Testing agents I — unit tests for tools & callbacks |
 | `OPS-07` | [24](../days/day-24/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |

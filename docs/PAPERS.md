@@ -41,3 +41,4 @@ can be found in prose without guessing where it ends.
 | Lost in the Middle: How Language Models Use Long Contexts | arXiv:2307.03172 | 2023 | 2026-09-03 | 19 | `days/day-19-context-engineering-selection/papers/01-lost-in-the-middle.md` |
 | MemGPT: Towards LLMs as Operating Systems | arXiv:2310.08560 | 2023 | 2026-09-03 | 20 | `days/day-20-context-engineering-compaction/papers/01-memgpt.md` |
 | End-to-end arguments in system design | doi:10.1145/357401.357402 | 1984 | 2026-09-03 | 21 | `days/day-21-errors-surface-not-swallow/papers/01-end-to-end-arguments.md` |
+| Time, clocks, and the ordering of events in a distributed system | doi:10.1145/359545.359563 | 1978 | 2026-09-03 | 22 | `days/day-22-structured-logging/papers/01-time-clocks-ordering.md` |

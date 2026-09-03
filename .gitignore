@@ -35,3 +35,4 @@ days/*/lab/
 .ipynb_checkpoints/
 .DS_Store
 experiment.ipynb
+logs/
