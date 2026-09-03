@@ -26,6 +26,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-20** - 6 parts: [17/2.1](day-17.md), [17/2.2](day-17.md), [17/2.3](day-17.md), [17/2.4](day-17.md), [17/7.1](day-17.md), [17/7.2](day-17.md)
 - **ADK-21** - 15 parts: [18/1.1](day-18.md), [18/1.2](day-18.md), [18/1.3](day-18.md), [18/2.1](day-18.md), [18/2.2](day-18.md), [18/2.3](day-18.md), [18/3.1](day-18.md), [18/3.2](day-18.md), [18/4.1](day-18.md), [18/4.2](day-18.md), [18/4.3](day-18.md), [18/5.1](day-18.md), [18/6.1](day-18.md), [18/6.2](day-18.md), [18/6.3](day-18.md)
 - **ADK-22** - 10 parts: [20/2.1](day-20.md), [20/2.2](day-20.md), [20/2.3](day-20.md), [20/2.4](day-20.md), [20/3.1](day-20.md), [20/3.2](day-20.md), [20/3.3](day-20.md), [20/4.1](day-20.md), [20/5.1](day-20.md), [20/5.2](day-20.md)
+- **ADK-23** - 8 parts: [21/2.1](day-21.md), [21/2.2](day-21.md), [21/2.3](day-21.md), [21/2.4](day-21.md), [21/4.1](day-21.md), [21/4.2](day-21.md), [21/5.1](day-21.md), [21/5.2](day-21.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **AG-01** - 4 parts: [01/1.1](day-01.md), [01/1.2](day-01.md), [01/1.3](day-01.md), [01/1.4](day-01.md)
 - **AG-02** - 16 parts: [02/1.1](day-02.md), [02/1.2](day-02.md), [02/1.3](day-02.md), [02/1.4](day-02.md), [02/1.5](day-02.md), [02/2.1](day-02.md), [02/2.2](day-02.md), [02/2.3](day-02.md), [02/3.1](day-02.md), [02/3.2](day-02.md), [02/3.3](day-02.md), [02/4.1](day-02.md), [02/4.2](day-02.md), [02/4.3](day-02.md), [02/5.1](day-02.md), [02/6.1](day-02.md)
@@ -42,6 +43,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **OPS-02** - 4 parts: [01/3.1](day-01.md), [01/3.2](day-01.md), [01/3.3](day-01.md), [01/3.4](day-01.md)
 - **OPS-03** - 3 parts: [01/4.1](day-01.md), [01/4.2](day-01.md), [01/4.3](day-01.md)
 - **SEC-01** - 4 parts: [16/4.3](day-16.md), [16/6.1](day-16.md), [16/6.3](day-16.md), [16/8.1](day-16.md)
+- **SEC-02** - 8 parts: [21/1.1](day-21.md), [21/1.2](day-21.md), [21/1.3](day-21.md), [21/3.1](day-21.md), [21/3.2](day-21.md), [21/3.3](day-21.md), [21/4.1](day-21.md), [21/5.1](day-21.md)
 
 ## By paper
 
@@ -75,3 +77,5 @@ A paper is taught once in the whole curriculum.
   - taught in day 01; cited by 01/1.1, 01/1.2
 - **doi:10.1145/2080.357392** - Implementing remote procedure calls
   - taught in day 15; cited by 15/4.1, 15/4.2
+- **doi:10.1145/357401.357402** - End-to-end arguments in system design
+  - taught in day 21; cited by 21/5.1

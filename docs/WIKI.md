@@ -26,3 +26,4 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [18](wiki/day-18.md) | Artifacts — files that survive turns | ADK-21 | 15 | - |
 | [19](wiki/day-19.md) | Context engineering I — what earns a place in the window | AG-08, AG-09 | 16 | arXiv:2307.03172 |
 | [20](wiki/day-20.md) | Context engineering II — compaction & summarization | AG-10, ADK-22 | 15 | arXiv:2310.08560 |
+| [21](wiki/day-21.md) | Error handling — surface, don't swallow | SEC-02, ADK-23 | 14 | doi:10.1145/357401.357402 |

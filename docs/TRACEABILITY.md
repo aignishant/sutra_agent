@@ -43,8 +43,8 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | ADK-21 | 3 | 18 | ✅ closed day 18 |
 | AG-08 | 3 | 19 | ✅ closed day 19 |
 | AG-09 | 3 | 19 | ✅ closed day 19 |
-| AG-10 | 3 | 20 | ⬜ open |
-| ADK-22 | 3 | 20 | ⬜ open |
+| AG-10 | 3 | 20 | ✅ closed day 20 |
+| ADK-22 | 3 | 20 | ✅ closed day 20 |
 | ADK-23 | 3 | 21 | ⬜ open |
 | SEC-02 | 3 | 21 | ⬜ open |
 | OPS-04 | 3 | 22 | ⬜ open |
@@ -207,4 +207,4 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | ADK-72 | 14 | 91 | ⬜ open |
 | SEC-16 | 14 | 92 | ⬜ open |
 
-**36 / 199 IDs closed.**
+**38 / 199 IDs closed.**

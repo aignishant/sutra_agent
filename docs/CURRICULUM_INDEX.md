@@ -72,7 +72,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-20` | [17](../days/day-17-state-scopes-and-lifetimes/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |
 | `ADK-21` | [18](../days/day-18-artifacts-that-survive/LESSON.md) | Artifacts — files that survive turns |
 | `ADK-22` | [20](../days/day-20-context-engineering-compaction/LESSON.md) | Context engineering II — compaction & summarization |
-| `ADK-23` | [21](../days/day-21/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
+| `ADK-23` | [21](../days/day-21-errors-surface-not-swallow/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
 | `ADK-24` | [26](../days/day-26/LESSON.md) | `SkillToolset` — loading skills into ADK |
 | `ADK-25` | [39](../days/day-39/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
 | `ADK-26` | [42](../days/day-42/LESSON.md) | Serving agents over MCP — `to_mcp_server`; agent-as-tool vs agent-as-peer |
@@ -220,7 +220,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | ID | Day | Day title |
 | --- | --- | --- |
 | `SEC-01` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
-| `SEC-02` | [21](../days/day-21/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
+| `SEC-02` | [21](../days/day-21-errors-surface-not-swallow/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
 | `SEC-03` | [40](../days/day-40/LESSON.md) | Tool filtering, allowlists & MCP security posture |
 | `SEC-04` | [59](../days/day-59/LESSON.md) | Phase gate + failure lab — loops, runaway agents, containment |
 | `SEC-05` | [63](../days/day-63/LESSON.md) | Approval gates — design (what needs a human, and why) |
