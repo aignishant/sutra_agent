@@ -24,6 +24,8 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 | 12 | 2026-08-27 | ADK-13 | 16 (+1 paper) | 5c85364 | ✅ |
 | 13 | 2026-08-29 | ADK-14, ADK-15 | 19 | ab9e5a1 | ✅ |
 | 14 | 2026-08-30 | ADK-16 | 19 (+1 paper) | 3dc89ec | ✅ |
+| 15 | 2026-08-30 | ADK-17 | 19 (+1 paper) | 4029771 | ✅ |
+| 16 | 2026-09-03 | ADK-18, AG-07, AG-32, SEC-01 | 24 (+1 paper) | 210a3b3 | ✅ |
 
 > **Deviation from Principle 2, recorded rather than hidden.** Days 7–12 were written and committed
 > together in `5c85364` (2026-08-27) instead of one commit per day, and their rows were not appended
@@ -49,3 +51,11 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 > `papers/01-aspect-oriented-programming.md`, which is committed; the copy under `lab/` is the
 > learner's, like every other day's. The pasted `WEAVE=1` / `WEAVE=0` transcript in that document was
 > re-run on 2026-08-30 and matches byte for byte.
+
+> **Day 15, the same shape again, recorded the same way.** Day 15 was committed as `4029771`
+> (2026-08-30) with a commit message that did not follow §18.6 and without this row being appended,
+> so on 2026-09-03 `./m brief 16` refused to run with `the last PROGRESS row is day 14`. The row above
+> was reconstructed from the hub's own §11 template, with `<date>`/`<hash>` read from
+> `git log -1 --format='%H %cd' 4029771`, the part count re-counted from the tree (nineteen parts and
+> one paper) and the ID read from the hub's frontmatter. `./m depth 15` was green on 2026-09-03 before
+> the `✅` was written. The commit was **not** amended; the ledger records what happened.
