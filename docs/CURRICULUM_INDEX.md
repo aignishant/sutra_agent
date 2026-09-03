@@ -1,6 +1,6 @@
 # 📇 Curriculum index — Project Sutra
 
-_Generated 2026-08-30 by `scripts/trace.py` from the master plan's §14._
+_Generated 2026-09-03 by `scripts/trace.py` from the master plan's §14._
 **Do not edit by hand.**
 
 §14 answers *what does day 43 teach?* This file answers the reverse — *where do I learn
@@ -17,7 +17,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-04` | [4](../days/day-04-tools-by-hand/LESSON.md) | Tools by hand — function calling, JSON schemas, the tool-result turn |
 | `AG-05` | [6](../days/day-06-instructions-and-personas/LESSON.md) | Instructions & personas; the `adk web` dev UI |
 | `AG-06` | [11](../days/day-11-tool-context/LESSON.md) | Tool context & state in tools; tool design principles |
-| `AG-07` | [16](../days/day-16/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
+| `AG-07` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `AG-08` | [19](../days/day-19/LESSON.md) | Context engineering I — what earns a place in the window |
 | `AG-09` | [19](../days/day-19/LESSON.md) | Context engineering I — what earns a place in the window |
 | `AG-10` | [20](../days/day-20/LESSON.md) | Context engineering II — compaction & summarization |
@@ -42,7 +42,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-29` | [90](../days/day-90/LESSON.md) | Agent identity & the registry |
 | `AG-30` | [91](../days/day-91/LESSON.md) | Integrations survey — Slack-shaped intake, ecosystems; paid-only items noted "requires … |
 | `AG-31` | [71](../days/day-71/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
-| `AG-32` | [16](../days/day-16/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
+| `AG-32` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `AG-33` | [49](../days/day-49/LESSON.md) | Retrieval & embeddings — one honest RAG day (local embedding index over the ticket arch… |
 | `AG-34` | [89](../days/day-89/LESSON.md) | A2A v1.0 — signed Agent Cards verified hands-on; AP2 mandates, x402/TAP 🅿️ — *know the … |
 
@@ -67,9 +67,9 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-15` | [13](../days/day-13-callbacks-four-doors/LESSON.md) | Callbacks — before/after model & tool |
 | `ADK-16` | [14](../days/day-14-plugins-one-layer-up/LESSON.md) | Plugins — cross-cutting behavior |
 | `ADK-17` | [15](../days/day-15-toolsets-and-openapi/LESSON.md) | Toolsets, OpenAPI & third-party tool wrappers |
-| `ADK-18` | [16](../days/day-16/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
-| `ADK-19` | [17](../days/day-17/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |
-| `ADK-20` | [17](../days/day-17/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |
+| `ADK-18` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
+| `ADK-19` | [17](../days/day-17-state-scopes-and-lifetimes/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |
+| `ADK-20` | [17](../days/day-17-state-scopes-and-lifetimes/LESSON.md) | Session state deep dive — prefixes, scopes, lifetimes |
 | `ADK-21` | [18](../days/day-18/LESSON.md) | Artifacts — files that survive turns |
 | `ADK-22` | [20](../days/day-20/LESSON.md) | Context engineering II — compaction & summarization |
 | `ADK-23` | [21](../days/day-21/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
@@ -219,7 +219,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 
 | ID | Day | Day title |
 | --- | --- | --- |
-| `SEC-01` | [16](../days/day-16/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
+| `SEC-01` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `SEC-02` | [21](../days/day-21/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
 | `SEC-03` | [40](../days/day-40/LESSON.md) | Tool filtering, allowlists & MCP security posture |
 | `SEC-04` | [59](../days/day-59/LESSON.md) | Phase gate + failure lab — loops, runaway agents, containment |

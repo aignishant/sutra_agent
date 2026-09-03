@@ -1,5 +1,5 @@
 # Traceability (regenerated; do not edit by hand)
-_Generated 2026-08-30 by scripts/trace.py_
+_Generated 2026-09-03 by scripts/trace.py_
 
 Plan §14 assigns each ID to exactly one day. An ID counts as **closed** only when that
 day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
@@ -33,7 +33,7 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | ADK-14 | 2 | 13 | ✅ closed day 13 |
 | ADK-15 | 2 | 13 | ✅ closed day 13 |
 | ADK-16 | 2 | 14 | ✅ closed day 14 |
-| ADK-17 | 2 | 15 | ⬜ open |
+| ADK-17 | 2 | 15 | ✅ closed day 15 |
 | ADK-18 | 2 | 16 | ⬜ open |
 | AG-07 | 2 | 16 | ⬜ open |
 | AG-32 | 2 | 16 | ⬜ open |
@@ -207,4 +207,4 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | ADK-72 | 14 | 91 | ⬜ open |
 | SEC-16 | 14 | 92 | ⬜ open |
 
-**26 / 199 IDs closed.**
+**27 / 199 IDs closed.**

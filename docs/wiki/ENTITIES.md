@@ -21,6 +21,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-15** - 14 parts: [13/1.1](day-13.md), [13/1.2](day-13.md), [13/1.3](day-13.md), [13/1.4](day-13.md), [13/3.1](day-13.md), [13/3.2](day-13.md), [13/3.3](day-13.md), [13/3.4](day-13.md), [13/4.1](day-13.md), [13/4.2](day-13.md), [13/4.3](day-13.md), [13/5.1](day-13.md), [13/6.1](day-13.md), [13/6.2](day-13.md)
 - **ADK-16** - 19 parts: [14/1.1](day-14.md), [14/1.2](day-14.md), [14/1.3](day-14.md), [14/2.1](day-14.md), [14/2.2](day-14.md), [14/2.3](day-14.md), [14/2.4](day-14.md), [14/3.1](day-14.md), [14/3.2](day-14.md), [14/3.3](day-14.md), [14/4.1](day-14.md), [14/4.2](day-14.md), [14/4.3](day-14.md), [14/5.1](day-14.md), [14/5.2](day-14.md), [14/6.1](day-14.md), [14/7.1](day-14.md), [14/7.2](day-14.md), [14/7.3](day-14.md)
 - **ADK-17** - 19 parts: [15/1.1](day-15.md), [15/1.2](day-15.md), [15/1.3](day-15.md), [15/2.1](day-15.md), [15/2.2](day-15.md), [15/2.3](day-15.md), [15/3.1](day-15.md), [15/3.2](day-15.md), [15/4.1](day-15.md), [15/4.2](day-15.md), [15/4.3](day-15.md), [15/4.4](day-15.md), [15/4.5](day-15.md), [15/5.1](day-15.md), [15/5.2](day-15.md), [15/6.1](day-15.md), [15/7.1](day-15.md), [15/7.2](day-15.md), [15/7.3](day-15.md)
+- **ADK-18** - 16 parts: [16/1.1](day-16.md), [16/1.2](day-16.md), [16/1.3](day-16.md), [16/2.1](day-16.md), [16/2.2](day-16.md), [16/2.3](day-16.md), [16/3.1](day-16.md), [16/3.2](day-16.md), [16/3.3](day-16.md), [16/5.1](day-16.md), [16/5.2](day-16.md), [16/5.3](day-16.md), [16/5.4](day-16.md), [16/7.1](day-16.md), [16/8.1](day-16.md), [16/8.3](day-16.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **AG-01** - 4 parts: [01/1.1](day-01.md), [01/1.2](day-01.md), [01/1.3](day-01.md), [01/1.4](day-01.md)
 - **AG-02** - 16 parts: [02/1.1](day-02.md), [02/1.2](day-02.md), [02/1.3](day-02.md), [02/1.4](day-02.md), [02/1.5](day-02.md), [02/2.1](day-02.md), [02/2.2](day-02.md), [02/2.3](day-02.md), [02/3.1](day-02.md), [02/3.2](day-02.md), [02/3.3](day-02.md), [02/4.1](day-02.md), [02/4.2](day-02.md), [02/4.3](day-02.md), [02/5.1](day-02.md), [02/6.1](day-02.md)
@@ -28,9 +29,12 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-04** - 16 parts: [04/1.1](day-04.md), [04/1.2](day-04.md), [04/1.3](day-04.md), [04/2.1](day-04.md), [04/2.2](day-04.md), [04/2.3](day-04.md), [04/2.4](day-04.md), [04/3.1](day-04.md), [04/3.2](day-04.md), [04/3.3](day-04.md), [04/4.1](day-04.md), [04/4.2](day-04.md), [04/5.1](day-04.md), [04/5.2](day-04.md), [04/6.1](day-04.md), [04/7.1](day-04.md)
 - **AG-05** - 9 parts: [06/1.1](day-06.md), [06/1.2](day-06.md), [06/1.3](day-06.md), [06/1.4](day-06.md), [06/1.5](day-06.md), [06/2.1](day-06.md), [06/2.2](day-06.md), [06/2.3](day-06.md), [06/6.1](day-06.md)
 - **AG-06** - 5 parts: [11/3.1](day-11.md), [11/3.2](day-11.md), [11/3.3](day-11.md), [11/3.4](day-11.md), [11/4.1](day-11.md)
+- **AG-07** - 6 parts: [16/4.1](day-16.md), [16/4.2](day-16.md), [16/4.3](day-16.md), [16/4.4](day-16.md), [16/7.1](day-16.md), [16/8.2](day-16.md)
+- **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **OPS-01** - 3 parts: [01/2.1](day-01.md), [01/2.2](day-01.md), [01/2.3](day-01.md)
 - **OPS-02** - 4 parts: [01/3.1](day-01.md), [01/3.2](day-01.md), [01/3.3](day-01.md), [01/3.4](day-01.md)
 - **OPS-03** - 3 parts: [01/4.1](day-01.md), [01/4.2](day-01.md), [01/4.3](day-01.md)
+- **SEC-01** - 4 parts: [16/4.3](day-16.md), [16/6.1](day-16.md), [16/6.3](day-16.md), [16/8.1](day-16.md)
 
 ## By paper
 
@@ -46,6 +50,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 06; cited by 06/1.1
 - **arXiv:2210.03629** - ReAct: Synergizing Reasoning and Acting in Language Models — the loop you just built
   - taught in day 03; cited by no parts
+- **arXiv:2211.10435** - PAL: Program-aided Language Models
+  - taught in day 16; cited by 16/5.4
 - **arXiv:2302.04761** - Toolformer: Language Models Can Teach Themselves to Use Tools — the premise, not the method
   - taught in day 04; cited by no parts
 - **arXiv:2307.09702** - Efficient Guided Generation for Large Language Models

@@ -21,3 +21,4 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [13](wiki/day-13.md) | Callbacks — four doors and one rule | ADK-14, ADK-15 | 19 | - |
 | [14](wiki/day-14.md) | Plugins — one layer up | ADK-16 | 19 | doi:10.1007/BFb0053381 |
 | [15](wiki/day-15.md) | Toolsets and OpenAPI — tools you did not write | ADK-17 | 19 | doi:10.1145/2080.357392 |
+| [16](wiki/day-16.md) | Built-in tools with brakes | ADK-18, AG-07, SEC-01, AG-32 | 24 | arXiv:2211.10435 |
