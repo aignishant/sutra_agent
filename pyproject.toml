@@ -9,6 +9,7 @@ requires-python = "==3.12.*"
 dependencies = [
     "google-adk==2.7.1",
     "google-genai==2.19.0",
+    "mcp==1.29.1",
 ]
 
 [dependency-groups]
