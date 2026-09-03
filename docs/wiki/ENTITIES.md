@@ -33,6 +33,8 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-05** - 9 parts: [06/1.1](day-06.md), [06/1.2](day-06.md), [06/1.3](day-06.md), [06/1.4](day-06.md), [06/1.5](day-06.md), [06/2.1](day-06.md), [06/2.2](day-06.md), [06/2.3](day-06.md), [06/6.1](day-06.md)
 - **AG-06** - 5 parts: [11/3.1](day-11.md), [11/3.2](day-11.md), [11/3.3](day-11.md), [11/3.4](day-11.md), [11/4.1](day-11.md)
 - **AG-07** - 6 parts: [16/4.1](day-16.md), [16/4.2](day-16.md), [16/4.3](day-16.md), [16/4.4](day-16.md), [16/7.1](day-16.md), [16/8.2](day-16.md)
+- **AG-08** - 8 parts: [19/1.1](day-19.md), [19/1.2](day-19.md), [19/1.3](day-19.md), [19/4.1](day-19.md), [19/4.2](day-19.md), [19/6.1](day-19.md), [19/6.2](day-19.md), [19/6.3](day-19.md)
+- **AG-09** - 9 parts: [19/2.1](day-19.md), [19/2.2](day-19.md), [19/2.3](day-19.md), [19/2.4](day-19.md), [19/3.1](day-19.md), [19/3.2](day-19.md), [19/3.3](day-19.md), [19/5.1](day-19.md), [19/6.1](day-19.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **OPS-01** - 3 parts: [01/2.1](day-01.md), [01/2.2](day-01.md), [01/2.3](day-01.md)
 - **OPS-02** - 4 parts: [01/3.1](day-01.md), [01/3.2](day-01.md), [01/3.3](day-01.md), [01/3.4](day-01.md)
@@ -57,6 +59,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 16; cited by 16/5.4
 - **arXiv:2302.04761** - Toolformer: Language Models Can Teach Themselves to Use Tools — the premise, not the method
   - taught in day 04; cited by no parts
+- **arXiv:2307.03172** - Lost in the Middle: How Language Models Use Long Contexts
+  - taught in day 19; cited by 19/3.3
 - **arXiv:2307.09702** - Efficient Guided Generation for Large Language Models
   - taught in day 12; cited by 12/1.1
 - **arXiv:2406.18665** - RouteLLM: Learning to Route LLMs with Preference Data

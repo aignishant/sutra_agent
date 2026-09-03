@@ -24,3 +24,4 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [16](wiki/day-16.md) | Built-in tools with brakes | ADK-18, AG-07, SEC-01, AG-32 | 24 | arXiv:2211.10435 |
 | [17](wiki/day-17.md) | Session state — prefixes, scopes and lifetimes | ADK-19, ADK-20 | 18 | - |
 | [18](wiki/day-18.md) | Artifacts — files that survive turns | ADK-21 | 15 | - |
+| [19](wiki/day-19.md) | Context engineering I — what earns a place in the window | AG-08, AG-09 | 16 | arXiv:2307.03172 |
