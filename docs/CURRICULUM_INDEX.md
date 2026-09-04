@@ -134,8 +134,8 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | ID | Day | Day title |
 | --- | --- | --- |
 | `MCP-01` | [32](../days/day-32-mcp-stateless-core/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
-| `MCP-02` | [33](../days/day-33/LESSON.md) | The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as… |
-| `MCP-03` | [33](../days/day-33/LESSON.md) | The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as… |
+| `MCP-02` | [33](../days/day-33-client-and-transports/LESSON.md) | The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as… |
+| `MCP-03` | [33](../days/day-33-client-and-transports/LESSON.md) | The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as… |
 | `MCP-04` | [34](../days/day-34/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
 | `MCP-05` | [34](../days/day-34/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
 | `MCP-06` | [34](../days/day-34/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
@@ -187,10 +187,10 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `SK-14` | [29](../days/day-29-sourcing-and-auditing-skills/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
 | `SK-15` | [29](../days/day-29-sourcing-and-auditing-skills/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
 | `SK-16` | [29](../days/day-29-sourcing-and-auditing-skills/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
-| `SK-17` | [30](../days/day-30/LESSON.md) | Skill testing & versioning |
-| `SK-18` | [30](../days/day-30/LESSON.md) | Skill testing & versioning |
-| `SK-19` | [30](../days/day-30/LESSON.md) | Skill testing & versioning |
-| `SK-20` | [31](../days/day-31/LESSON.md) | Quality gate — `./m check`: lint, tests, skills lint, `:free`-suffix lint |
+| `SK-17` | [30](../days/day-30-skill-testing-and-versioning/LESSON.md) | Skill testing & versioning |
+| `SK-18` | [30](../days/day-30-skill-testing-and-versioning/LESSON.md) | Skill testing & versioning |
+| `SK-19` | [30](../days/day-30-skill-testing-and-versioning/LESSON.md) | Skill testing & versioning |
+| `SK-20` | [31](../days/day-31-the-quality-gate/LESSON.md) | Quality gate — `./m check`: lint, tests, skills lint, `:free`-suffix lint |
 
 ## Curriculum E — Operations (`OPS-`) — 18 IDs
 
@@ -203,7 +203,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `OPS-05` | [23](../days/day-23-testing-tools-and-callbacks/LESSON.md) | Testing agents I — unit tests for tools & callbacks |
 | `OPS-06` | [23](../days/day-23-testing-tools-and-callbacks/LESSON.md) | Testing agents I — unit tests for tools & callbacks |
 | `OPS-07` | [24](../days/day-24-token-accounting-and-budgets/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
-| `OPS-08` | [31](../days/day-31/LESSON.md) | Quality gate — `./m check`: lint, tests, skills lint, `:free`-suffix lint |
+| `OPS-08` | [31](../days/day-31-the-quality-gate/LESSON.md) | Quality gate — `./m check`: lint, tests, skills lint, `:free`-suffix lint |
 | `OPS-09` | [45](../days/day-45/LESSON.md) | Phase gate — full MCP audit of sutra-core |
 | `OPS-10` | [51](../days/day-51/LESSON.md) | Caching — context & response caching as the quota lifeline |
 | `OPS-11` | [65](../days/day-65/LESSON.md) | Phase gate — kill it mid-run; durable triage with human approval |
