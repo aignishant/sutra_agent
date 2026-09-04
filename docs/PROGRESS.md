@@ -40,7 +40,22 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 | 28 | 2026-09-04 | SK-09, SK-10, SK-11 | 16 | 7e404c7 | ⚠️ |
 | 29 | 2026-09-04 | SK-12, SK-13, SK-14, SK-15, SK-16 | 17 (+1 paper) | 4669b02 | ⚠️ |
 | 30 | 2026-09-04 | SK-17, SK-18, SK-19 | 19 (+1 paper) | d8e682b | ⚠️ |
-| 31 | 2026-09-04 | SK-20, OPS-08 | 18 | <hash> | ⚠️ |
+| 31 | 2026-09-04 | SK-20, OPS-08 | 18 | 178b656 | ⚠️ |
+| 32 | 2026-09-04 | MCP-01, MCP-26, MCP-32 | 20 (+1 paper) | dc9251d | ⚠️ |
+
+> **Day 32 was committed before days 29, 30 and 31, and its row is appended here after theirs.**
+> The day was written and committed in `dc9251d` (2026-09-04) while days 29-31 were still unwritten,
+> so for a while the last `PROGRESS.md` row was day 28 and `./m brief` would have refused every one
+> of them. The row above was written on 2026-09-04 from the hub's own §11 template, with `<hash>`
+> read from `git log -1 --format='%h %cd' dc9251d` and the part count re-counted from the tree -
+> the hub's template said `20`, and `./m depth 32` counts twenty parts **plus one paper**, so the
+> row says so. It is placed in **day order**, after day 31, rather than in commit order, because
+> `scripts/brief.py` reads the last row to decide which day may be written next and commit order
+> would have jammed days 33 onward. The gate is ⚠️ for the same reason every row since day 23
+> carries it: `./m check` is red on a pre-existing `ruff I001` in `tests/test_persona.py`, a learner
+> file no generated day may edit. The hub's own template optimistically said ✅; that is corrected
+> here rather than in the committed day. History was **not** rewritten to make the commit order
+> look compliant.
 
 > **Deviation from Principle 2, recorded rather than hidden.** Days 7–12 were written and committed
 > together in `5c85364` (2026-08-27) instead of one commit per day, and their rows were not appended
