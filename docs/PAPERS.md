@@ -44,3 +44,20 @@ can be found in prose without guessing where it ends.
 | Time, clocks, and the ordering of events in a distributed system | doi:10.1145/359545.359563 | 1978 | 2026-09-03 | 22 | `days/day-22-structured-logging/papers/01-time-clocks-ordering.md` |
 | Mock roles, not objects | doi:10.1145/1028664.1028765 | 2004 | 2026-09-04 | 23 | `days/day-23-testing-tools-and-callbacks/papers/01-mock-roles-not-objects.md` |
 | New directions in communications (or which way to the information age?) | doi:10.1109/MCOM.1986.1092946 | 1986 | 2026-09-04 | 24 | `days/day-24-token-accounting-and-budgets/papers/01-the-leaky-bucket.md` |
+| Reflections on trusting trust | doi:10.1145/358198.358210 | 1984 | 2026-09-04 | 29 | `days/day-29-sourcing-and-auditing-skills/papers/01-reflections-on-trusting-trust.md` |
+| Hints on Test Data Selection: Help for the Practicing Programmer | doi:10.1109/C-M.1978.218136 | 1978 | 2026-09-04 | 30 | `days/day-30-skill-testing-and-versioning/papers/01-hints-on-test-data-selection.md` |
+| Principled design of the modern Web architecture | doi:10.1145/514183.514185 | 2002 | 2026-09-04 | 32 | `days/day-32-mcp-stateless-core/papers/01-modern-web-architecture.md` |
+| Principled design of the modern Web architecture (ICSE 2000, the earlier and shorter version) | doi:10.1145/337180.337228 | 2000 | 2026-09-04 | 32 | *(not taught - named in `papers/01-modern-web-architecture.md` as the version not to cite; the 2002 TOIT paper is the canonical one)* |
+| Promises: linguistic support for efficient asynchronous procedure calls in distributed systems | doi:10.1145/53990.54016 | 1988 | 2026-09-04 | 36 | `days/day-36-long-jobs-and-tasks/papers/01-promises.md` |
+| OAuth 2.0 Authorization Server Issuer Identification | doi:10.17487/RFC9207 | 2022 | 2026-09-04 | 37 | `days/day-37-auth-and-elicitation/papers/01-issuer-identification.md` |
+| The OAuth 2.0 Authorization Framework | doi:10.17487/RFC6749 | 2012 | 2026-09-04 | 37 | *(not taught - named in `papers/01-issuer-identification.md` as the framework RFC 9207 patches; itself updated by RFC 8252, RFC 8996 and RFC 9700)* |
+| Best Current Practice for OAuth 2.0 Security | doi:10.17487/RFC9700 | 2025 | 2026-09-04 | 37 | *(not taught - named in `papers/01-issuer-identification.md` as what supersedes parts of RFC 6749's advice)* |
+| OAuth 2.0 Protected Resource Metadata | doi:10.17487/RFC9728 | 2025 | 2026-09-04 | 37 | *(not taught - named in `papers/01-issuer-identification.md` as what an MCP server actually publishes)* |
+| Maintaining Robust Protocols | doi:10.17487/RFC9413 | 2023 | 2026-09-04 | 38 | `days/day-38-failure-and-migration-lab/papers/01-maintaining-robust-protocols.md` |
+| A Relational Model of Data for Large Shared Data Banks | doi:10.1145/362384.362685 | 1970 | 2026-09-04 | 39 | `days/day-39-database-tools/papers/01-relational-model.md` |
+| A Relational Model of Data for Large Shared Data Banks (the 1983 CACM reprint) | doi:10.1145/357980.358007 | 1983 | 2026-09-04 | 39 | *(not taught - named in `papers/01-relational-model.md` as the reprint that is not the citation)* |
+| The protection of information in computer systems | doi:10.1109/PROC.1975.9939 | 1975 | 2026-09-04 | 40 | `days/day-40-filtering-and-allowlists/papers/01-protection-of-information.md` |
+| A note on distributed computing | doi:10.1007/3-540-62852-5_6 | 1997 | 2026-09-04 | 42 | `days/day-42-serving-agents-over-mcp/papers/01-a-note-on-distributed-computing.md` |
+| The tail at scale | doi:10.1145/2408776.2408794 | 2013 | 2026-09-04 | 44 | `days/day-44-client-hardening/papers/01-the-tail-at-scale.md` |
+| Generative Agents: Interactive Simulacra of Human Behavior | arXiv:2304.03442 | 2023 | 2026-09-04 | 46 | `days/day-46-sessions-vs-memory/papers/01-generative-agents.md` |
+| Principles of transaction-oriented database recovery | doi:10.1145/289.291 | 1983 | 2026-09-04 | 47 | `days/day-47-persistent-sessions/papers/01-transaction-oriented-recovery.md` |
