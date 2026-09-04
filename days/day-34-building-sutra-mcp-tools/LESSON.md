@@ -171,7 +171,7 @@ cd -
 touch sutra_mcp/server.py sutra_mcp/tools.py
 
 # 8 - the freshness gate, before anything else
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 ```
 
 **Step 8 is the gate and it is the same one Days 32 and 33 ran.** Everything in this day is written
@@ -464,7 +464,7 @@ rather than cited.
 **Three live commands, re-run today:**
 
 ```bash
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 curl -s https://pypi.org/pypi/mcp/json | uv run python -c "import sys,json;print(json.load(sys.stdin)['info']['version'])"
 uv run python -c "from mcp.shared.version import SUPPORTED_PROTOCOL_VERSIONS as v; from mcp.types import LATEST_PROTOCOL_VERSION as l; print(l, v)"
 ```

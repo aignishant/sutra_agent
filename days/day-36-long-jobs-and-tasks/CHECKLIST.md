@@ -10,7 +10,7 @@
 ## Demo command
 
 ```bash
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 curl -s https://modelcontextprotocol.io/extensions/tasks/overview | grep -o "cancellation is cooperative" | head -1
 uv run python days/day-36-long-jobs-and-tasks/lab/blocking.py
 uv run python days/day-36-long-jobs-and-tasks/lab/timeout_ladder.py

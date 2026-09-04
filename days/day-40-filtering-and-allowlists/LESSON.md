@@ -179,7 +179,7 @@ touch lab/papers/protection-of-information/mediate.py
 cd -
 
 # 9 - the gate, before anything else: has the specification moved?
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1
 ```
 
 **Step 9 is the gate and it is not ceremony.** This day, the addendum it implements and the days

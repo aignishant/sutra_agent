@@ -169,7 +169,7 @@ touch lab/papers/promises/work.py lab/papers/promises/run.py
 cd -
 
 # 9 - the gate, before anything else: has the specification moved?
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 
 # 10 - and does the extension still say what this day says it says?
 curl -s https://modelcontextprotocol.io/extensions/tasks/overview | grep -o "cancellation is cooperative" | head -1

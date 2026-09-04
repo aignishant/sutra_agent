@@ -178,7 +178,7 @@ cd -
 touch sutra_mcp/capabilities.py
 
 # 9 - the freshness gate, before anything else
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 ```
 
 **Step 9 is the gate and it is the same one Days 32, 33 and 34 ran.** Everything in this day is
@@ -469,7 +469,7 @@ Fetched or run on **2026-09-04**, the day this was written.
 **Five live commands, run today:**
 
 ```bash
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 cd .venv/Lib/site-packages/mcp && for s in "server/discover" "ttlMs" "cacheScope" "resultType" "DiscoverResult"; do printf '%-16s %s\n' "$s" "$(grep -rn "$s" . | wc -l)"; done; cd -
 uv run python -c "from mcp.types import LATEST_PROTOCOL_VERSION as l; from mcp.shared.version import SUPPORTED_PROTOCOL_VERSIONS as v; print(l, v)"
 uv run python -c "from mcp.types import ServerCapabilities as C; print(sorted(C.model_fields)); print('extensions' in C.model_fields)"

@@ -10,7 +10,7 @@
 ## Demo command
 
 ```bash
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1
 uv run python days/day-35-resources-and-prompts/lab/surface.py
 uv run python days/day-35-resources-and-prompts/lab/decision_cost.py
 cd days/day-35-resources-and-prompts/lab

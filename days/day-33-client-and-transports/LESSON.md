@@ -170,7 +170,7 @@ mkdir -p sutra/mcp
 touch sutra/mcp/__init__.py sutra/mcp/client.py
 
 # 7 - the freshness gate, before anything else
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 ```
 
 **Step 7 is the gate and it is the same one Day 32 ran.** Everything in this day is written against

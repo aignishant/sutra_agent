@@ -10,7 +10,7 @@
 ## Demo command
 
 ```bash
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 uv run python -c "from sutra.mcp.client import connect_stdio, connect_http, list_tools; print('client ok')"
 uv run python days/day-33-client-and-transports/lab/list_tools.py
 uv run python days/day-33-client-and-transports/lab/list_tools.py --filtered

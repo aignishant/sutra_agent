@@ -10,7 +10,7 @@
 ## Demo command
 
 ```bash
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 uv run python days/day-41-capabilities-and-mcp-apps/lab/gate.py; echo "exit: $?"
 uv run python days/day-41-capabilities-and-mcp-apps/lab/declared.py
 uv run python days/day-41-capabilities-and-mcp-apps/lab/client_meta.py

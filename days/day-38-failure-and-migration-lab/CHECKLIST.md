@@ -5,7 +5,7 @@ the thing, not when you have read it.
 
 ## Before you start
 
-- [ ] **The freshness gate.** `curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1`
+- [ ] **The freshness gate.** `curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1`
       prints `2026-07-28`. If it does not, stop and amend the plan first (Principle 14).
 - [ ] Day 37's parts and checklist are done, and `sutra_mcp` serves tools, resources, prompts, task
       handles and a gated write.

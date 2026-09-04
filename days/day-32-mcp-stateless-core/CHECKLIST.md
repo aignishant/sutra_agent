@@ -10,7 +10,7 @@
 ## Demo command
 
 ```bash
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "specification/2026-07-28" | head -1
 uv run python days/day-32-mcp-stateless-core/lab/boundary_check.py
 uv run python days/day-32-mcp-stateless-core/lab/letter.py
 uv run python days/day-32-mcp-stateless-core/lab/discover_cost.py

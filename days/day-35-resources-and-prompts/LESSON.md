@@ -174,7 +174,7 @@ cd -
 touch sutra_mcp/resources.py sutra_mcp/prompts.py
 
 # 9 - the freshness gate, before anything else
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1
 ```
 
 **Step 9 is the gate and it is not ceremony.** Everything in this day, the addendum it implements and

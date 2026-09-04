@@ -175,7 +175,7 @@ touch lab/papers/maintaining-robust-protocols/run.py
 cd -
 
 # 8 - the gate, before anything else: has the specification moved?
-curl -s https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1
+curl -sL https://modelcontextprotocol.io/specification/versioning | grep -o "2026-07-28" | head -1
 ```
 
 **Step 8 is the gate and it is the same one Day 32 ran.** This day, the addendum it implements and
