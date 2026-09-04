@@ -33,3 +33,6 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [25](wiki/day-25.md) | Skills: the open spec — `SKILL.md` anatomy | SK-01, SK-02, SK-03 | 14 | - |
 | [26](wiki/day-26.md) | `SkillToolset` — loading skills into ADK | SK-04, SK-05, ADK-24 | 17 | - |
 | [27](wiki/day-27.md) | Authoring Sutra's first skills | SK-06, SK-07, SK-08 | 19 | - |
+| [28](wiki/day-28.md) | Progressive disclosure & skill design | SK-09, SK-10, SK-11 | 16 | - |
+| [29](wiki/day-29.md) | Sourcing & auditing third-party skills | SK-12, SK-13, SK-14, SK-15, SK-16 | 17 | doi:10.1145/358198.358210 |
+| [32](wiki/day-32.md) | MCP 2026 — the stateless core, governance and the registry | MCP-01, MCP-26, MCP-32 | 20 | doi:10.1145/514183.514185 |

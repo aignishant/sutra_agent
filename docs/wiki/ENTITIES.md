@@ -41,6 +41,9 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-10** - 7 parts: [20/1.1](day-20.md), [20/1.2](day-20.md), [20/1.3](day-20.md), [20/1.4](day-20.md), [20/4.1](day-20.md), [20/4.2](day-20.md), [20/5.1](day-20.md)
 - **AG-11** - 5 parts: [24/1.1](day-24.md), [24/1.2](day-24.md), [24/1.3](day-24.md), [24/2.3](day-24.md), [24/5.2](day-24.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
+- **MCP-01** - 6 parts: [32/1.1](day-32.md), [32/1.2](day-32.md), [32/1.3](day-32.md), [32/1.4](day-32.md), [32/1.5](day-32.md), [32/6.2](day-32.md)
+- **MCP-26** - 11 parts: [32/2.1](day-32.md), [32/2.2](day-32.md), [32/2.3](day-32.md), [32/2.4](day-32.md), [32/3.1](day-32.md), [32/3.2](day-32.md), [32/3.3](day-32.md), [32/3.4](day-32.md), [32/5.1](day-32.md), [32/5.2](day-32.md), [32/6.1](day-32.md)
+- **MCP-32** - 4 parts: [32/4.1](day-32.md), [32/4.2](day-32.md), [32/4.3](day-32.md), [32/6.2](day-32.md)
 - **OPS-01** - 3 parts: [01/2.1](day-01.md), [01/2.2](day-01.md), [01/2.3](day-01.md)
 - **OPS-02** - 4 parts: [01/3.1](day-01.md), [01/3.2](day-01.md), [01/3.3](day-01.md), [01/3.4](day-01.md)
 - **OPS-03** - 3 parts: [01/4.1](day-01.md), [01/4.2](day-01.md), [01/4.3](day-01.md)
@@ -58,6 +61,14 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **SK-06** - 10 parts: [27/1.1](day-27.md), [27/1.2](day-27.md), [27/1.3](day-27.md), [27/1.4](day-27.md), [27/1.5](day-27.md), [27/1.6](day-27.md), [27/1.7](day-27.md), [27/2.1](day-27.md), [27/2.2](day-27.md), [27/5.2](day-27.md)
 - **SK-07** - 4 parts: [27/3.1](day-27.md), [27/3.2](day-27.md), [27/3.3](day-27.md), [27/5.1](day-27.md)
 - **SK-08** - 5 parts: [27/4.1](day-27.md), [27/4.2](day-27.md), [27/4.3](day-27.md), [27/6.1](day-27.md), [27/6.2](day-27.md)
+- **SK-09** - 9 parts: [28/1.1](day-28.md), [28/1.2](day-28.md), [28/1.3](day-28.md), [28/1.4](day-28.md), [28/4.1](day-28.md), [28/4.2](day-28.md), [28/4.3](day-28.md), [28/5.1](day-28.md), [28/5.2](day-28.md)
+- **SK-10** - 9 parts: [28/2.1](day-28.md), [28/2.2](day-28.md), [28/2.3](day-28.md), [28/2.4](day-28.md), [28/4.1](day-28.md), [28/4.2](day-28.md), [28/4.3](day-28.md), [28/5.1](day-28.md), [28/5.2](day-28.md)
+- **SK-11** - 6 parts: [28/3.1](day-28.md), [28/3.2](day-28.md), [28/3.3](day-28.md), [28/4.1](day-28.md), [28/4.2](day-28.md), [28/4.3](day-28.md)
+- **SK-12** - 4 parts: [29/1.1](day-29.md), [29/1.2](day-29.md), [29/1.3](day-29.md), [29/6.1](day-29.md)
+- **SK-13** - 8 parts: [29/2.1](day-29.md), [29/2.2](day-29.md), [29/2.3](day-29.md), [29/2.4](day-29.md), [29/2.5](day-29.md), [29/2.6](day-29.md), [29/3.2](day-29.md), [29/6.1](day-29.md)
+- **SK-14** - 4 parts: [29/3.1](day-29.md), [29/3.2](day-29.md), [29/3.3](day-29.md), [29/6.2](day-29.md)
+- **SK-15** - 3 parts: [29/4.1](day-29.md), [29/4.2](day-29.md), [29/6.2](day-29.md)
+- **SK-16** - 1 parts: [29/5.1](day-29.md)
 
 ## By paper
 
@@ -84,7 +95,7 @@ A paper is taught once in the whole curriculum.
 - **arXiv:2310.08560** - MemGPT: Towards LLMs as Operating Systems
   - taught in day 20; cited by 20/1.1, 20/4.2, 26/2.2, 26/5.1
 - **arXiv:2406.18665** - RouteLLM: Learning to Route LLMs with Preference Data
-  - taught in day 09; cited by 09/5.1
+  - taught in day 09; cited by 09/5.1, 28/2.1
 - **doi:10.1007/BFb0053381** - Aspect-oriented programming
   - taught in day 14; cited by 14/1.1
 - **doi:10.1017/S0269888900008122** - Intelligent agents: theory and practice — where the word came from
@@ -94,8 +105,12 @@ A paper is taught once in the whole curriculum.
 - **doi:10.1145/1028664.1028765** - Mock roles, not objects
   - taught in day 23; cited by 23/1.1, 23/1.4
 - **doi:10.1145/2080.357392** - Implementing remote procedure calls
-  - taught in day 15; cited by 15/4.1, 15/4.2
+  - taught in day 15; cited by 15/4.1, 15/4.2, 32/1.4
 - **doi:10.1145/357401.357402** - End-to-end arguments in system design
-  - taught in day 21; cited by 21/5.1
+  - taught in day 21; cited by 21/5.1, 32/1.5
+- **doi:10.1145/358198.358210** - Reflections on trusting trust
+  - taught in day 29; cited by 29/3.1, 29/6.2
 - **doi:10.1145/359545.359563** - Time, clocks, and the ordering of events in a distributed system
   - taught in day 22; cited by 22/1.4
+- **doi:10.1145/514183.514185** - Principled design of the modern Web architecture
+  - taught in day 32; cited by 32/2.2, 32/3.3

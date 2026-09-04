@@ -133,7 +133,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 
 | ID | Day | Day title |
 | --- | --- | --- |
-| `MCP-01` | [32](../days/day-32/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
+| `MCP-01` | [32](../days/day-32-mcp-stateless-core/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
 | `MCP-02` | [33](../days/day-33/LESSON.md) | The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as… |
 | `MCP-03` | [33](../days/day-33/LESSON.md) | The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as… |
 | `MCP-04` | [34](../days/day-34/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
@@ -158,13 +158,13 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `MCP-23` | [44](../days/day-44/LESSON.md) | Client hardening — retries, timeouts, no held connections |
 | `MCP-24` | [45](../days/day-45/LESSON.md) | Phase gate — full MCP audit of sutra-core |
 | `MCP-25` | [45](../days/day-45/LESSON.md) | Phase gate — full MCP audit of sutra-core |
-| `MCP-26` | [32](../days/day-32/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
+| `MCP-26` | [32](../days/day-32-mcp-stateless-core/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
 | `MCP-27` | [37](../days/day-37/LESSON.md) | Auth & enterprise — OAuth2 + RFC 9207 issuer validation + CIMD; elicitation (incl. URL-… |
 | `MCP-28` | [36](../days/day-36/LESSON.md) | Long jobs — progress, the Tasks extension (`tasks/get |
 | `MCP-29` | [41](../days/day-41/LESSON.md) | Server capabilities & MCP Apps — sandboxed-iframe UIs, pre-declared templates |
 | `MCP-30` | [37](../days/day-37/LESSON.md) | Auth & enterprise — OAuth2 + RFC 9207 issuer validation + CIMD; elicitation (incl. URL-… |
 | `MCP-31` | [38](../days/day-38/LESSON.md) | Failure & migration lab — timeouts, malformed servers; deprecated Roots/Sampling/Loggin… |
-| `MCP-32` | [32](../days/day-32/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
+| `MCP-32` | [32](../days/day-32-mcp-stateless-core/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
 | `MCP-33` | [42](../days/day-42/LESSON.md) | Serving agents over MCP — `to_mcp_server`; agent-as-tool vs agent-as-peer |
 
 ## Curriculum D — Agent Skills (`SK-`) — 20 IDs
@@ -179,14 +179,14 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `SK-06` | [27](../days/day-27-authoring-first-skills/LESSON.md) | Authoring Sutra's first skills |
 | `SK-07` | [27](../days/day-27-authoring-first-skills/LESSON.md) | Authoring Sutra's first skills |
 | `SK-08` | [27](../days/day-27-authoring-first-skills/LESSON.md) | Authoring Sutra's first skills |
-| `SK-09` | [28](../days/day-28/LESSON.md) | Progressive disclosure & skill design |
-| `SK-10` | [28](../days/day-28/LESSON.md) | Progressive disclosure & skill design |
-| `SK-11` | [28](../days/day-28/LESSON.md) | Progressive disclosure & skill design |
-| `SK-12` | [29](../days/day-29/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
-| `SK-13` | [29](../days/day-29/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
-| `SK-14` | [29](../days/day-29/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
-| `SK-15` | [29](../days/day-29/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
-| `SK-16` | [29](../days/day-29/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
+| `SK-09` | [28](../days/day-28-progressive-disclosure-design/LESSON.md) | Progressive disclosure & skill design |
+| `SK-10` | [28](../days/day-28-progressive-disclosure-design/LESSON.md) | Progressive disclosure & skill design |
+| `SK-11` | [28](../days/day-28-progressive-disclosure-design/LESSON.md) | Progressive disclosure & skill design |
+| `SK-12` | [29](../days/day-29-sourcing-and-auditing-skills/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
+| `SK-13` | [29](../days/day-29-sourcing-and-auditing-skills/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
+| `SK-14` | [29](../days/day-29-sourcing-and-auditing-skills/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
+| `SK-15` | [29](../days/day-29-sourcing-and-auditing-skills/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
+| `SK-16` | [29](../days/day-29-sourcing-and-auditing-skills/LESSON.md) | Sourcing & auditing third-party skills — provenance ledger; Agent Registry endpoint |
 | `SK-17` | [30](../days/day-30/LESSON.md) | Skill testing & versioning |
 | `SK-18` | [30](../days/day-30/LESSON.md) | Skill testing & versioning |
 | `SK-19` | [30](../days/day-30/LESSON.md) | Skill testing & versioning |

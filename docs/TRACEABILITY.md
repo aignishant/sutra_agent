@@ -61,14 +61,14 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | SK-06 | 4 | 27 | ✅ closed day 27 |
 | SK-07 | 4 | 27 | ✅ closed day 27 |
 | SK-08 | 4 | 27 | ✅ closed day 27 |
-| SK-09 | 4 | 28 | ⬜ open |
-| SK-10 | 4 | 28 | ⬜ open |
-| SK-11 | 4 | 28 | ⬜ open |
-| SK-12 | 4 | 29 | ⬜ open |
-| SK-13 | 4 | 29 | ⬜ open |
-| SK-14 | 4 | 29 | ⬜ open |
-| SK-15 | 4 | 29 | ⬜ open |
-| SK-16 | 4 | 29 | ⬜ open |
+| SK-09 | 4 | 28 | ✅ closed day 28 |
+| SK-10 | 4 | 28 | ✅ closed day 28 |
+| SK-11 | 4 | 28 | ✅ closed day 28 |
+| SK-12 | 4 | 29 | ✅ closed day 29 |
+| SK-13 | 4 | 29 | ✅ closed day 29 |
+| SK-14 | 4 | 29 | ✅ closed day 29 |
+| SK-15 | 4 | 29 | ✅ closed day 29 |
+| SK-16 | 4 | 29 | ✅ closed day 29 |
 | SK-17 | 4 | 30 | ⬜ open |
 | SK-18 | 4 | 30 | ⬜ open |
 | SK-19 | 4 | 30 | ⬜ open |
@@ -207,4 +207,4 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | ADK-72 | 14 | 91 | ⬜ open |
 | SEC-16 | 14 | 92 | ⬜ open |
 
-**54 / 199 IDs closed.**
+**62 / 199 IDs closed.**
