@@ -37,6 +37,7 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 | 25 | 2026-09-04 | SK-01, SK-02, SK-03 | 14 | 3e660c6 | ⚠️ |
 | 26 | 2026-09-04 | SK-04, SK-05, ADK-24 | 17 | 421c595 | ⚠️ |
 | 27 | 2026-09-04 | SK-06, SK-07, SK-08 | 19 | d2282b4 | ⚠️ |
+| 28 | 2026-09-04 | SK-09, SK-10, SK-11 | 16 | <hash> | ⚠️ |
 
 > **Deviation from Principle 2, recorded rather than hidden.** Days 7–12 were written and committed
 > together in `5c85364` (2026-08-27) instead of one commit per day, and their rows were not appended
