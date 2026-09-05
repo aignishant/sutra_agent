@@ -25,8 +25,8 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-12` | [48](../days/day-48-memory-design/LESSON.md) | Memory design — what to remember, what to forget |
 | `AG-13` | [48](../days/day-48-memory-design/LESSON.md) | Memory design — what to remember, what to forget |
 | `AG-14` | [50](../days/day-50-chunking-and-top-k/LESSON.md) | Chunking, top-k & when RAG is the wrong tool |
-| `AG-15` | [52](../days/day-52/LESSON.md) | Phase gate — memory wired into the triage flow |
-| `AG-16` | [55](../days/day-55/LESSON.md) | Delegation & transfer; agent-as-tool |
+| `AG-15` | [52](../days/day-52-memory-in-triage-flow/LESSON.md) | Phase gate — memory wired into the triage flow |
+| `AG-16` | [55](../days/day-55-delegation-and-transfer/LESSON.md) | Delegation & transfer; agent-as-tool |
 | `AG-17` | [56](../days/day-56/LESSON.md) | Planning patterns — plan-and-execute, replanning |
 | `AG-18` | [56](../days/day-56/LESSON.md) | Planning patterns — plan-and-execute, replanning |
 | `AG-19` | [57](../days/day-57/LESSON.md) | Multi-agent design — orchestrator, Writer↔Critic |
@@ -80,15 +80,15 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-28` | [46](../days/day-46-sessions-vs-memory/LESSON.md) | Sessions vs memory — `MemoryService` semantics |
 | `ADK-29` | [47](../days/day-47-persistent-sessions/LESSON.md) | Persistent sessions — database-backed |
 | `ADK-30` | [49](../days/day-49-retrieval-and-embeddings/LESSON.md) | Retrieval & embeddings — one honest RAG day (local embedding index over the ticket arch… |
-| `ADK-31` | [51](../days/day-51/LESSON.md) | Caching — context & response caching as the quota lifeline |
-| `ADK-32` | [53](../days/day-53/LESSON.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model (trap #1) |
-| `ADK-33` | [53](../days/day-53/LESSON.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model (trap #1) |
-| `ADK-34` | [53](../days/day-53/LESSON.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model (trap #1) |
-| `ADK-35` | [54](../days/day-54/LESSON.md) | Sequential, parallel & loop patterns |
-| `ADK-36` | [54](../days/day-54/LESSON.md) | Sequential, parallel & loop patterns |
-| `ADK-37` | [54](../days/day-54/LESSON.md) | Sequential, parallel & loop patterns |
-| `ADK-38` | [55](../days/day-55/LESSON.md) | Delegation & transfer; agent-as-tool |
-| `ADK-39` | [55](../days/day-55/LESSON.md) | Delegation & transfer; agent-as-tool |
+| `ADK-31` | [51](../days/day-51-caching-the-quota-lifeline/LESSON.md) | Caching — context & response caching as the quota lifeline |
+| `ADK-32` | [53](../days/day-53-graph-workflow-runtime/LESSON.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model (trap #1) |
+| `ADK-33` | [53](../days/day-53-graph-workflow-runtime/LESSON.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model (trap #1) |
+| `ADK-34` | [53](../days/day-53-graph-workflow-runtime/LESSON.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model (trap #1) |
+| `ADK-35` | [54](../days/day-54-sequential-parallel-loop/LESSON.md) | Sequential, parallel & loop patterns |
+| `ADK-36` | [54](../days/day-54-sequential-parallel-loop/LESSON.md) | Sequential, parallel & loop patterns |
+| `ADK-37` | [54](../days/day-54-sequential-parallel-loop/LESSON.md) | Sequential, parallel & loop patterns |
+| `ADK-38` | [55](../days/day-55-delegation-and-transfer/LESSON.md) | Delegation & transfer; agent-as-tool |
+| `ADK-39` | [55](../days/day-55-delegation-and-transfer/LESSON.md) | Delegation & transfer; agent-as-tool |
 | `ADK-40` | [57](../days/day-57/LESSON.md) | Multi-agent design — orchestrator, Writer↔Critic |
 | `ADK-41` | [58](../days/day-58/LESSON.md) | The triage graph v1 — intake→classify→research→draft→review, end to end |
 | `ADK-42` | [58](../days/day-58/LESSON.md) | The triage graph v1 — intake→classify→research→draft→review, end to end |
@@ -205,7 +205,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `OPS-07` | [24](../days/day-24-token-accounting-and-budgets/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
 | `OPS-08` | [31](../days/day-31-the-quality-gate/LESSON.md) | Quality gate — `./m check`: lint, tests, skills lint, `:free`-suffix lint |
 | `OPS-09` | [45](../days/day-45-the-mcp-audit/LESSON.md) | Phase gate — full MCP audit of sutra-core |
-| `OPS-10` | [51](../days/day-51/LESSON.md) | Caching — context & response caching as the quota lifeline |
+| `OPS-10` | [51](../days/day-51-caching-the-quota-lifeline/LESSON.md) | Caching — context & response caching as the quota lifeline |
 | `OPS-11` | [65](../days/day-65/LESSON.md) | Phase gate — kill it mid-run; durable triage with human approval |
 | `OPS-12` | [70](../days/day-70/LESSON.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom |
 | `OPS-13` | [72](../days/day-72/LESSON.md) | Backoff with honesty — `retry-after`, 1→2→4→8s, escalate after N; never invent a result |

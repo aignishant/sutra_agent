@@ -64,3 +64,11 @@ can be found in prose without guessing where it ends.
 | A vector space model for automatic indexing | doi:10.1145/361219.361220 | 1975 | 2026-09-05 | 49 | `days/day-49-retrieval-and-embeddings/papers/01-vector-space-model.md` |
 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | arXiv:2005.11401 | 2020 | 2026-09-05 | 49 | `days/day-49-retrieval-and-embeddings/papers/02-retrieval-augmented-generation.md` |
 | Efficient Estimation of Word Representations in Vector Space | arXiv:1301.3781 | 2013 | 2026-09-05 | 49 | *(not taught - named in `papers/01-vector-space-model.md` as the paper where meaning became geometry, which is what a term-count vector cannot do)* |
+| The Contract Net Protocol: High-Level Communication and Control in a Distributed Problem Solver | doi:10.1109/TC.1980.1675516 | 1980 | 2026-09-05 | 55 | `days/day-55-delegation-and-transfer/papers/01-contract-net-protocol.md` |
+| Evaluation techniques for storage hierarchies | doi:10.1147/sj.92.0078 | 1970 | 2026-09-05 | 51 | `days/day-51-caching-the-quota-lifeline/papers/01-storage-hierarchies.md` |
+| Dryad: distributed data-parallel programs from sequential building blocks | doi:10.1145/1272998.1273005 | 2007 | 2026-09-05 | 53 | `days/day-53-graph-workflow-runtime/papers/01-dryad.md` |
+| Communicating sequential processes | doi:10.1145/359576.359585 | 1978 | 2026-09-05 | 54 | `days/day-54-sequential-parallel-loop/papers/01-communicating-sequential-processes.md` |
+| Self-Refine: Iterative Refinement with Self-Feedback | arXiv:2303.17651 | 2023 | 2026-09-05 | 57 | `days/day-57-orchestrator-and-critic/papers/01-self-refine.md` |
+| Strips: A new approach to the application of theorem proving to problem solving | doi:10.1016/0004-3702(71)90010-5 | 1971 | 2026-09-05 | 56 | `days/day-56-planning-and-replanning/papers/01-strips.md` |
+| Distributed snapshots: determining global states of distributed systems | doi:10.1145/214451.214456 | 1985 | 2026-09-05 | 60 | `days/day-60-durable-execution/papers/01-distributed-snapshots.md` |
+| Fail-stop processors: an approach to designing fault-tolerant computing systems | doi:10.1145/357369.357371 | 1983 | 2026-09-05 | 59 | `days/day-59-runaway-agents-contained/papers/01-fail-stop-processors.md` |
