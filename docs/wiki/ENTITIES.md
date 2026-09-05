@@ -33,6 +33,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-27** - 9 parts: [46/1.1](day-46.md), [46/1.2](day-46.md), [46/1.3](day-46.md), [46/2.1](day-46.md), [46/2.2](day-46.md), [46/2.3](day-46.md), [46/2.4](day-46.md), [46/6.1](day-46.md), [46/6.2](day-46.md)
 - **ADK-28** - 11 parts: [46/3.1](day-46.md), [46/3.2](day-46.md), [46/3.3](day-46.md), [46/3.4](day-46.md), [46/4.1](day-46.md), [46/4.2](day-46.md), [46/5.1](day-46.md), [46/5.2](day-46.md), [46/5.3](day-46.md), [46/5.4](day-46.md), [46/6.1](day-46.md)
 - **ADK-29** - 20 parts: [47/1.1](day-47.md), [47/1.2](day-47.md), [47/1.3](day-47.md), [47/2.1](day-47.md), [47/2.2](day-47.md), [47/2.3](day-47.md), [47/2.4](day-47.md), [47/2.5](day-47.md), [47/3.1](day-47.md), [47/3.2](day-47.md), [47/3.3](day-47.md), [47/4.1](day-47.md), [47/4.2](day-47.md), [47/4.3](day-47.md), [47/5.1](day-47.md), [47/5.2](day-47.md), [47/5.3](day-47.md), [47/6.1](day-47.md), [47/6.2](day-47.md), [47/7.1](day-47.md)
+- **ADK-30** - 6 parts: [49/4.1](day-49.md), [49/4.2](day-49.md), [49/4.3](day-49.md), [49/4.4](day-49.md), [49/5.3](day-49.md), [49/6.2](day-49.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **ADK-78** - 1 parts: [39/4.3](day-39.md)
 - **AG-01** - 4 parts: [01/1.1](day-01.md), [01/1.2](day-01.md), [01/1.3](day-01.md), [01/1.4](day-01.md)
@@ -48,7 +49,9 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-11** - 5 parts: [24/1.1](day-24.md), [24/1.2](day-24.md), [24/1.3](day-24.md), [24/2.3](day-24.md), [24/5.2](day-24.md)
 - **AG-12** - 10 parts: [48/1.1](day-48.md), [48/1.2](day-48.md), [48/1.3](day-48.md), [48/1.4](day-48.md), [48/2.1](day-48.md), [48/2.2](day-48.md), [48/2.3](day-48.md), [48/5.1](day-48.md), [48/6.1](day-48.md), [48/6.2](day-48.md)
 - **AG-13** - 11 parts: [48/3.1](day-48.md), [48/3.2](day-48.md), [48/3.3](day-48.md), [48/4.1](day-48.md), [48/4.2](day-48.md), [48/4.3](day-48.md), [48/4.4](day-48.md), [48/5.2](day-48.md), [48/5.3](day-48.md), [48/6.1](day-48.md), [48/6.2](day-48.md)
+- **AG-14** - 19 parts: [50/1.1](day-50.md), [50/1.2](day-50.md), [50/1.3](day-50.md), [50/1.4](day-50.md), [50/2.1](day-50.md), [50/2.2](day-50.md), [50/2.3](day-50.md), [50/3.1](day-50.md), [50/3.2](day-50.md), [50/3.3](day-50.md), [50/4.1](day-50.md), [50/4.2](day-50.md), [50/4.3](day-50.md), [50/5.1](day-50.md), [50/5.2](day-50.md), [50/5.3](day-50.md), [50/5.4](day-50.md), [50/6.1](day-50.md), [50/6.2](day-50.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
+- **AG-33** - 14 parts: [49/1.1](day-49.md), [49/1.2](day-49.md), [49/1.3](day-49.md), [49/1.4](day-49.md), [49/1.5](day-49.md), [49/2.1](day-49.md), [49/2.2](day-49.md), [49/3.1](day-49.md), [49/3.2](day-49.md), [49/3.3](day-49.md), [49/3.4](day-49.md), [49/5.1](day-49.md), [49/5.2](day-49.md), [49/6.1](day-49.md)
 - **MCP-01** - 6 parts: [32/1.1](day-32.md), [32/1.2](day-32.md), [32/1.3](day-32.md), [32/1.4](day-32.md), [32/1.5](day-32.md), [32/6.2](day-32.md)
 - **MCP-02** - 9 parts: [33/1.1](day-33.md), [33/1.2](day-33.md), [33/1.3](day-33.md), [33/1.4](day-33.md), [33/1.5](day-33.md), [33/4.1](day-33.md), [33/5.2](day-33.md), [33/6.1](day-33.md), [33/6.2](day-33.md)
 - **MCP-03** - 12 parts: [33/2.1](day-33.md), [33/2.2](day-33.md), [33/2.3](day-33.md), [33/2.4](day-33.md), [33/3.1](day-33.md), [33/3.2](day-33.md), [33/3.3](day-33.md), [33/3.4](day-33.md), [33/4.1](day-33.md), [33/4.2](day-33.md), [33/5.1](day-33.md), [33/6.1](day-33.md)
@@ -123,6 +126,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 02; cited by 02/2.1
 - **arXiv:1904.09751** - The Curious Case of Neural Text Degeneration — why the most likely word is the wrong word
   - taught in day 02; cited by 02/4.2
+- **arXiv:2005.11401** - Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  - taught in day 49; cited by 49/4.2, 49/6.1
 - **arXiv:2201.11903** - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models — the tax you pay for
   - taught in day 02; cited by 02/2.3, 27/1.4
 - **arXiv:2203.02155** - Training language models to follow instructions with human feedback
@@ -136,7 +141,7 @@ A paper is taught once in the whole curriculum.
 - **arXiv:2304.03442** - Generative Agents: Interactive Simulacra of Human Behavior
   - taught in day 46; cited by no parts
 - **arXiv:2307.03172** - Lost in the Middle: How Language Models Use Long Contexts
-  - taught in day 19; cited by 19/3.3, 35/5.2
+  - taught in day 19; cited by 19/3.3, 35/5.2, 50/3.3, 50/5.4
 - **arXiv:2307.09702** - Efficient Guided Generation for Large Language Models
   - taught in day 12; cited by 12/1.1
 - **arXiv:2310.08560** - MemGPT: Towards LLMs as Operating Systems
@@ -169,6 +174,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 29; cited by 29/3.1, 29/6.2
 - **doi:10.1145/359545.359563** - Time, clocks, and the ordering of events in a distributed system
   - taught in day 22; cited by 22/1.4
+- **doi:10.1145/361219.361220** - A vector space model for automatic indexing
+  - taught in day 49; cited by 49/1.2, 49/1.3, 49/1.4
 - **doi:10.1145/362384.362685** - A Relational Model of Data for Large Shared Data Banks
   - taught in day 39; cited by 39/1.2, 39/6.2
 - **doi:10.1145/514183.514185** - Principled design of the modern Web architecture

@@ -54,3 +54,5 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [46](wiki/day-46.md) | Sessions versus memory — `MemoryService` semantics | ADK-27, ADK-28 | 19 | arXiv:2304.03442 |
 | [47](wiki/day-47.md) | Persistent sessions — database-backed | ADK-29 | 20 | doi:10.1145/289.291 |
 | [48](wiki/day-48.md) | Memory design — what to remember, what to forget | AG-12, AG-13 | 19 | - |
+| [49](wiki/day-49.md) | Retrieval & embeddings — one honest RAG day | AG-33, ADK-30 | 20 | doi:10.1145/361219.361220, arXiv:2005.11401 |
+| [50](wiki/day-50.md) | Chunking, top-k & when RAG is the wrong tool | AG-14 | 19 | - |

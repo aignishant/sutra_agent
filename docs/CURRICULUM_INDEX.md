@@ -24,7 +24,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-11` | [24](../days/day-24-token-accounting-and-budgets/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
 | `AG-12` | [48](../days/day-48-memory-design/LESSON.md) | Memory design — what to remember, what to forget |
 | `AG-13` | [48](../days/day-48-memory-design/LESSON.md) | Memory design — what to remember, what to forget |
-| `AG-14` | [50](../days/day-50/LESSON.md) | Chunking, top-k & when RAG is the wrong tool |
+| `AG-14` | [50](../days/day-50-chunking-and-top-k/LESSON.md) | Chunking, top-k & when RAG is the wrong tool |
 | `AG-15` | [52](../days/day-52/LESSON.md) | Phase gate — memory wired into the triage flow |
 | `AG-16` | [55](../days/day-55/LESSON.md) | Delegation & transfer; agent-as-tool |
 | `AG-17` | [56](../days/day-56/LESSON.md) | Planning patterns — plan-and-execute, replanning |
@@ -43,7 +43,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-30` | [91](../days/day-91/LESSON.md) | Integrations survey — Slack-shaped intake, ecosystems; paid-only items noted "requires … |
 | `AG-31` | [71](../days/day-71/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
 | `AG-32` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
-| `AG-33` | [49](../days/day-49/LESSON.md) | Retrieval & embeddings — one honest RAG day (local embedding index over the ticket arch… |
+| `AG-33` | [49](../days/day-49-retrieval-and-embeddings/LESSON.md) | Retrieval & embeddings — one honest RAG day (local embedding index over the ticket arch… |
 | `AG-34` | [89](../days/day-89/LESSON.md) | A2A v1.0 — signed Agent Cards verified hands-on; AP2 mandates, x402/TAP 🅿️ — *know the … |
 
 ## Curriculum B — Google ADK (`ADK-`) — 78 IDs
@@ -79,7 +79,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-27` | [46](../days/day-46-sessions-vs-memory/LESSON.md) | Sessions vs memory — `MemoryService` semantics |
 | `ADK-28` | [46](../days/day-46-sessions-vs-memory/LESSON.md) | Sessions vs memory — `MemoryService` semantics |
 | `ADK-29` | [47](../days/day-47-persistent-sessions/LESSON.md) | Persistent sessions — database-backed |
-| `ADK-30` | [49](../days/day-49/LESSON.md) | Retrieval & embeddings — one honest RAG day (local embedding index over the ticket arch… |
+| `ADK-30` | [49](../days/day-49-retrieval-and-embeddings/LESSON.md) | Retrieval & embeddings — one honest RAG day (local embedding index over the ticket arch… |
 | `ADK-31` | [51](../days/day-51/LESSON.md) | Caching — context & response caching as the quota lifeline |
 | `ADK-32` | [53](../days/day-53/LESSON.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model (trap #1) |
 | `ADK-33` | [53](../days/day-53/LESSON.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model (trap #1) |
