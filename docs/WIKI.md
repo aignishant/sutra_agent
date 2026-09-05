@@ -35,4 +35,22 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [27](wiki/day-27.md) | Authoring Sutra's first skills | SK-06, SK-07, SK-08 | 19 | - |
 | [28](wiki/day-28.md) | Progressive disclosure & skill design | SK-09, SK-10, SK-11 | 16 | - |
 | [29](wiki/day-29.md) | Sourcing & auditing third-party skills | SK-12, SK-13, SK-14, SK-15, SK-16 | 17 | doi:10.1145/358198.358210 |
+| [30](wiki/day-30.md) | Skill testing & versioning | SK-17, SK-18, SK-19 | 19 | doi:10.1109/C-M.1978.218136 |
+| [31](wiki/day-31.md) | Quality gate — ./m check | OPS-08, SK-20 | 18 | - |
 | [32](wiki/day-32.md) | MCP 2026 — the stateless core, governance and the registry | MCP-01, MCP-26, MCP-32 | 20 | doi:10.1145/514183.514185 |
+| [33](wiki/day-33.md) | The client side — Sutra plugs into its first MCP server | MCP-02, MCP-03 | 19 | - |
+| [34](wiki/day-34.md) | Building `sutra-mcp` I — tools over the wire | MCP-04, MCP-06, MCP-05 | 19 | - |
+| [35](wiki/day-35.md) | Resources and prompts | MCP-09, MCP-07, MCP-08 | 19 | - |
+| [36](wiki/day-36.md) | Long jobs — progress, task handles and the Tasks extension | MCP-10, MCP-14, MCP-28 | 18 | doi:10.1145/53990.54016 |
+| [37](wiki/day-37.md) | Auth and enterprise — badges, questions and policy | MCP-13, MCP-27, MCP-30 | 19 | doi:10.17487/RFC9207 |
+| [38](wiki/day-38.md) | Failure and migration lab | MCP-11, MCP-12, MCP-31 | 20 | doi:10.17487/RFC9413 |
+| [39](wiki/day-39.md) | Database tools — Toolbox versus hand-written | MCP-15, ADK-25, ADK-78 | 20 | doi:10.1145/362384.362685 |
+| [40](wiki/day-40.md) | Tool filtering, allowlists and the MCP security posture | MCP-16, SEC-03, MCP-17 | 20 | doi:10.1109/PROC.1975.9939 |
+| [41](wiki/day-41.md) | Server capabilities and MCP Apps | MCP-18, MCP-19, MCP-29 | 19 | - |
+| [42](wiki/day-42.md) | Serving agents over MCP | MCP-33, ADK-26 | 19 | doi:10.1007/3-540-62852-5_6 |
+| [43](wiki/day-43.md) | Stateless by default — deploy-shaped servers | MCP-20, MCP-21 | 19 | - |
+| [44](wiki/day-44.md) | Client hardening — retries, timeouts, no held connections | MCP-22, MCP-23 | 19 | doi:10.1145/2408776.2408794 |
+| [45](wiki/day-45.md) | Phase gate — the full MCP audit of `sutra-core` | MCP-24, OPS-09, MCP-25 | 19 | - |
+| [46](wiki/day-46.md) | Sessions versus memory — `MemoryService` semantics | ADK-27, ADK-28 | 19 | arXiv:2304.03442 |
+| [47](wiki/day-47.md) | Persistent sessions — database-backed | ADK-29 | 20 | doi:10.1145/289.291 |
+| [48](wiki/day-48.md) | Memory design — what to remember, what to forget | AG-12, AG-13 | 19 | - |

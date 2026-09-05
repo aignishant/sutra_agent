@@ -1,6 +1,6 @@
 # 📇 Curriculum index — Project Sutra
 
-_Generated 2026-09-04 by `scripts/trace.py` from the master plan's §14._
+_Generated 2026-09-05 by `scripts/trace.py` from the master plan's §14._
 **Do not edit by hand.**
 
 §14 answers *what does day 43 teach?* This file answers the reverse — *where do I learn
@@ -22,8 +22,8 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-09` | [19](../days/day-19-context-engineering-selection/LESSON.md) | Context engineering I — what earns a place in the window |
 | `AG-10` | [20](../days/day-20-context-engineering-compaction/LESSON.md) | Context engineering II — compaction & summarization |
 | `AG-11` | [24](../days/day-24-token-accounting-and-budgets/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
-| `AG-12` | [48](../days/day-48/LESSON.md) | Memory design — what to remember, what to forget |
-| `AG-13` | [48](../days/day-48/LESSON.md) | Memory design — what to remember, what to forget |
+| `AG-12` | [48](../days/day-48-memory-design/LESSON.md) | Memory design — what to remember, what to forget |
+| `AG-13` | [48](../days/day-48-memory-design/LESSON.md) | Memory design — what to remember, what to forget |
 | `AG-14` | [50](../days/day-50/LESSON.md) | Chunking, top-k & when RAG is the wrong tool |
 | `AG-15` | [52](../days/day-52/LESSON.md) | Phase gate — memory wired into the triage flow |
 | `AG-16` | [55](../days/day-55/LESSON.md) | Delegation & transfer; agent-as-tool |
@@ -74,11 +74,11 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-22` | [20](../days/day-20-context-engineering-compaction/LESSON.md) | Context engineering II — compaction & summarization |
 | `ADK-23` | [21](../days/day-21-errors-surface-not-swallow/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
 | `ADK-24` | [26](../days/day-26-loading-skills-into-adk/LESSON.md) | `SkillToolset` — loading skills into ADK |
-| `ADK-25` | [39](../days/day-39/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
-| `ADK-26` | [42](../days/day-42/LESSON.md) | Serving agents over MCP — `to_mcp_server`; agent-as-tool vs agent-as-peer |
-| `ADK-27` | [46](../days/day-46/LESSON.md) | Sessions vs memory — `MemoryService` semantics |
-| `ADK-28` | [46](../days/day-46/LESSON.md) | Sessions vs memory — `MemoryService` semantics |
-| `ADK-29` | [47](../days/day-47/LESSON.md) | Persistent sessions — database-backed |
+| `ADK-25` | [39](../days/day-39-database-tools/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
+| `ADK-26` | [42](../days/day-42-serving-agents-over-mcp/LESSON.md) | Serving agents over MCP — `to_mcp_server`; agent-as-tool vs agent-as-peer |
+| `ADK-27` | [46](../days/day-46-sessions-vs-memory/LESSON.md) | Sessions vs memory — `MemoryService` semantics |
+| `ADK-28` | [46](../days/day-46-sessions-vs-memory/LESSON.md) | Sessions vs memory — `MemoryService` semantics |
+| `ADK-29` | [47](../days/day-47-persistent-sessions/LESSON.md) | Persistent sessions — database-backed |
 | `ADK-30` | [49](../days/day-49/LESSON.md) | Retrieval & embeddings — one honest RAG day (local embedding index over the ticket arch… |
 | `ADK-31` | [51](../days/day-51/LESSON.md) | Caching — context & response caching as the quota lifeline |
 | `ADK-32` | [53](../days/day-53/LESSON.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model (trap #1) |
@@ -127,7 +127,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-75` | [80](../days/day-80/LESSON.md) | Trajectory & rubric evaluation — `RubricBasedMultiTurnTrajectoryEvaluator` (2.2); "esca… |
 | `ADK-76` | [64](../days/day-64/LESSON.md) | Approval gates — build; HITL resumption for standalone nodes + `NodeTool` (2.5) |
 | `ADK-77` | [76](../days/day-76/LESSON.md) | VAD events & non-blocking tools (2.5) — the conversation doesn't freeze mid-tool |
-| `ADK-78` | [39](../days/day-39/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
+| `ADK-78` | [39](../days/day-39-database-tools/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
 
 ## Curriculum C — MCP (`MCP-`) — 33 IDs
 
@@ -136,36 +136,36 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `MCP-01` | [32](../days/day-32-mcp-stateless-core/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
 | `MCP-02` | [33](../days/day-33-client-and-transports/LESSON.md) | The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as… |
 | `MCP-03` | [33](../days/day-33-client-and-transports/LESSON.md) | The client side — connect Sutra to servers; transports (stdio + Streamable HTTP; SSE as… |
-| `MCP-04` | [34](../days/day-34/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
-| `MCP-05` | [34](../days/day-34/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
-| `MCP-06` | [34](../days/day-34/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
-| `MCP-07` | [35](../days/day-35/LESSON.md) | Resources & prompts |
-| `MCP-08` | [35](../days/day-35/LESSON.md) | Resources & prompts |
-| `MCP-09` | [35](../days/day-35/LESSON.md) | Resources & prompts |
-| `MCP-10` | [36](../days/day-36/LESSON.md) | Long jobs — progress, the Tasks extension (`tasks/get |
-| `MCP-11` | [38](../days/day-38/LESSON.md) | Failure & migration lab — timeouts, malformed servers; deprecated Roots/Sampling/Loggin… |
-| `MCP-12` | [38](../days/day-38/LESSON.md) | Failure & migration lab — timeouts, malformed servers; deprecated Roots/Sampling/Loggin… |
-| `MCP-13` | [37](../days/day-37/LESSON.md) | Auth & enterprise — OAuth2 + RFC 9207 issuer validation + CIMD; elicitation (incl. URL-… |
-| `MCP-14` | [36](../days/day-36/LESSON.md) | Long jobs — progress, the Tasks extension (`tasks/get |
-| `MCP-15` | [39](../days/day-39/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
-| `MCP-16` | [40](../days/day-40/LESSON.md) | Tool filtering, allowlists & MCP security posture |
-| `MCP-17` | [40](../days/day-40/LESSON.md) | Tool filtering, allowlists & MCP security posture |
-| `MCP-18` | [41](../days/day-41/LESSON.md) | Server capabilities & MCP Apps — sandboxed-iframe UIs, pre-declared templates |
-| `MCP-19` | [41](../days/day-41/LESSON.md) | Server capabilities & MCP Apps — sandboxed-iframe UIs, pre-declared templates |
-| `MCP-20` | [43](../days/day-43/LESSON.md) | Stateless by default — deploy-shaped servers; any instance answers any request |
-| `MCP-21` | [43](../days/day-43/LESSON.md) | Stateless by default — deploy-shaped servers; any instance answers any request |
-| `MCP-22` | [44](../days/day-44/LESSON.md) | Client hardening — retries, timeouts, no held connections |
-| `MCP-23` | [44](../days/day-44/LESSON.md) | Client hardening — retries, timeouts, no held connections |
-| `MCP-24` | [45](../days/day-45/LESSON.md) | Phase gate — full MCP audit of sutra-core |
-| `MCP-25` | [45](../days/day-45/LESSON.md) | Phase gate — full MCP audit of sutra-core |
+| `MCP-04` | [34](../days/day-34-building-sutra-mcp-tools/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
+| `MCP-05` | [34](../days/day-34-building-sutra-mcp-tools/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
+| `MCP-06` | [34](../days/day-34-building-sutra-mcp-tools/LESSON.md) | Building `sutra-mcp` I — tools; stateless lifecycle (the old handshake as history) |
+| `MCP-07` | [35](../days/day-35-resources-and-prompts/LESSON.md) | Resources & prompts |
+| `MCP-08` | [35](../days/day-35-resources-and-prompts/LESSON.md) | Resources & prompts |
+| `MCP-09` | [35](../days/day-35-resources-and-prompts/LESSON.md) | Resources & prompts |
+| `MCP-10` | [36](../days/day-36-long-jobs-and-tasks/LESSON.md) | Long jobs — progress, the Tasks extension (`tasks/get |
+| `MCP-11` | [38](../days/day-38-failure-and-migration-lab/LESSON.md) | Failure & migration lab — timeouts, malformed servers; deprecated Roots/Sampling/Loggin… |
+| `MCP-12` | [38](../days/day-38-failure-and-migration-lab/LESSON.md) | Failure & migration lab — timeouts, malformed servers; deprecated Roots/Sampling/Loggin… |
+| `MCP-13` | [37](../days/day-37-auth-and-elicitation/LESSON.md) | Auth & enterprise — OAuth2 + RFC 9207 issuer validation + CIMD; elicitation (incl. URL-… |
+| `MCP-14` | [36](../days/day-36-long-jobs-and-tasks/LESSON.md) | Long jobs — progress, the Tasks extension (`tasks/get |
+| `MCP-15` | [39](../days/day-39-database-tools/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
+| `MCP-16` | [40](../days/day-40-filtering-and-allowlists/LESSON.md) | Tool filtering, allowlists & MCP security posture |
+| `MCP-17` | [40](../days/day-40-filtering-and-allowlists/LESSON.md) | Tool filtering, allowlists & MCP security posture |
+| `MCP-18` | [41](../days/day-41-capabilities-and-mcp-apps/LESSON.md) | Server capabilities & MCP Apps — sandboxed-iframe UIs, pre-declared templates |
+| `MCP-19` | [41](../days/day-41-capabilities-and-mcp-apps/LESSON.md) | Server capabilities & MCP Apps — sandboxed-iframe UIs, pre-declared templates |
+| `MCP-20` | [43](../days/day-43-stateless-by-default/LESSON.md) | Stateless by default — deploy-shaped servers; any instance answers any request |
+| `MCP-21` | [43](../days/day-43-stateless-by-default/LESSON.md) | Stateless by default — deploy-shaped servers; any instance answers any request |
+| `MCP-22` | [44](../days/day-44-client-hardening/LESSON.md) | Client hardening — retries, timeouts, no held connections |
+| `MCP-23` | [44](../days/day-44-client-hardening/LESSON.md) | Client hardening — retries, timeouts, no held connections |
+| `MCP-24` | [45](../days/day-45-the-mcp-audit/LESSON.md) | Phase gate — full MCP audit of sutra-core |
+| `MCP-25` | [45](../days/day-45-the-mcp-audit/LESSON.md) | Phase gate — full MCP audit of sutra-core |
 | `MCP-26` | [32](../days/day-32-mcp-stateless-core/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
-| `MCP-27` | [37](../days/day-37/LESSON.md) | Auth & enterprise — OAuth2 + RFC 9207 issuer validation + CIMD; elicitation (incl. URL-… |
-| `MCP-28` | [36](../days/day-36/LESSON.md) | Long jobs — progress, the Tasks extension (`tasks/get |
-| `MCP-29` | [41](../days/day-41/LESSON.md) | Server capabilities & MCP Apps — sandboxed-iframe UIs, pre-declared templates |
-| `MCP-30` | [37](../days/day-37/LESSON.md) | Auth & enterprise — OAuth2 + RFC 9207 issuer validation + CIMD; elicitation (incl. URL-… |
-| `MCP-31` | [38](../days/day-38/LESSON.md) | Failure & migration lab — timeouts, malformed servers; deprecated Roots/Sampling/Loggin… |
+| `MCP-27` | [37](../days/day-37-auth-and-elicitation/LESSON.md) | Auth & enterprise — OAuth2 + RFC 9207 issuer validation + CIMD; elicitation (incl. URL-… |
+| `MCP-28` | [36](../days/day-36-long-jobs-and-tasks/LESSON.md) | Long jobs — progress, the Tasks extension (`tasks/get |
+| `MCP-29` | [41](../days/day-41-capabilities-and-mcp-apps/LESSON.md) | Server capabilities & MCP Apps — sandboxed-iframe UIs, pre-declared templates |
+| `MCP-30` | [37](../days/day-37-auth-and-elicitation/LESSON.md) | Auth & enterprise — OAuth2 + RFC 9207 issuer validation + CIMD; elicitation (incl. URL-… |
+| `MCP-31` | [38](../days/day-38-failure-and-migration-lab/LESSON.md) | Failure & migration lab — timeouts, malformed servers; deprecated Roots/Sampling/Loggin… |
 | `MCP-32` | [32](../days/day-32-mcp-stateless-core/LESSON.md) | MCP 2026 — the stateless core (headers, cacheable lists), governance & registry; the ph… |
-| `MCP-33` | [42](../days/day-42/LESSON.md) | Serving agents over MCP — `to_mcp_server`; agent-as-tool vs agent-as-peer |
+| `MCP-33` | [42](../days/day-42-serving-agents-over-mcp/LESSON.md) | Serving agents over MCP — `to_mcp_server`; agent-as-tool vs agent-as-peer |
 
 ## Curriculum D — Agent Skills (`SK-`) — 20 IDs
 
@@ -204,7 +204,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `OPS-06` | [23](../days/day-23-testing-tools-and-callbacks/LESSON.md) | Testing agents I — unit tests for tools & callbacks |
 | `OPS-07` | [24](../days/day-24-token-accounting-and-budgets/LESSON.md) | Token accounting & budgets — denominated in quota (RPM/RPD), not dollars |
 | `OPS-08` | [31](../days/day-31-the-quality-gate/LESSON.md) | Quality gate — `./m check`: lint, tests, skills lint, `:free`-suffix lint |
-| `OPS-09` | [45](../days/day-45/LESSON.md) | Phase gate — full MCP audit of sutra-core |
+| `OPS-09` | [45](../days/day-45-the-mcp-audit/LESSON.md) | Phase gate — full MCP audit of sutra-core |
 | `OPS-10` | [51](../days/day-51/LESSON.md) | Caching — context & response caching as the quota lifeline |
 | `OPS-11` | [65](../days/day-65/LESSON.md) | Phase gate — kill it mid-run; durable triage with human approval |
 | `OPS-12` | [70](../days/day-70/LESSON.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom |
@@ -221,7 +221,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | --- | --- | --- |
 | `SEC-01` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `SEC-02` | [21](../days/day-21-errors-surface-not-swallow/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
-| `SEC-03` | [40](../days/day-40/LESSON.md) | Tool filtering, allowlists & MCP security posture |
+| `SEC-03` | [40](../days/day-40-filtering-and-allowlists/LESSON.md) | Tool filtering, allowlists & MCP security posture |
 | `SEC-04` | [59](../days/day-59/LESSON.md) | Phase gate + failure lab — loops, runaway agents, containment |
 | `SEC-05` | [63](../days/day-63/LESSON.md) | Approval gates — design (what needs a human, and why) |
 | `SEC-06` | [66](../days/day-66/LESSON.md) | Threat model — prompt injection & the lethal trifecta |

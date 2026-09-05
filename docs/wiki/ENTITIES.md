@@ -28,7 +28,13 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-22** - 10 parts: [20/2.1](day-20.md), [20/2.2](day-20.md), [20/2.3](day-20.md), [20/2.4](day-20.md), [20/3.1](day-20.md), [20/3.2](day-20.md), [20/3.3](day-20.md), [20/4.1](day-20.md), [20/5.1](day-20.md), [20/5.2](day-20.md)
 - **ADK-23** - 8 parts: [21/2.1](day-21.md), [21/2.2](day-21.md), [21/2.3](day-21.md), [21/2.4](day-21.md), [21/4.1](day-21.md), [21/4.2](day-21.md), [21/5.1](day-21.md), [21/5.2](day-21.md)
 - **ADK-24** - 5 parts: [26/3.1](day-26.md), [26/3.2](day-26.md), [26/3.3](day-26.md), [26/4.2](day-26.md), [26/5.2](day-26.md)
+- **ADK-25** - 6 parts: [39/3.1](day-39.md), [39/3.2](day-39.md), [39/4.1](day-39.md), [39/4.2](day-39.md), [39/5.2](day-39.md), [39/6.2](day-39.md)
+- **ADK-26** - 5 parts: [42/1.3](day-42.md), [42/3.1](day-42.md), [42/3.2](day-42.md), [42/3.3](day-42.md), [42/6.2](day-42.md)
+- **ADK-27** - 9 parts: [46/1.1](day-46.md), [46/1.2](day-46.md), [46/1.3](day-46.md), [46/2.1](day-46.md), [46/2.2](day-46.md), [46/2.3](day-46.md), [46/2.4](day-46.md), [46/6.1](day-46.md), [46/6.2](day-46.md)
+- **ADK-28** - 11 parts: [46/3.1](day-46.md), [46/3.2](day-46.md), [46/3.3](day-46.md), [46/3.4](day-46.md), [46/4.1](day-46.md), [46/4.2](day-46.md), [46/5.1](day-46.md), [46/5.2](day-46.md), [46/5.3](day-46.md), [46/5.4](day-46.md), [46/6.1](day-46.md)
+- **ADK-29** - 20 parts: [47/1.1](day-47.md), [47/1.2](day-47.md), [47/1.3](day-47.md), [47/2.1](day-47.md), [47/2.2](day-47.md), [47/2.3](day-47.md), [47/2.4](day-47.md), [47/2.5](day-47.md), [47/3.1](day-47.md), [47/3.2](day-47.md), [47/3.3](day-47.md), [47/4.1](day-47.md), [47/4.2](day-47.md), [47/4.3](day-47.md), [47/5.1](day-47.md), [47/5.2](day-47.md), [47/5.3](day-47.md), [47/6.1](day-47.md), [47/6.2](day-47.md), [47/7.1](day-47.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
+- **ADK-78** - 1 parts: [39/4.3](day-39.md)
 - **AG-01** - 4 parts: [01/1.1](day-01.md), [01/1.2](day-01.md), [01/1.3](day-01.md), [01/1.4](day-01.md)
 - **AG-02** - 16 parts: [02/1.1](day-02.md), [02/1.2](day-02.md), [02/1.3](day-02.md), [02/1.4](day-02.md), [02/1.5](day-02.md), [02/2.1](day-02.md), [02/2.2](day-02.md), [02/2.3](day-02.md), [02/3.1](day-02.md), [02/3.2](day-02.md), [02/3.3](day-02.md), [02/4.1](day-02.md), [02/4.2](day-02.md), [02/4.3](day-02.md), [02/5.1](day-02.md), [02/6.1](day-02.md)
 - **AG-03** - 14 parts: [03/1.1](day-03.md), [03/1.2](day-03.md), [03/2.1](day-03.md), [03/2.2](day-03.md), [03/2.3](day-03.md), [03/3.1](day-03.md), [03/3.2](day-03.md), [03/4.1](day-03.md), [03/4.2](day-03.md), [03/4.3](day-03.md), [03/5.1](day-03.md), [03/5.2](day-03.md), [03/6.1](day-03.md), [03/7.1](day-03.md)
@@ -40,10 +46,42 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-09** - 9 parts: [19/2.1](day-19.md), [19/2.2](day-19.md), [19/2.3](day-19.md), [19/2.4](day-19.md), [19/3.1](day-19.md), [19/3.2](day-19.md), [19/3.3](day-19.md), [19/5.1](day-19.md), [19/6.1](day-19.md)
 - **AG-10** - 7 parts: [20/1.1](day-20.md), [20/1.2](day-20.md), [20/1.3](day-20.md), [20/1.4](day-20.md), [20/4.1](day-20.md), [20/4.2](day-20.md), [20/5.1](day-20.md)
 - **AG-11** - 5 parts: [24/1.1](day-24.md), [24/1.2](day-24.md), [24/1.3](day-24.md), [24/2.3](day-24.md), [24/5.2](day-24.md)
+- **AG-12** - 10 parts: [48/1.1](day-48.md), [48/1.2](day-48.md), [48/1.3](day-48.md), [48/1.4](day-48.md), [48/2.1](day-48.md), [48/2.2](day-48.md), [48/2.3](day-48.md), [48/5.1](day-48.md), [48/6.1](day-48.md), [48/6.2](day-48.md)
+- **AG-13** - 11 parts: [48/3.1](day-48.md), [48/3.2](day-48.md), [48/3.3](day-48.md), [48/4.1](day-48.md), [48/4.2](day-48.md), [48/4.3](day-48.md), [48/4.4](day-48.md), [48/5.2](day-48.md), [48/5.3](day-48.md), [48/6.1](day-48.md), [48/6.2](day-48.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **MCP-01** - 6 parts: [32/1.1](day-32.md), [32/1.2](day-32.md), [32/1.3](day-32.md), [32/1.4](day-32.md), [32/1.5](day-32.md), [32/6.2](day-32.md)
+- **MCP-02** - 9 parts: [33/1.1](day-33.md), [33/1.2](day-33.md), [33/1.3](day-33.md), [33/1.4](day-33.md), [33/1.5](day-33.md), [33/4.1](day-33.md), [33/5.2](day-33.md), [33/6.1](day-33.md), [33/6.2](day-33.md)
+- **MCP-03** - 12 parts: [33/2.1](day-33.md), [33/2.2](day-33.md), [33/2.3](day-33.md), [33/2.4](day-33.md), [33/3.1](day-33.md), [33/3.2](day-33.md), [33/3.3](day-33.md), [33/3.4](day-33.md), [33/4.1](day-33.md), [33/4.2](day-33.md), [33/5.1](day-33.md), [33/6.1](day-33.md)
+- **MCP-04** - 7 parts: [34/1.1](day-34.md), [34/1.2](day-34.md), [34/1.3](day-34.md), [34/1.4](day-34.md), [34/2.1](day-34.md), [34/2.4](day-34.md), [34/6.2](day-34.md)
+- **MCP-05** - 3 parts: [34/5.1](day-34.md), [34/5.2](day-34.md), [34/5.3](day-34.md)
+- **MCP-06** - 12 parts: [34/2.1](day-34.md), [34/2.2](day-34.md), [34/2.3](day-34.md), [34/2.4](day-34.md), [34/3.1](day-34.md), [34/3.2](day-34.md), [34/3.3](day-34.md), [34/4.1](day-34.md), [34/4.2](day-34.md), [34/4.3](day-34.md), [34/6.1](day-34.md), [34/6.2](day-34.md)
+- **MCP-07** - 9 parts: [35/2.1](day-35.md), [35/2.2](day-35.md), [35/2.3](day-35.md), [35/2.4](day-35.md), [35/4.1](day-35.md), [35/4.2](day-35.md), [35/4.3](day-35.md), [35/5.1](day-35.md), [35/5.2](day-35.md)
+- **MCP-08** - 5 parts: [35/3.1](day-35.md), [35/3.2](day-35.md), [35/3.3](day-35.md), [35/3.4](day-35.md), [35/5.3](day-35.md)
+- **MCP-09** - 7 parts: [35/1.1](day-35.md), [35/1.2](day-35.md), [35/1.3](day-35.md), [35/3.4](day-35.md), [35/5.2](day-35.md), [35/6.1](day-35.md), [35/6.2](day-35.md)
+- **MCP-10** - 6 parts: [36/1.1](day-36.md), [36/1.2](day-36.md), [36/1.3](day-36.md), [36/2.1](day-36.md), [36/2.2](day-36.md), [36/2.3](day-36.md)
+- **MCP-11** - 6 parts: [38/1.1](day-38.md), [38/1.2](day-38.md), [38/1.3](day-38.md), [38/1.4](day-38.md), [38/3.2](day-38.md), [38/6.4](day-38.md)
+- **MCP-12** - 6 parts: [38/2.1](day-38.md), [38/2.2](day-38.md), [38/2.3](day-38.md), [38/2.4](day-38.md), [38/3.1](day-38.md), [38/6.4](day-38.md)
+- **MCP-13** - 9 parts: [37/1.1](day-37.md), [37/1.2](day-37.md), [37/1.3](day-37.md), [37/2.1](day-37.md), [37/2.2](day-37.md), [37/2.3](day-37.md), [37/6.1](day-37.md), [37/6.2](day-37.md), [37/6.3](day-37.md)
+- **MCP-14** - 5 parts: [36/3.1](day-36.md), [36/3.2](day-36.md), [36/3.3](day-36.md), [36/6.2](day-36.md), [36/6.3](day-36.md)
+- **MCP-15** - 16 parts: [39/1.1](day-39.md), [39/1.2](day-39.md), [39/1.3](day-39.md), [39/2.1](day-39.md), [39/2.2](day-39.md), [39/2.3](day-39.md), [39/2.4](day-39.md), [39/2.5](day-39.md), [39/2.6](day-39.md), [39/4.2](day-39.md), [39/5.1](day-39.md), [39/5.2](day-39.md), [39/5.3](day-39.md), [39/6.1](day-39.md), [39/6.2](day-39.md), [39/6.3](day-39.md)
+- **MCP-16** - 8 parts: [40/1.1](day-40.md), [40/1.3](day-40.md), [40/2.1](day-40.md), [40/2.2](day-40.md), [40/2.4](day-40.md), [40/5.1](day-40.md), [40/5.2](day-40.md), [40/5.3](day-40.md)
+- **MCP-17** - 7 parts: [40/3.1](day-40.md), [40/3.2](day-40.md), [40/3.3](day-40.md), [40/4.1](day-40.md), [40/4.2](day-40.md), [40/4.3](day-40.md), [40/6.4](day-40.md)
+- **MCP-18** - 8 parts: [41/1.1](day-41.md), [41/1.2](day-41.md), [41/1.3](day-41.md), [41/1.4](day-41.md), [41/2.1](day-41.md), [41/2.2](day-41.md), [41/2.3](day-41.md), [41/6.1](day-41.md)
+- **MCP-19** - 7 parts: [41/3.1](day-41.md), [41/3.2](day-41.md), [41/3.3](day-41.md), [41/4.2](day-41.md), [41/5.1](day-41.md), [41/5.2](day-41.md), [41/6.1](day-41.md)
+- **MCP-20** - 12 parts: [43/1.1](day-43.md), [43/1.2](day-43.md), [43/1.3](day-43.md), [43/1.4](day-43.md), [43/2.1](day-43.md), [43/2.2](day-43.md), [43/2.3](day-43.md), [43/2.4](day-43.md), [43/5.1](day-43.md), [43/5.2](day-43.md), [43/6.1](day-43.md), [43/6.2](day-43.md)
+- **MCP-21** - 9 parts: [43/3.1](day-43.md), [43/3.2](day-43.md), [43/3.3](day-43.md), [43/3.4](day-43.md), [43/3.5](day-43.md), [43/4.1](day-43.md), [43/4.2](day-43.md), [43/6.1](day-43.md), [43/6.2](day-43.md)
+- **MCP-22** - 16 parts: [44/1.1](day-44.md), [44/1.2](day-44.md), [44/1.3](day-44.md), [44/1.4](day-44.md), [44/2.1](day-44.md), [44/2.2](day-44.md), [44/2.3](day-44.md), [44/2.4](day-44.md), [44/3.1](day-44.md), [44/3.2](day-44.md), [44/3.3](day-44.md), [44/3.4](day-44.md), [44/4.1](day-44.md), [44/4.2](day-44.md), [44/6.1](day-44.md), [44/6.2](day-44.md)
+- **MCP-23** - 5 parts: [44/5.1](day-44.md), [44/5.2](day-44.md), [44/5.3](day-44.md), [44/6.1](day-44.md), [44/6.2](day-44.md)
+- **MCP-24** - 10 parts: [45/1.1](day-45.md), [45/1.2](day-45.md), [45/2.1](day-45.md), [45/2.2](day-45.md), [45/2.3](day-45.md), [45/2.4](day-45.md), [45/3.1](day-45.md), [45/3.2](day-45.md), [45/3.3](day-45.md), [45/4.1](day-45.md)
+- **MCP-25** - 4 parts: [45/4.3](day-45.md), [45/5.1](day-45.md), [45/5.2](day-45.md), [45/6.2](day-45.md)
 - **MCP-26** - 11 parts: [32/2.1](day-32.md), [32/2.2](day-32.md), [32/2.3](day-32.md), [32/2.4](day-32.md), [32/3.1](day-32.md), [32/3.2](day-32.md), [32/3.3](day-32.md), [32/3.4](day-32.md), [32/5.1](day-32.md), [32/5.2](day-32.md), [32/6.1](day-32.md)
+- **MCP-27** - 9 parts: [37/3.1](day-37.md), [37/3.2](day-37.md), [37/3.3](day-37.md), [37/3.4](day-37.md), [37/4.1](day-37.md), [37/4.2](day-37.md), [37/4.3](day-37.md), [37/6.2](day-37.md), [37/6.3](day-37.md)
+- **MCP-28** - 7 parts: [36/4.1](day-36.md), [36/4.2](day-36.md), [36/4.3](day-36.md), [36/4.4](day-36.md), [36/5.1](day-36.md), [36/5.2](day-36.md), [36/6.1](day-36.md)
+- **MCP-29** - 7 parts: [41/4.1](day-41.md), [41/4.2](day-41.md), [41/4.3](day-41.md), [41/4.4](day-41.md), [41/4.5](day-41.md), [41/5.1](day-41.md), [41/6.2](day-41.md)
+- **MCP-30** - 5 parts: [37/5.1](day-37.md), [37/5.2](day-37.md), [37/5.3](day-37.md), [37/6.2](day-37.md), [37/6.3](day-37.md)
+- **MCP-31** - 9 parts: [38/4.1](day-38.md), [38/4.2](day-38.md), [38/4.3](day-38.md), [38/5.1](day-38.md), [38/5.2](day-38.md), [38/5.3](day-38.md), [38/6.1](day-38.md), [38/6.2](day-38.md), [38/6.3](day-38.md)
 - **MCP-32** - 4 parts: [32/4.1](day-32.md), [32/4.2](day-32.md), [32/4.3](day-32.md), [32/6.2](day-32.md)
+- **MCP-33** - 17 parts: [42/1.1](day-42.md), [42/1.2](day-42.md), [42/1.3](day-42.md), [42/1.4](day-42.md), [42/2.1](day-42.md), [42/2.2](day-42.md), [42/2.3](day-42.md), [42/2.4](day-42.md), [42/3.3](day-42.md), [42/4.1](day-42.md), [42/4.2](day-42.md), [42/4.3](day-42.md), [42/5.1](day-42.md), [42/5.2](day-42.md), [42/5.3](day-42.md), [42/6.1](day-42.md), [42/6.2](day-42.md)
 - **OPS-01** - 3 parts: [01/2.1](day-01.md), [01/2.2](day-01.md), [01/2.3](day-01.md)
 - **OPS-02** - 4 parts: [01/3.1](day-01.md), [01/3.2](day-01.md), [01/3.3](day-01.md), [01/3.4](day-01.md)
 - **OPS-03** - 3 parts: [01/4.1](day-01.md), [01/4.2](day-01.md), [01/4.3](day-01.md)
@@ -51,8 +89,11 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **OPS-05** - 13 parts: [23/1.1](day-23.md), [23/1.2](day-23.md), [23/1.3](day-23.md), [23/1.4](day-23.md), [23/3.1](day-23.md), [23/3.2](day-23.md), [23/3.3](day-23.md), [23/4.1](day-23.md), [23/4.2](day-23.md), [23/4.3](day-23.md), [23/5.1](day-23.md), [23/5.2](day-23.md), [23/6.1](day-23.md)
 - **OPS-06** - 14 parts: [23/2.1](day-23.md), [23/2.2](day-23.md), [23/2.3](day-23.md), [23/2.4](day-23.md), [23/2.5](day-23.md), [23/3.1](day-23.md), [23/3.2](day-23.md), [23/3.3](day-23.md), [23/4.1](day-23.md), [23/4.2](day-23.md), [23/4.3](day-23.md), [23/5.1](day-23.md), [23/5.2](day-23.md), [23/6.2](day-23.md)
 - **OPS-07** - 11 parts: [24/1.3](day-24.md), [24/2.1](day-24.md), [24/2.2](day-24.md), [24/2.3](day-24.md), [24/3.1](day-24.md), [24/3.2](day-24.md), [24/3.3](day-24.md), [24/4.1](day-24.md), [24/4.2](day-24.md), [24/5.1](day-24.md), [24/5.2](day-24.md)
+- **OPS-08** - 14 parts: [31/1.1](day-31.md), [31/1.2](day-31.md), [31/1.3](day-31.md), [31/1.4](day-31.md), [31/3.1](day-31.md), [31/3.2](day-31.md), [31/3.3](day-31.md), [31/4.1](day-31.md), [31/4.2](day-31.md), [31/5.1](day-31.md), [31/5.2](day-31.md), [31/5.3](day-31.md), [31/6.1](day-31.md), [31/6.2](day-31.md)
+- **OPS-09** - 5 parts: [45/4.2](day-45.md), [45/6.1](day-45.md), [45/7.1](day-45.md), [45/7.2](day-45.md), [45/7.3](day-45.md)
 - **SEC-01** - 4 parts: [16/4.3](day-16.md), [16/6.1](day-16.md), [16/6.3](day-16.md), [16/8.1](day-16.md)
 - **SEC-02** - 8 parts: [21/1.1](day-21.md), [21/1.2](day-21.md), [21/1.3](day-21.md), [21/3.1](day-21.md), [21/3.2](day-21.md), [21/3.3](day-21.md), [21/4.1](day-21.md), [21/5.1](day-21.md)
+- **SEC-03** - 9 parts: [40/1.2](day-40.md), [40/2.3](day-40.md), [40/2.4](day-40.md), [40/3.2](day-40.md), [40/5.2](day-40.md), [40/6.1](day-40.md), [40/6.2](day-40.md), [40/6.3](day-40.md), [40/6.4](day-40.md)
 - **SK-01** - 3 parts: [25/1.1](day-25.md), [25/1.2](day-25.md), [25/1.3](day-25.md)
 - **SK-02** - 6 parts: [25/2.1](day-25.md), [25/2.2](day-25.md), [25/2.3](day-25.md), [25/2.4](day-25.md), [25/4.1](day-25.md), [25/4.2](day-25.md)
 - **SK-03** - 6 parts: [25/3.1](day-25.md), [25/3.2](day-25.md), [25/3.3](day-25.md), [25/4.1](day-25.md), [25/5.1](day-25.md), [25/5.2](day-25.md)
@@ -69,6 +110,10 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **SK-14** - 4 parts: [29/3.1](day-29.md), [29/3.2](day-29.md), [29/3.3](day-29.md), [29/6.2](day-29.md)
 - **SK-15** - 3 parts: [29/4.1](day-29.md), [29/4.2](day-29.md), [29/6.2](day-29.md)
 - **SK-16** - 1 parts: [29/5.1](day-29.md)
+- **SK-17** - 13 parts: [30/1.1](day-30.md), [30/1.2](day-30.md), [30/1.3](day-30.md), [30/2.1](day-30.md), [30/2.2](day-30.md), [30/2.3](day-30.md), [30/2.4](day-30.md), [30/3.1](day-30.md), [30/3.2](day-30.md), [30/3.3](day-30.md), [30/6.1](day-30.md), [30/6.2](day-30.md), [30/6.3](day-30.md)
+- **SK-18** - 4 parts: [30/4.1](day-30.md), [30/4.2](day-30.md), [30/4.3](day-30.md), [30/6.2](day-30.md)
+- **SK-19** - 4 parts: [30/5.1](day-30.md), [30/5.2](day-30.md), [30/5.3](day-30.md), [30/6.3](day-30.md)
+- **SK-20** - 4 parts: [31/2.1](day-31.md), [31/2.2](day-31.md), [31/2.3](day-31.md), [31/2.4](day-31.md)
 
 ## By paper
 
@@ -88,29 +133,49 @@ A paper is taught once in the whole curriculum.
   - taught in day 16; cited by 16/5.4
 - **arXiv:2302.04761** - Toolformer: Language Models Can Teach Themselves to Use Tools — the premise, not the method
   - taught in day 04; cited by no parts
+- **arXiv:2304.03442** - Generative Agents: Interactive Simulacra of Human Behavior
+  - taught in day 46; cited by no parts
 - **arXiv:2307.03172** - Lost in the Middle: How Language Models Use Long Contexts
-  - taught in day 19; cited by 19/3.3
+  - taught in day 19; cited by 19/3.3, 35/5.2
 - **arXiv:2307.09702** - Efficient Guided Generation for Large Language Models
   - taught in day 12; cited by 12/1.1
 - **arXiv:2310.08560** - MemGPT: Towards LLMs as Operating Systems
-  - taught in day 20; cited by 20/1.1, 20/4.2, 26/2.2, 26/5.1
+  - taught in day 20; cited by 20/1.1, 20/4.2, 26/2.2, 26/5.1, 48/1.3, 48/5.1
 - **arXiv:2406.18665** - RouteLLM: Learning to Route LLMs with Preference Data
   - taught in day 09; cited by 09/5.1, 28/2.1
+- **doi:10.1007/3-540-62852-5_6** - A note on distributed computing
+  - taught in day 42; cited by 42/3.2
 - **doi:10.1007/BFb0053381** - Aspect-oriented programming
   - taught in day 14; cited by 14/1.1
 - **doi:10.1017/S0269888900008122** - Intelligent agents: theory and practice — where the word came from
   - taught in day 01; cited by 01/1.1, 01/1.2
+- **doi:10.1109/C-M.1978.218136** - Hints on Test Data Selection: Help for the Practicing Programmer
+  - taught in day 30; cited by 30/3.3, 30/6.2
 - **doi:10.1109/MCOM.1986.1092946** - New directions in communications — the leaky bucket
-  - taught in day 24; cited by no parts
+  - taught in day 24; cited by 44/3.2
+- **doi:10.1109/PROC.1975.9939** - The protection of information in computer systems
+  - taught in day 40; cited by 40/1.1, 40/1.2, 40/2.4, 45/4.1, 48/2.3
 - **doi:10.1145/1028664.1028765** - Mock roles, not objects
   - taught in day 23; cited by 23/1.1, 23/1.4
 - **doi:10.1145/2080.357392** - Implementing remote procedure calls
-  - taught in day 15; cited by 15/4.1, 15/4.2, 32/1.4
+  - taught in day 15; cited by 15/4.1, 15/4.2, 32/1.4, 33/1.1, 34/2.4
+- **doi:10.1145/2408776.2408794** - The tail at scale
+  - taught in day 44; cited by 44/2.1
+- **doi:10.1145/289.291** - Principles of transaction-oriented database recovery
+  - taught in day 47; cited by 47/3.1
 - **doi:10.1145/357401.357402** - End-to-end arguments in system design
-  - taught in day 21; cited by 21/5.1, 32/1.5
+  - taught in day 21; cited by 21/5.1, 31/1.4, 32/1.5, 34/4.1, 38/2.1, 44/1.2, 45/2.1
 - **doi:10.1145/358198.358210** - Reflections on trusting trust
   - taught in day 29; cited by 29/3.1, 29/6.2
 - **doi:10.1145/359545.359563** - Time, clocks, and the ordering of events in a distributed system
   - taught in day 22; cited by 22/1.4
+- **doi:10.1145/362384.362685** - A Relational Model of Data for Large Shared Data Banks
+  - taught in day 39; cited by 39/1.2, 39/6.2
 - **doi:10.1145/514183.514185** - Principled design of the modern Web architecture
-  - taught in day 32; cited by 32/2.2, 32/3.3
+  - taught in day 32; cited by 32/2.2, 32/3.3, 33/3.1, 35/2.1, 41/1.4, 43/1.1, 43/4.1
+- **doi:10.1145/53990.54016** - Promises: linguistic support for efficient asynchronous procedure calls in distributed systems
+  - taught in day 36; cited by 36/1.1
+- **doi:10.17487/RFC9207** - OAuth 2.0 Authorization Server Issuer Identification
+  - taught in day 37; cited by 37/2.1
+- **doi:10.17487/RFC9413** - Maintaining Robust Protocols
+  - taught in day 38; cited by no parts

@@ -1,0 +1,101 @@
+# Day 45 - Phase gate — the full MCP audit of `sutra-core`
+
+IDs closed: MCP-24, OPS-09, MCP-25 · source: `days/day-45-the-mcp-audit/`
+
+## Parts
+
+### 1.1 - The list is written before you look
+`days/day-45-the-mcp-audit/parts/01-what-an-audit-is/1.1-the-list-is-written-before-you-look.md` · level `foundation` · ids MCP-24
+
+An audit is a list of named rules written before you open the thing being audited, because a list written while looking at the code bends to the code, and the whole value of the exercise is that it does not.
+
+### 1.2 - A finding is the audit working
+`days/day-45-the-mcp-audit/parts/01-what-an-audit-is/1.2-a-finding-is-the-audit-working.md` · level `foundation` · ids MCP-24
+
+Every finding ends in exactly one of two states — fixed, with the change beside it, or filed, with the day it is scheduled for — and the third state, "we should look at that sometime", is the one that turns an audit into a document nobody re-runs.
+
+### 2.1 - A01 — nothing reaches past the client
+`days/day-45-the-mcp-audit/parts/02-the-client-side/2.1-nothing-reaches-past-the-client.md` · level `working` · ids MCP-24
+
+A01 parses every module under sutra/ except sutra/mcp/ and fails on any import of a database driver or an HTTP library, which turns Day 32's "the boundary is MCP" from a design intention into a statement the repository can contradict.
+
+### 2.2 - A02 — every call carries a deadline
+`days/day-45-the-mcp-audit/parts/02-the-client-side/2.2-every-call-carries-a-deadline.md` · level `working` · ids MCP-24
+
+A02 reads every module under sutra/mcp/ and fails any file that mentions call_tool or list_tools without with_timeout in scope, because a call with no deadline is not slow — it is a call that never returns an answer of any kind.
+
+### 2.3 - A03 — nothing holds a connection
+`days/day-45-the-mcp-audit/parts/02-the-client-side/2.3-nothing-holds-a-connection.md` · level `working` · ids MCP-24
+
+A03 walks the top level of every module under sutra/mcp/ and fails any assignment whose value is a call to a connector, because a session created at import time is a session created once, held forever, and shared by everything that imports the module.
+
+### 2.4 - A04 — no key in a tracked file
+`days/day-45-the-mcp-audit/parts/02-the-client-side/2.4-no-key-in-a-tracked-file.md` · level `working` · ids MCP-24
+
+A04 asks git which files are tracked, reads the code trees among them, and fails on anything shaped like a provider key — and it deliberately does not read days/, because a check that fires on its own documentation is a check somebody switches off.
+
+### 3.1 - A05 — no state that outlives a request
+`days/day-45-the-mcp-audit/parts/03-the-server-side/3.1-no-state-that-outlives-a-request.md` · level `working` · ids MCP-24
+
+A05 walks the top level of every module under sutra_mcp/ and fails any assignment whose value is a dictionary, a list, a set or a call that builds one, because a mutable module-level binding is state one request leaves behind for the next — and the next request may be on a different instance.
+
+### 3.2 - A06 — every tool says what it takes
+`days/day-45-the-mcp-audit/parts/03-the-server-side/3.2-every-tool-says-what-it-takes.md` · level `working` · ids MCP-24
+
+A06 finds every function under sutra_mcp/ carrying a @server.tool(), @server.resource() or @server.prompt() decorator and fails it if the docstring is missing or any parameter is unannotated, because on the wire the docstring is the description and the annotations are the schema.
+
+### 3.3 - A07 — every tool has a path that raises
+`days/day-45-the-mcp-audit/parts/03-the-server-side/3.3-every-tool-has-a-path-that-raises.md` · level `working` · ids MCP-24
+
+A07 finds every exception handler under sutra_mcp/ and fails the ones that return a value without raising anything, because a tool that answers an error with a plausible empty result has told a model something false and left nothing behind to find.
+
+### 4.1 - A08 — the allowlist is not empty
+`days/day-45-the-mcp-audit/parts/04-the-policy/4.1-the-allowlist-is-not-empty.md` · level `working` · ids MCP-24
+
+A08 parses sutra/mcp/filtering.py and fails on an empty REGISTRY or on any ServerPolicy constructed with an empty or missing allow=, because in ADK an empty tool filter does not mean nothing — it means everything, and that is a policy failing open.
+
+### 4.2 - A09 — a rule with one owner
+`days/day-45-the-mcp-audit/parts/04-the-policy/4.2-a-rule-with-one-owner.md` · level `working` · ids OPS-09
+
+The :free suffix rule already has a linter, so A09 does not re-implement it — it reads the check) target in m and fails if the stages this audit assumes are not actually wired in, which is how a rule gets exactly one owner and one place where it can be switched off.
+
+### 4.3 - A10 — where the server ledger lives
+`days/day-45-the-mcp-audit/parts/04-the-policy/4.3-where-the-server-ledger-lives.md` · level `production` · ids MCP-25
+
+The server provenance ledger is docs/SERVER_PROVENANCE.md, it is generated by tools/mcp_audit.py from the REGISTRY in sutra/mcp/filtering.py, and A10 fails when the two disagree in either direction — which is the answer to the question Day 32 left open.
+
+### 5.1 - Six questions with an exit code
+`days/day-45-the-mcp-audit/parts/05-a-server-you-did-not-write/5.1-six-questions-with-an-exit-code.md` · level `production` · ids MCP-25
+
+Auditing a server you did not write is a different job from auditing your own: you cannot read the code, so the audit becomes six questions about the relationship — publisher, version, endpoint, revision, permitted surface, named reviewer — and the honest version of the check separates the three a machine can answer from the three only a person can.
+
+### 5.2 - What no script can check
+`days/day-45-the-mcp-audit/parts/05-a-server-you-did-not-write/5.2-what-no-script-can-check.md` · level `production` · ids MCP-25
+
+Two things in this audit have no decision procedure and never will — whether a tool description is written to manipulate a model, and whether the person named in reviewed_by actually read anything — so the audit states them as rows a human owns rather than pretending they are checks.
+
+### 6.1 - 💥 Green because the path did not exist
+`days/day-45-the-mcp-audit/parts/06-failure-lab/6.1-green-because-the-path-did-not-exist.md` · level `production` · ids OPS-09
+
+Change one line in each check — return [] instead of a finding when the target is missing — and this audit reports eight green rules on a repository where none of the audited code exists, which is why a missing target is a finding is the most load-bearing decision in the module.
+
+### 6.2 - 💥 The registry that was empty
+`days/day-45-the-mcp-audit/parts/06-failure-lab/6.2-the-registry-that-was-empty.md` · level `production` · ids MCP-25
+
+An audit whose inventory comes from a list rather than from reality reports ten green rules on a repository that reaches three servers nobody reviewed — because every rule was correct about the one server in REGISTRY, and no rule asks whether REGISTRY is the whole truth.
+
+### 7.1 - Six things that must be true
+`days/day-45-the-mcp-audit/parts/07-the-phase-gate/7.1-six-things-that-must-be-true.md` · level `production` · ids OPS-09
+
+Phase 6 is green only when six independent conditions hold at once, the ten-rule audit satisfies part of exactly one of them, and the other five are answered by a person reading and writing things down.
+
+### 7.2 - The freshness re-check
+`days/day-45-the-mcp-audit/parts/07-the-phase-gate/7.2-the-freshness-recheck.md` · level `production` · ids OPS-09
+
+Four things outside this repository get re-read at the Phase 6 boundary — the framework's releases, the MCP specification revision, the SDK that speaks it, and the free-model rosters — and on 2026-09-05 three came back amber, one came back green, and the green one is the load-bearing result.
+
+### 7.3 - The pin and the amendment
+`days/day-45-the-mcp-audit/parts/07-the-phase-gate/7.3-the-pin-and-the-amendment.md` · level `production` · ids OPS-09
+
+mcp stays at 1.29.1 today, and not because bumping is frightening: google-adk 2.8.0, the newest release, still declares mcp>=1.24,<2, so the framework forbids it — which turns the phase's headline finding from "we are behind" into "we are blocked upstream", and that is a sentence an amendment can be written around.
+

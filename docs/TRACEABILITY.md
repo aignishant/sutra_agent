@@ -1,5 +1,5 @@
 # Traceability (regenerated; do not edit by hand)
-_Generated 2026-09-04 by scripts/trace.py_
+_Generated 2026-09-05 by scripts/trace.py_
 
 Plan §14 assigns each ID to exactly one day. An ID counts as **closed** only when that
 day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
@@ -69,54 +69,54 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | SK-14 | 4 | 29 | ✅ closed day 29 |
 | SK-15 | 4 | 29 | ✅ closed day 29 |
 | SK-16 | 4 | 29 | ✅ closed day 29 |
-| SK-17 | 4 | 30 | ⬜ open |
-| SK-18 | 4 | 30 | ⬜ open |
-| SK-19 | 4 | 30 | ⬜ open |
-| SK-20 | 4 | 31 | ⬜ open |
-| OPS-08 | 4 | 31 | ⬜ open |
-| MCP-01 | 5 | 32 | ⬜ open |
-| MCP-26 | 5 | 32 | ⬜ open |
-| MCP-32 | 5 | 32 | ⬜ open |
-| MCP-02 | 5 | 33 | ⬜ open |
-| MCP-03 | 5 | 33 | ⬜ open |
-| MCP-04 | 5 | 34 | ⬜ open |
-| MCP-05 | 5 | 34 | ⬜ open |
-| MCP-06 | 5 | 34 | ⬜ open |
-| MCP-07 | 5 | 35 | ⬜ open |
-| MCP-08 | 5 | 35 | ⬜ open |
-| MCP-09 | 5 | 35 | ⬜ open |
-| MCP-10 | 5 | 36 | ⬜ open |
-| MCP-14 | 5 | 36 | ⬜ open |
-| MCP-28 | 5 | 36 | ⬜ open |
-| MCP-13 | 5 | 37 | ⬜ open |
-| MCP-27 | 5 | 37 | ⬜ open |
-| MCP-30 | 5 | 37 | ⬜ open |
-| MCP-11 | 5 | 38 | ⬜ open |
-| MCP-12 | 5 | 38 | ⬜ open |
-| MCP-31 | 5 | 38 | ⬜ open |
-| MCP-15 | 6 | 39 | ⬜ open |
-| ADK-25 | 6 | 39 | ⬜ open |
-| ADK-78 | 6 | 39 | ⬜ open |
-| MCP-16 | 6 | 40 | ⬜ open |
-| MCP-17 | 6 | 40 | ⬜ open |
-| SEC-03 | 6 | 40 | ⬜ open |
-| MCP-18 | 6 | 41 | ⬜ open |
-| MCP-19 | 6 | 41 | ⬜ open |
-| MCP-29 | 6 | 41 | ⬜ open |
-| MCP-33 | 6 | 42 | ⬜ open |
-| ADK-26 | 6 | 42 | ⬜ open |
-| MCP-20 | 6 | 43 | ⬜ open |
-| MCP-21 | 6 | 43 | ⬜ open |
-| MCP-22 | 6 | 44 | ⬜ open |
-| MCP-23 | 6 | 44 | ⬜ open |
-| MCP-24 | 6 | 45 | ⬜ open |
-| MCP-25 | 6 | 45 | ⬜ open |
-| OPS-09 | 6 | 45 | ⬜ open |
-| ADK-27 | 7 | 46 | ⬜ open |
-| ADK-28 | 7 | 46 | ⬜ open |
-| ADK-29 | 7 | 47 | ⬜ open |
-| AG-12 | 7 | 48 | ⬜ open |
-| AG-13 | 7 | 48 | ⬜ open |
+| SK-17 | 4 | 30 | ✅ closed day 30 |
+| SK-18 | 4 | 30 | ✅ closed day 30 |
+| SK-19 | 4 | 30 | ✅ closed day 30 |
+| SK-20 | 4 | 31 | ✅ closed day 31 |
+| OPS-08 | 4 | 31 | ✅ closed day 31 |
+| MCP-01 | 5 | 32 | ✅ closed day 32 |
+| MCP-26 | 5 | 32 | ✅ closed day 32 |
+| MCP-32 | 5 | 32 | ✅ closed day 32 |
+| MCP-02 | 5 | 33 | ✅ closed day 33 |
+| MCP-03 | 5 | 33 | ✅ closed day 33 |
+| MCP-04 | 5 | 34 | ✅ closed day 34 |
+| MCP-05 | 5 | 34 | ✅ closed day 34 |
+| MCP-06 | 5 | 34 | ✅ closed day 34 |
+| MCP-07 | 5 | 35 | ✅ closed day 35 |
+| MCP-08 | 5 | 35 | ✅ closed day 35 |
+| MCP-09 | 5 | 35 | ✅ closed day 35 |
+| MCP-10 | 5 | 36 | ✅ closed day 36 |
+| MCP-14 | 5 | 36 | ✅ closed day 36 |
+| MCP-28 | 5 | 36 | ✅ closed day 36 |
+| MCP-13 | 5 | 37 | ✅ closed day 37 |
+| MCP-27 | 5 | 37 | ✅ closed day 37 |
+| MCP-30 | 5 | 37 | ✅ closed day 37 |
+| MCP-11 | 5 | 38 | ✅ closed day 38 |
+| MCP-12 | 5 | 38 | ✅ closed day 38 |
+| MCP-31 | 5 | 38 | ✅ closed day 38 |
+| MCP-15 | 6 | 39 | ✅ closed day 39 |
+| ADK-25 | 6 | 39 | ✅ closed day 39 |
+| ADK-78 | 6 | 39 | ✅ closed day 39 |
+| MCP-16 | 6 | 40 | ✅ closed day 40 |
+| MCP-17 | 6 | 40 | ✅ closed day 40 |
+| SEC-03 | 6 | 40 | ✅ closed day 40 |
+| MCP-18 | 6 | 41 | ✅ closed day 41 |
+| MCP-19 | 6 | 41 | ✅ closed day 41 |
+| MCP-29 | 6 | 41 | ✅ closed day 41 |
+| MCP-33 | 6 | 42 | ✅ closed day 42 |
+| ADK-26 | 6 | 42 | ✅ closed day 42 |
+| MCP-20 | 6 | 43 | ✅ closed day 43 |
+| MCP-21 | 6 | 43 | ✅ closed day 43 |
+| MCP-22 | 6 | 44 | ✅ closed day 44 |
+| MCP-23 | 6 | 44 | ✅ closed day 44 |
+| MCP-24 | 6 | 45 | ✅ closed day 45 |
+| MCP-25 | 6 | 45 | ✅ closed day 45 |
+| OPS-09 | 6 | 45 | ✅ closed day 45 |
+| ADK-27 | 7 | 46 | ✅ closed day 46 |
+| ADK-28 | 7 | 46 | ✅ closed day 46 |
+| ADK-29 | 7 | 47 | ✅ closed day 47 |
+| AG-12 | 7 | 48 | ✅ closed day 48 |
+| AG-13 | 7 | 48 | ✅ closed day 48 |
 | AG-33 | 7 | 49 | ⬜ open |
 | ADK-30 | 7 | 49 | ⬜ open |
 | AG-14 | 7 | 50 | ⬜ open |
@@ -207,4 +207,4 @@ day has a row in `docs/PROGRESS.md` *and* its hub's frontmatter claims the ID.
 | ADK-72 | 14 | 91 | ⬜ open |
 | SEC-16 | 14 | 92 | ⬜ open |
 
-**62 / 199 IDs closed.**
+**110 / 199 IDs closed.**
