@@ -61,3 +61,6 @@ can be found in prose without guessing where it ends.
 | The tail at scale | doi:10.1145/2408776.2408794 | 2013 | 2026-09-04 | 44 | `days/day-44-client-hardening/papers/01-the-tail-at-scale.md` |
 | Generative Agents: Interactive Simulacra of Human Behavior | arXiv:2304.03442 | 2023 | 2026-09-04 | 46 | `days/day-46-sessions-vs-memory/papers/01-generative-agents.md` |
 | Principles of transaction-oriented database recovery | doi:10.1145/289.291 | 1983 | 2026-09-04 | 47 | `days/day-47-persistent-sessions/papers/01-transaction-oriented-recovery.md` |
+| A vector space model for automatic indexing | doi:10.1145/361219.361220 | 1975 | 2026-09-05 | 49 | `days/day-49-retrieval-and-embeddings/papers/01-vector-space-model.md` |
+| Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks | arXiv:2005.11401 | 2020 | 2026-09-05 | 49 | `days/day-49-retrieval-and-embeddings/papers/02-retrieval-augmented-generation.md` |
+| Efficient Estimation of Word Representations in Vector Space | arXiv:1301.3781 | 2013 | 2026-09-05 | 49 | *(not taught - named in `papers/01-vector-space-model.md` as the paper where meaning became geometry, which is what a term-count vector cannot do)* |
