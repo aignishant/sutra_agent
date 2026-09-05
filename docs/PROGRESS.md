@@ -57,7 +57,7 @@ frozen at `legacy/ledgers/PROGRESS.md`.)*
 | 45 | 2026-09-05 | MCP-24, MCP-25, OPS-09 | 19 | acbea07 | ⚠️ |
 | 46 | 2026-09-05 | ADK-27, ADK-28 | 19 (+1 paper) | 0451883 | ⚠️ |
 | 47 | 2026-09-05 | ADK-29 | 20 (+1 paper) | d0d98c7 | ⚠️ |
-| 48 | 2026-09-05 | AG-12, AG-13 | 19 | <hash> | ⚠️ |
+| 48 | 2026-09-05 | AG-12, AG-13 | 19 | 1208f24 | ⚠️ |
 
 > **Day 32 was committed before days 29, 30 and 31, and its row is appended here after theirs.**
 > The day was written and committed in `dc9251d` (2026-09-04) while days 29-31 were still unwritten,
