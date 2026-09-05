@@ -271,16 +271,13 @@ def navigate(con) -> list[str]:
     ]
     table = tables[STORED_TABLE_POSITION]
     rows = con.execute(f'SELECT * FROM "{table}"').fetchall()
-    return sorted(
-        row[ID_FIELD_POSITION] for row in rows if row[STATUS_FIELD_POSITION] == "open"
-    )
+    return sorted(row[ID_FIELD_POSITION] for row in rows if row[STATUS_FIELD_POSITION] == "open")
 
 
 def query(con) -> list[str]:
     """Answer by naming the relation and the attribute, and nothing else."""
     return [
-        row[0]
-        for row in con.execute("SELECT id FROM tickets WHERE status = 'open' ORDER BY id")
+        row[0] for row in con.execute("SELECT id FROM tickets WHERE status = 'open' ORDER BY id")
     ]
 ```
 
