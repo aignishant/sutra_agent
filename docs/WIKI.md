@@ -83,3 +83,5 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [75](wiki/day-75.md) | Live API II — the bidi voice loop | ADK-54, ADK-55 | 11 | doi:10.2307/412243 |
 | [76](wiki/day-76.md) | VAD events and non-blocking tools — the conversation doesn't freeze mid-tool | ADK-56, ADK-77 | 11 | doi:10.1002/j.1538-7305.1975.tb02840.x |
 | [77](wiki/day-77.md) | The standup agent — a voice client over the queue state | ADK-57, AG-25 | 11 | doi:10.1037/h0043158 |
+| [78](wiki/day-78.md) | Phase gate — ambient and voice, inside free quota | OPS-14 | 18 | doi:10.1145/321738.321743 |
+| [79](wiki/day-79.md) | Evals are tests — evalsets, metrics, and the eval workhorse | AG-26, ADK-58, ADK-59 | 16 | arXiv:2005.04118 |

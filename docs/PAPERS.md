@@ -86,3 +86,5 @@ can be found in prose without guessing where it ends.
 | A simplest systematics for the organization of turn-taking for conversation | doi:10.2307/412243 | 1974 | 2026-09-06 | 75 | `days/day-75-the-bidi-voice-loop/papers/01-turn-taking.md` |
 | An Algorithm for Determining the Endpoints of Isolated Utterances | doi:10.1002/j.1538-7305.1975.tb02840.x | 1975 | 2026-09-06 | 76 | `days/day-76-vad-and-non-blocking-tools/papers/01-endpoint-detection.md` |
 | The magical number seven, plus or minus two: Some limits on our capacity for processing information. | doi:10.1037/h0043158 | 1956 | 2026-09-06 | 77 | `days/day-77-the-standup-agent/papers/01-chunking.md` |
+| Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment | doi:10.1145/321738.321743 | 1973 | 2026-09-06 | 78 | `days/day-78-inside-free-quota/papers/01-schedulability.md` |
+| Beyond Accuracy: Behavioral Testing of NLP models with CheckList | arXiv:2005.04118 | 2020 | 2026-09-06 | 79 | `days/day-79-evals-are-tests/papers/01-behavioral-testing.md` |
