@@ -59,8 +59,10 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-53** - 13 parts: [74/1.1](day-74.md), [74/1.2](day-74.md), [74/1.3](day-74.md), [74/2.1](day-74.md), [74/2.2](day-74.md), [74/2.3](day-74.md), [74/3.1](day-74.md), [74/3.2](day-74.md), [74/3.3](day-74.md), [74/4.1](day-74.md), [74/4.2](day-74.md), [74/5.1](day-74.md), [74/5.2](day-74.md)
 - **ADK-54** - 11 parts: [75/1.1](day-75.md), [75/1.2](day-75.md), [75/1.3](day-75.md), [75/2.1](day-75.md), [75/2.2](day-75.md), [75/2.3](day-75.md), [75/3.1](day-75.md), [75/3.2](day-75.md), [75/4.1](day-75.md), [75/4.2](day-75.md), [75/4.3](day-75.md)
 - **ADK-55** - 11 parts: [75/1.1](day-75.md), [75/1.2](day-75.md), [75/1.3](day-75.md), [75/2.1](day-75.md), [75/2.2](day-75.md), [75/2.3](day-75.md), [75/3.1](day-75.md), [75/3.2](day-75.md), [75/4.1](day-75.md), [75/4.2](day-75.md), [75/4.3](day-75.md)
+- **ADK-56** - 11 parts: [76/1.1](day-76.md), [76/1.2](day-76.md), [76/1.3](day-76.md), [76/2.1](day-76.md), [76/2.2](day-76.md), [76/2.3](day-76.md), [76/3.1](day-76.md), [76/3.2](day-76.md), [76/3.3](day-76.md), [76/4.1](day-76.md), [76/4.2](day-76.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **ADK-76** - 7 parts: [64/4.1](day-64.md), [64/4.2](day-64.md), [64/4.3](day-64.md), [64/4.4](day-64.md), [64/4.5](day-64.md), [64/6.1](day-64.md), [64/7.3](day-64.md)
+- **ADK-77** - 11 parts: [76/1.1](day-76.md), [76/1.2](day-76.md), [76/1.3](day-76.md), [76/2.1](day-76.md), [76/2.2](day-76.md), [76/2.3](day-76.md), [76/3.1](day-76.md), [76/3.2](day-76.md), [76/3.3](day-76.md), [76/4.1](day-76.md), [76/4.2](day-76.md)
 - **ADK-78** - 1 parts: [39/4.3](day-39.md)
 - **AG-01** - 4 parts: [01/1.1](day-01.md), [01/1.2](day-01.md), [01/1.3](day-01.md), [01/1.4](day-01.md)
 - **AG-02** - 16 parts: [02/1.1](day-02.md), [02/1.2](day-02.md), [02/1.3](day-02.md), [02/1.4](day-02.md), [02/1.5](day-02.md), [02/2.1](day-02.md), [02/2.2](day-02.md), [02/2.3](day-02.md), [02/3.1](day-02.md), [02/3.2](day-02.md), [02/3.3](day-02.md), [02/4.1](day-02.md), [02/4.2](day-02.md), [02/4.3](day-02.md), [02/5.1](day-02.md), [02/6.1](day-02.md)
@@ -209,6 +211,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 09; cited by 09/5.1, 28/2.1
 - **arXiv:2503.18813** - Defeating Prompt Injections by Design
   - taught in day 67; cited by 67/6.3
+- **doi:10.1002/j.1538-7305.1975.tb02840.x** - An Algorithm for Determining the Endpoints of Isolated Utterances
+  - taught in day 76; cited by no parts
 - **doi:10.1007/3-540-62852-5_6** - A note on distributed computing
   - taught in day 42; cited by 42/3.2
 - **doi:10.1007/BFb0053381** - Aspect-oriented programming

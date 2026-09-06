@@ -105,7 +105,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-53` | [74](../days/day-74-live-api-streaming/LESSON.md) | Live API I — streaming architecture; free-quota check (SSE-text + browser speech fallba… |
 | `ADK-54` | [75](../days/day-75-the-bidi-voice-loop/LESSON.md) | Live API II — the bidi voice loop |
 | `ADK-55` | [75](../days/day-75-the-bidi-voice-loop/LESSON.md) | Live API II — the bidi voice loop |
-| `ADK-56` | [76](../days/day-76/LESSON.md) | VAD events & non-blocking tools (2.5) — the conversation doesn't freeze mid-tool |
+| `ADK-56` | [76](../days/day-76-vad-and-non-blocking-tools/LESSON.md) | VAD events & non-blocking tools (2.5) — the conversation doesn't freeze mid-tool |
 | `ADK-57` | [77](../days/day-77/LESSON.md) | The standup agent — voice client over the queue state |
 | `ADK-58` | [79](../days/day-79/LESSON.md) | Evals are tests — evalsets, metrics, Flash-Lite as the eval workhorse |
 | `ADK-59` | [79](../days/day-79/LESSON.md) | Evals are tests — evalsets, metrics, Flash-Lite as the eval workhorse |
@@ -126,7 +126,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-74` | [84](../days/day-84/LESSON.md) | Tracing — OTel + `AutoTracingPlugin` (2.2): every node, tool call & model call in the t… |
 | `ADK-75` | [80](../days/day-80/LESSON.md) | Trajectory & rubric evaluation — `RubricBasedMultiTurnTrajectoryEvaluator` (2.2); "esca… |
 | `ADK-76` | [64](../days/day-64-approval-gates-build/LESSON.md) | Approval gates — build; HITL resumption for standalone nodes + `NodeTool` (2.5) |
-| `ADK-77` | [76](../days/day-76/LESSON.md) | VAD events & non-blocking tools (2.5) — the conversation doesn't freeze mid-tool |
+| `ADK-77` | [76](../days/day-76-vad-and-non-blocking-tools/LESSON.md) | VAD events & non-blocking tools (2.5) — the conversation doesn't freeze mid-tool |
 | `ADK-78` | [39](../days/day-39-database-tools/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
 
 ## Curriculum C — MCP (`MCP-`) — 33 IDs
