@@ -39,12 +39,12 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-26` | [79](../days/day-79-evals-are-tests/LESSON.md) | Evals are tests — evalsets, metrics, Flash-Lite as the eval workhorse |
 | `AG-27` | [81](../days/day-81-llm-as-judge/LESSON.md) | LLM-as-judge & honest baselines |
 | `AG-28` | [83](../days/day-83-eval-suite-green/LESSON.md) | Phase gate — Sutra's eval suite green |
-| `AG-29` | [90](../days/day-90/LESSON.md) | Agent identity & the registry |
-| `AG-30` | [91](../days/day-91/LESSON.md) | Integrations survey — Slack-shaped intake, ecosystems; paid-only items noted "requires … |
+| `AG-29` | [90](../days/day-90-identity-and-registry/LESSON.md) | Agent identity & the registry |
+| `AG-30` | [91](../days/day-91-slack-shaped-intake/LESSON.md) | Integrations survey — Slack-shaped intake, ecosystems; paid-only items noted "requires … |
 | `AG-31` | [71](../days/day-71-computer-use-and-the-sandbox/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
 | `AG-32` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `AG-33` | [49](../days/day-49-retrieval-and-embeddings/LESSON.md) | Retrieval & embeddings — one honest RAG day (local embedding index over the ticket arch… |
-| `AG-34` | [89](../days/day-89/LESSON.md) | A2A v1.0 — signed Agent Cards verified hands-on; AP2 mandates, x402/TAP 🅿️ — *know the … |
+| `AG-34` | [89](../days/day-89-signed-agent-cards/LESSON.md) | A2A v1.0 — signed Agent Cards verified hands-on; AP2 mandates, x402/TAP 🅿️ — *know the … |
 
 ## Curriculum B — Google ADK (`ADK-`) — 78 IDs
 
@@ -119,9 +119,9 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-67` | [86](../days/day-86-cloud-run-shaped/LESSON.md) | Containerize — Cloud-Run-shaped locally: `docker compose`, stateless container, env-inj… |
 | `ADK-68` | [87](../days/day-87-config-not-billed/LESSON.md) | Agent Engine — documented walkthrough (config written, not billed) 🅿️ |
 | `ADK-69` | [88](../days/day-88-the-mcp-sidecar/LESSON.md) | Kubernetes on the laptop — kind/k3d, the MCP-sidecar pattern |
-| `ADK-70` | [89](../days/day-89/LESSON.md) | A2A v1.0 — signed Agent Cards verified hands-on; AP2 mandates, x402/TAP 🅿️ — *know the … |
-| `ADK-71` | [90](../days/day-90/LESSON.md) | Agent identity & the registry |
-| `ADK-72` | [91](../days/day-91/LESSON.md) | Integrations survey — Slack-shaped intake, ecosystems; paid-only items noted "requires … |
+| `ADK-70` | [89](../days/day-89-signed-agent-cards/LESSON.md) | A2A v1.0 — signed Agent Cards verified hands-on; AP2 mandates, x402/TAP 🅿️ — *know the … |
+| `ADK-71` | [90](../days/day-90-identity-and-registry/LESSON.md) | Agent identity & the registry |
+| `ADK-72` | [91](../days/day-91-slack-shaped-intake/LESSON.md) | Integrations survey — Slack-shaped intake, ecosystems; paid-only items noted "requires … |
 | `ADK-73` | [5](../days/day-05-first-adk-agent/LESSON.md) | First ADK agent — install `google-adk`, `Agent` + runner, pin `gemini-3.5-flash` explic… |
 | `ADK-74` | [84](../days/day-84-the-trace-tree/LESSON.md) | Tracing — OTel + `AutoTracingPlugin` (2.2): every node, tool call & model call in the t… |
 | `ADK-75` | [80](../days/day-80-rubrics-and-trajectories/LESSON.md) | Trajectory & rubric evaluation — `RubricBasedMultiTurnTrajectoryEvaluator` (2.2); "esca… |
@@ -234,6 +234,6 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `SEC-13` | [69](../days/day-69-pii-and-data-boundaries/LESSON.md) | PII & data boundaries — synthetic data only, free-tier training caveat |
 | `SEC-14` | [71](../days/day-71-computer-use-and-the-sandbox/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
 | `SEC-15` | [72](../days/day-72-backoff-with-honesty/LESSON.md) | Backoff with honesty — `retry-after`, 1→2→4→8s, escalate after N; never invent a result |
-| `SEC-16` | [92](../days/day-92/LESSON.md) | Hardening pass — full security review before going public |
+| `SEC-16` | [92](../days/day-92-before-it-goes-public/LESSON.md) | Hardening pass — full security review before going public |
 
 **199 IDs across 6 curricula.**

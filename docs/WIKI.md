@@ -94,3 +94,8 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [86](wiki/day-86.md) | Containerize — Cloud-Run-shaped, locally | ADK-66, OPS-17, ADK-67 | 14 | doi:10.1109/ISPASS.2015.7095802 |
 | [87](wiki/day-87.md) | Agent Engine — the config written, not billed | ADK-68 | 13 | doi:10.1145/1721654.1721672 |
 | [88](wiki/day-88.md) | Kubernetes on the laptop — the MCP sidecar | ADK-69, OPS-18 | 15 | doi:10.1145/2890784 |
+| [89](wiki/day-89.md) | A2A v1.0 — the signed Agent Card | ADK-70, AG-34 | 13 | doi:10.17487/RFC7515 |
+| [90](wiki/day-90.md) | Agent identity and the registry | AG-29, ADK-71 | 13 | doi:10.1145/121132.121160 |
+| [91](wiki/day-91.md) | Integrations survey — Slack-shaped intake | AG-30, ADK-72 | 14 | doi:10.1145/361598.361623 |
+| [92](wiki/day-92.md) | Hardening pass — the review before it goes public | SEC-16 | 14 | doi:10.1145/168588.168615 |
+| [93](wiki/day-93.md) | Repo public — what a stranger sees | - | 14 | doi:10.1093/comjnl/27.2.97 |

@@ -97,3 +97,8 @@ can be found in prose without guessing where it ends.
 | An updated performance comparison of virtual machines and Linux containers | doi:10.1109/ISPASS.2015.7095802 | 2015 | 2026-09-07 | 86 | `days/day-86-cloud-run-shaped/papers/01-what-isolation-costs.md` |
 | Borg, Omega, and Kubernetes | doi:10.1145/2890784 | 2016 | 2026-09-07 | 88 | `days/day-88-the-mcp-sidecar/papers/01-labels-over-hierarchies.md` |
 | Dapper, a Large-Scale Distributed Systems Tracing Infrastructure | Google Technical Report dapper-2010-1 | 2010 | 2026-09-07 | 84 | `days/day-84-the-trace-tree/papers/01-the-trace-tree-at-scale.md` |
+| Authentication in distributed systems | doi:10.1145/121132.121160 | 1991 | 2026-09-07 | 90 | `days/day-90-identity-and-registry/papers/01-speaks-for.md` |
+| JSON Web Signature (JWS) | doi:10.17487/RFC7515 | 2015 | 2026-09-07 | 89 | `days/day-89-signed-agent-cards/papers/01-a-signature-over-its-own-header.md` |
+| On the criteria to be used in decomposing systems into modules | doi:10.1145/361598.361623 | 1972 | 2026-09-07 | 91 | `days/day-91-slack-shaped-intake/papers/01-the-module-that-owns-the-vendor.md` |
+| Literate Programming | doi:10.1093/comjnl/27.2.97 | 1984 | 2026-09-07 | 93 | `days/day-93-what-a-stranger-sees/papers/01-the-document-that-runs.md` |
+| Why cryptosystems fail | doi:10.1145/168588.168615 | 1993 | 2026-09-07 | 92 | `days/day-92-before-it-goes-public/papers/01-how-systems-actually-fail.md` |

@@ -73,6 +73,9 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-67** - 3 parts: [86/2.3](day-86.md), [86/3.1](day-86.md), [86/3.2](day-86.md)
 - **ADK-68** - 13 parts: [87/1.1](day-87.md), [87/1.2](day-87.md), [87/1.3](day-87.md), [87/2.1](day-87.md), [87/2.2](day-87.md), [87/2.3](day-87.md), [87/3.1](day-87.md), [87/3.2](day-87.md), [87/3.3](day-87.md), [87/4.1](day-87.md), [87/4.2](day-87.md), [87/5.1](day-87.md), [87/5.2](day-87.md)
 - **ADK-69** - 10 parts: [88/1.1](day-88.md), [88/1.2](day-88.md), [88/2.1](day-88.md), [88/2.2](day-88.md), [88/2.3](day-88.md), [88/3.4](day-88.md), [88/4.1](day-88.md), [88/4.2](day-88.md), [88/4.3](day-88.md), [88/5.2](day-88.md)
+- **ADK-70** - 4 parts: [89/1.1](day-89.md), [89/1.2](day-89.md), [89/4.1](day-89.md), [89/5.2](day-89.md)
+- **ADK-71** - 4 parts: [90/1.3](day-90.md), [90/4.1](day-90.md), [90/4.2](day-90.md), [90/5.2](day-90.md)
+- **ADK-72** - 8 parts: [91/2.1](day-91.md), [91/2.2](day-91.md), [91/2.3](day-91.md), [91/2.4](day-91.md), [91/3.1](day-91.md), [91/3.2](day-91.md), [91/4.2](day-91.md), [91/5.2](day-91.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **ADK-74** - 3 parts: [84/2.1](day-84.md), [84/2.2](day-84.md), [84/2.3](day-84.md)
 - **ADK-75** - 8 parts: [80/1.3](day-80.md), [80/2.1](day-80.md), [80/2.2](day-80.md), [80/2.3](day-80.md), [80/3.1](day-80.md), [80/3.3](day-80.md), [80/4.1](day-80.md), [80/5.1](day-80.md)
@@ -107,9 +110,12 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-26** - 6 parts: [79/1.1](day-79.md), [79/1.2](day-79.md), [79/1.3](day-79.md), [79/5.1](day-79.md), [79/5.2](day-79.md), [79/5.3](day-79.md)
 - **AG-27** - 9 parts: [81/1.2](day-81.md), [81/2.1](day-81.md), [81/2.2](day-81.md), [81/2.3](day-81.md), [81/3.1](day-81.md), [81/3.2](day-81.md), [81/3.3](day-81.md), [81/5.1](day-81.md), [81/5.2](day-81.md)
 - **AG-28** - 14 parts: [83/1.1](day-83.md), [83/1.2](day-83.md), [83/1.3](day-83.md), [83/2.1](day-83.md), [83/2.2](day-83.md), [83/2.3](day-83.md), [83/2.4](day-83.md), [83/3.1](day-83.md), [83/3.2](day-83.md), [83/4.1](day-83.md), [83/4.2](day-83.md), [83/5.1](day-83.md), [83/5.2](day-83.md), [83/5.3](day-83.md)
+- **AG-29** - 10 parts: [90/1.1](day-90.md), [90/1.2](day-90.md), [90/2.1](day-90.md), [90/2.2](day-90.md), [90/2.3](day-90.md), [90/3.1](day-90.md), [90/3.2](day-90.md), [90/5.1](day-90.md), [90/5.2](day-90.md), [90/5.3](day-90.md)
+- **AG-30** - 6 parts: [91/1.1](day-91.md), [91/1.2](day-91.md), [91/1.3](day-91.md), [91/3.3](day-91.md), [91/4.1](day-91.md), [91/5.1](day-91.md)
 - **AG-31** - 7 parts: [71/1.1](day-71.md), [71/1.2](day-71.md), [71/1.3](day-71.md), [71/2.1](day-71.md), [71/2.2](day-71.md), [71/2.3](day-71.md), [71/4.3](day-71.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **AG-33** - 14 parts: [49/1.1](day-49.md), [49/1.2](day-49.md), [49/1.3](day-49.md), [49/1.4](day-49.md), [49/1.5](day-49.md), [49/2.1](day-49.md), [49/2.2](day-49.md), [49/3.1](day-49.md), [49/3.2](day-49.md), [49/3.3](day-49.md), [49/3.4](day-49.md), [49/5.1](day-49.md), [49/5.2](day-49.md), [49/6.1](day-49.md)
+- **AG-34** - 9 parts: [89/1.3](day-89.md), [89/2.1](day-89.md), [89/2.2](day-89.md), [89/2.3](day-89.md), [89/3.1](day-89.md), [89/3.2](day-89.md), [89/3.3](day-89.md), [89/4.2](day-89.md), [89/5.1](day-89.md)
 - **MCP-01** - 6 parts: [32/1.1](day-32.md), [32/1.2](day-32.md), [32/1.3](day-32.md), [32/1.4](day-32.md), [32/1.5](day-32.md), [32/6.2](day-32.md)
 - **MCP-02** - 9 parts: [33/1.1](day-33.md), [33/1.2](day-33.md), [33/1.3](day-33.md), [33/1.4](day-33.md), [33/1.5](day-33.md), [33/4.1](day-33.md), [33/5.2](day-33.md), [33/6.1](day-33.md), [33/6.2](day-33.md)
 - **MCP-03** - 12 parts: [33/2.1](day-33.md), [33/2.2](day-33.md), [33/2.3](day-33.md), [33/2.4](day-33.md), [33/3.1](day-33.md), [33/3.2](day-33.md), [33/3.3](day-33.md), [33/3.4](day-33.md), [33/4.1](day-33.md), [33/4.2](day-33.md), [33/5.1](day-33.md), [33/6.1](day-33.md)
@@ -176,6 +182,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **SEC-13** - 4 parts: [69/3.1](day-69.md), [69/3.2](day-69.md), [69/3.3](day-69.md), [69/7.2](day-69.md)
 - **SEC-14** - 7 parts: [71/3.1](day-71.md), [71/3.2](day-71.md), [71/3.3](day-71.md), [71/3.4](day-71.md), [71/4.1](day-71.md), [71/4.2](day-71.md), [71/4.3](day-71.md)
 - **SEC-15** - 12 parts: [72/1.1](day-72.md), [72/1.2](day-72.md), [72/1.3](day-72.md), [72/2.1](day-72.md), [72/2.2](day-72.md), [72/2.3](day-72.md), [72/3.1](day-72.md), [72/3.2](day-72.md), [72/4.1](day-72.md), [72/4.2](day-72.md), [72/5.1](day-72.md), [72/5.2](day-72.md)
+- **SEC-16** - 14 parts: [92/1.1](day-92.md), [92/1.2](day-92.md), [92/1.3](day-92.md), [92/2.1](day-92.md), [92/2.2](day-92.md), [92/2.3](day-92.md), [92/3.1](day-92.md), [92/3.2](day-92.md), [92/3.3](day-92.md), [92/4.1](day-92.md), [92/4.2](day-92.md), [92/4.3](day-92.md), [92/5.1](day-92.md), [92/5.2](day-92.md)
 - **SK-01** - 3 parts: [25/1.1](day-25.md), [25/1.2](day-25.md), [25/1.3](day-25.md)
 - **SK-02** - 6 parts: [25/2.1](day-25.md), [25/2.2](day-25.md), [25/2.3](day-25.md), [25/2.4](day-25.md), [25/4.1](day-25.md), [25/4.2](day-25.md)
 - **SK-03** - 6 parts: [25/3.1](day-25.md), [25/3.2](day-25.md), [25/3.3](day-25.md), [25/4.1](day-25.md), [25/5.1](day-25.md), [25/5.2](day-25.md)
@@ -257,6 +264,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 01; cited by 01/1.1, 01/1.2
 - **doi:10.1037/h0043158** - The magical number seven, plus or minus two: Some limits on our capacity for processing information.
   - taught in day 77; cited by no parts
+- **doi:10.1093/comjnl/27.2.97** - The document that runs
+  - taught in day 93; cited by no parts
 - **doi:10.1109/71.963420** - The power of two choices in randomized load balancing
   - taught in day 70; cited by 70/2.4
 - **doi:10.1109/C-M.1978.218136** - Hints on Test Data Selection: Help for the Practicing Programmer
@@ -275,10 +284,14 @@ A paper is taught once in the whole curriculum.
   - taught in day 55; cited by 55/1.3
 - **doi:10.1145/1028664.1028765** - Mock roles, not objects
   - taught in day 23; cited by 23/1.1, 23/1.4
+- **doi:10.1145/121132.121160** - Speaks for — authentication as a chain of statements
+  - taught in day 90; cited by no parts
 - **doi:10.1145/1272998.1273005** - Dryad — the job is a graph, and the graph is the program
   - taught in day 53; cited by 53/4.1, 53/4.4
 - **doi:10.1145/1476589.1476628** - Response time in man-computer conversational transactions
   - taught in day 74; cited by no parts
+- **doi:10.1145/168588.168615** - How systems actually fail
+  - taught in day 92; cited by no parts
 - **doi:10.1145/1721654.1721672** - The bill that follows the load
   - taught in day 87; cited by no parts
 - **doi:10.1145/2080.357392** - Implementing remote procedure calls
@@ -311,6 +324,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 72; cited by no parts
 - **doi:10.1145/361219.361220** - A vector space model for automatic indexing
   - taught in day 49; cited by 49/1.2, 49/1.3, 49/1.4, 52/4.1
+- **doi:10.1145/361598.361623** - The module that owns the vendor
+  - taught in day 91; cited by 91/1.1
 - **doi:10.1145/362384.362685** - A Relational Model of Data for Large Shared Data Banks
   - taught in day 39; cited by 39/1.2, 39/6.2
 - **doi:10.1145/514183.514185** - Principled design of the modern Web architecture
@@ -323,6 +338,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 51; cited by 51/5.1
 - **doi:10.1177/001316446002000104** - Agreement above chance — the 1960 coefficient
   - taught in day 80; cited by 80/4.2
+- **doi:10.17487/RFC7515** - A signature over its own header
+  - taught in day 89; cited by 89/2.2, 89/3.1
 - **doi:10.17487/RFC9207** - OAuth 2.0 Authorization Server Issuer Identification
   - taught in day 37; cited by 37/2.1
 - **doi:10.17487/RFC9413** - Maintaining Robust Protocols
