@@ -85,3 +85,12 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [77](wiki/day-77.md) | The standup agent — a voice client over the queue state | ADK-57, AG-25 | 11 | doi:10.1037/h0043158 |
 | [78](wiki/day-78.md) | Phase gate — ambient and voice, inside free quota | OPS-14 | 18 | doi:10.1145/321738.321743 |
 | [79](wiki/day-79.md) | Evals are tests — evalsets, metrics, and the eval workhorse | AG-26, ADK-58, ADK-59 | 16 | arXiv:2005.04118 |
+| [80](wiki/day-80.md) | Trajectory and rubric evaluation — grading how, not just what | ADK-60, ADK-75 | 13 | doi:10.1177/001316446002000104 |
+| [81](wiki/day-81.md) | LLM-as-judge and honest baselines | ADK-61, AG-27 | 13 | arXiv:2306.05685 |
+| [82](wiki/day-82.md) | Regression discipline — evals in CI, and the run that rides the nightly | OPS-15, ADK-62 | 13 | doi:10.1145/318774.318946 |
+| [83](wiki/day-83.md) | Phase gate — Sutra's eval suite green | AG-28 | 14 | doi:10.1016/0149-7189(79)90048-X |
+| [84](wiki/day-84.md) | Tracing — the trace tree, and what ADK puts in it | ADK-63, OPS-16, ADK-74 | 13 | Google Technical Report dapper-2010-1 |
+| [85](wiki/day-85.md) | The API surface — api_server, FastAPI endpoints | ADK-64, ADK-65 | 14 | doi:10.17487/RFC9457 |
+| [86](wiki/day-86.md) | Containerize — Cloud-Run-shaped, locally | ADK-66, OPS-17, ADK-67 | 14 | doi:10.1109/ISPASS.2015.7095802 |
+| [87](wiki/day-87.md) | Agent Engine — the config written, not billed | ADK-68 | 13 | doi:10.1145/1721654.1721672 |
+| [88](wiki/day-88.md) | Kubernetes on the laptop — the MCP sidecar | ADK-69, OPS-18 | 15 | doi:10.1145/2890784 |

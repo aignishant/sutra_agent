@@ -88,3 +88,12 @@ can be found in prose without guessing where it ends.
 | The magical number seven, plus or minus two: Some limits on our capacity for processing information. | doi:10.1037/h0043158 | 1956 | 2026-09-06 | 77 | `days/day-77-the-standup-agent/papers/01-chunking.md` |
 | Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment | doi:10.1145/321738.321743 | 1973 | 2026-09-06 | 78 | `days/day-78-inside-free-quota/papers/01-schedulability.md` |
 | Beyond Accuracy: Behavioral Testing of NLP models with CheckList | arXiv:2005.04118 | 2020 | 2026-09-06 | 79 | `days/day-79-evals-are-tests/papers/01-behavioral-testing.md` |
+| A Coefficient of Agreement for Nominal Scales | doi:10.1177/001316446002000104 | 1960 | 2026-09-06 | 80 | `days/day-80-rubrics-and-trajectories/papers/01-agreement-above-chance.md` |
+| Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena | arXiv:2306.05685 | 2023 | 2026-09-06 | 81 | `days/day-81-llm-as-judge/papers/01-judging-the-judge.md` |
+| Yesterday, my program worked. Today, it does not. Why? | doi:10.1145/318774.318946 | 1999 | 2026-09-06 | 82 | `days/day-82-regression-discipline/papers/01-which-change-broke-it.md` |
+| Assessing the impact of planned social change | doi:10.1016/0149-7189(79)90048-X | 1979 | 2026-09-06 | 83 | `days/day-83-eval-suite-green/papers/01-the-number-that-became-the-target.md` |
+| A view of cloud computing | doi:10.1145/1721654.1721672 | 2010 | 2026-09-07 | 87 | `days/day-87-config-not-billed/papers/01-the-bill-that-follows-the-load.md` |
+| Problem Details for HTTP APIs | doi:10.17487/RFC9457 | 2023 | 2026-09-07 | 85 | `days/day-85-the-api-surface/papers/01-an-error-a-client-can-act-on.md` |
+| An updated performance comparison of virtual machines and Linux containers | doi:10.1109/ISPASS.2015.7095802 | 2015 | 2026-09-07 | 86 | `days/day-86-cloud-run-shaped/papers/01-what-isolation-costs.md` |
+| Borg, Omega, and Kubernetes | doi:10.1145/2890784 | 2016 | 2026-09-07 | 88 | `days/day-88-the-mcp-sidecar/papers/01-labels-over-hierarchies.md` |
+| Dapper, a Large-Scale Distributed Systems Tracing Infrastructure | Google Technical Report dapper-2010-1 | 2010 | 2026-09-07 | 84 | `days/day-84-the-trace-tree/papers/01-the-trace-tree-at-scale.md` |

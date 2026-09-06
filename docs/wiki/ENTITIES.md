@@ -63,7 +63,19 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-57** - 11 parts: [77/1.1](day-77.md), [77/1.2](day-77.md), [77/1.3](day-77.md), [77/2.1](day-77.md), [77/2.2](day-77.md), [77/2.3](day-77.md), [77/3.1](day-77.md), [77/3.2](day-77.md), [77/4.1](day-77.md), [77/4.2](day-77.md), [77/4.3](day-77.md)
 - **ADK-58** - 4 parts: [79/1.3](day-79.md), [79/2.1](day-79.md), [79/2.2](day-79.md), [79/2.3](day-79.md)
 - **ADK-59** - 7 parts: [79/3.1](day-79.md), [79/3.2](day-79.md), [79/3.3](day-79.md), [79/3.4](day-79.md), [79/4.1](day-79.md), [79/4.2](day-79.md), [79/4.3](day-79.md)
+- **ADK-60** - 6 parts: [80/1.1](day-80.md), [80/1.2](day-80.md), [80/1.3](day-80.md), [80/3.2](day-80.md), [80/4.2](day-80.md), [80/5.2](day-80.md)
+- **ADK-61** - 6 parts: [81/1.1](day-81.md), [81/1.2](day-81.md), [81/1.3](day-81.md), [81/4.1](day-81.md), [81/4.2](day-81.md), [81/5.2](day-81.md)
+- **ADK-62** - 4 parts: [82/2.1](day-82.md), [82/2.2](day-82.md), [82/2.3](day-82.md), [82/5.2](day-82.md)
+- **ADK-63** - 5 parts: [84/1.1](day-84.md), [84/1.2](day-84.md), [84/1.3](day-84.md), [84/2.1](day-84.md), [84/5.1](day-84.md)
+- **ADK-64** - 6 parts: [85/1.1](day-85.md), [85/1.2](day-85.md), [85/1.3](day-85.md), [85/4.3](day-85.md), [85/5.1](day-85.md), [85/5.2](day-85.md)
+- **ADK-65** - 10 parts: [85/1.3](day-85.md), [85/2.1](day-85.md), [85/2.2](day-85.md), [85/2.3](day-85.md), [85/3.1](day-85.md), [85/3.2](day-85.md), [85/3.3](day-85.md), [85/4.1](day-85.md), [85/4.2](day-85.md), [85/5.2](day-85.md)
+- **ADK-66** - 7 parts: [86/1.1](day-86.md), [86/1.2](day-86.md), [86/1.3](day-86.md), [86/2.1](day-86.md), [86/2.2](day-86.md), [86/5.1](day-86.md), [86/5.2](day-86.md)
+- **ADK-67** - 3 parts: [86/2.3](day-86.md), [86/3.1](day-86.md), [86/3.2](day-86.md)
+- **ADK-68** - 13 parts: [87/1.1](day-87.md), [87/1.2](day-87.md), [87/1.3](day-87.md), [87/2.1](day-87.md), [87/2.2](day-87.md), [87/2.3](day-87.md), [87/3.1](day-87.md), [87/3.2](day-87.md), [87/3.3](day-87.md), [87/4.1](day-87.md), [87/4.2](day-87.md), [87/5.1](day-87.md), [87/5.2](day-87.md)
+- **ADK-69** - 10 parts: [88/1.1](day-88.md), [88/1.2](day-88.md), [88/2.1](day-88.md), [88/2.2](day-88.md), [88/2.3](day-88.md), [88/3.4](day-88.md), [88/4.1](day-88.md), [88/4.2](day-88.md), [88/4.3](day-88.md), [88/5.2](day-88.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
+- **ADK-74** - 3 parts: [84/2.1](day-84.md), [84/2.2](day-84.md), [84/2.3](day-84.md)
+- **ADK-75** - 8 parts: [80/1.3](day-80.md), [80/2.1](day-80.md), [80/2.2](day-80.md), [80/2.3](day-80.md), [80/3.1](day-80.md), [80/3.3](day-80.md), [80/4.1](day-80.md), [80/5.1](day-80.md)
 - **ADK-76** - 7 parts: [64/4.1](day-64.md), [64/4.2](day-64.md), [64/4.3](day-64.md), [64/4.4](day-64.md), [64/4.5](day-64.md), [64/6.1](day-64.md), [64/7.3](day-64.md)
 - **ADK-77** - 11 parts: [76/1.1](day-76.md), [76/1.2](day-76.md), [76/1.3](day-76.md), [76/2.1](day-76.md), [76/2.2](day-76.md), [76/2.3](day-76.md), [76/3.1](day-76.md), [76/3.2](day-76.md), [76/3.3](day-76.md), [76/4.1](day-76.md), [76/4.2](day-76.md)
 - **ADK-78** - 1 parts: [39/4.3](day-39.md)
@@ -93,6 +105,8 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-24** - 14 parts: [73/1.1](day-73.md), [73/1.2](day-73.md), [73/1.3](day-73.md), [73/2.1](day-73.md), [73/2.2](day-73.md), [73/2.3](day-73.md), [73/2.4](day-73.md), [73/3.1](day-73.md), [73/3.2](day-73.md), [73/3.3](day-73.md), [73/4.1](day-73.md), [73/4.2](day-73.md), [73/5.1](day-73.md), [73/5.2](day-73.md)
 - **AG-25** - 11 parts: [77/1.1](day-77.md), [77/1.2](day-77.md), [77/1.3](day-77.md), [77/2.1](day-77.md), [77/2.2](day-77.md), [77/2.3](day-77.md), [77/3.1](day-77.md), [77/3.2](day-77.md), [77/4.1](day-77.md), [77/4.2](day-77.md), [77/4.3](day-77.md)
 - **AG-26** - 6 parts: [79/1.1](day-79.md), [79/1.2](day-79.md), [79/1.3](day-79.md), [79/5.1](day-79.md), [79/5.2](day-79.md), [79/5.3](day-79.md)
+- **AG-27** - 9 parts: [81/1.2](day-81.md), [81/2.1](day-81.md), [81/2.2](day-81.md), [81/2.3](day-81.md), [81/3.1](day-81.md), [81/3.2](day-81.md), [81/3.3](day-81.md), [81/5.1](day-81.md), [81/5.2](day-81.md)
+- **AG-28** - 14 parts: [83/1.1](day-83.md), [83/1.2](day-83.md), [83/1.3](day-83.md), [83/2.1](day-83.md), [83/2.2](day-83.md), [83/2.3](day-83.md), [83/2.4](day-83.md), [83/3.1](day-83.md), [83/3.2](day-83.md), [83/4.1](day-83.md), [83/4.2](day-83.md), [83/5.1](day-83.md), [83/5.2](day-83.md), [83/5.3](day-83.md)
 - **AG-31** - 7 parts: [71/1.1](day-71.md), [71/1.2](day-71.md), [71/1.3](day-71.md), [71/2.1](day-71.md), [71/2.2](day-71.md), [71/2.3](day-71.md), [71/4.3](day-71.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **AG-33** - 14 parts: [49/1.1](day-49.md), [49/1.2](day-49.md), [49/1.3](day-49.md), [49/1.4](day-49.md), [49/1.5](day-49.md), [49/2.1](day-49.md), [49/2.2](day-49.md), [49/3.1](day-49.md), [49/3.2](day-49.md), [49/3.3](day-49.md), [49/3.4](day-49.md), [49/5.1](day-49.md), [49/5.2](day-49.md), [49/6.1](day-49.md)
@@ -143,6 +157,10 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **OPS-12** - 23 parts: [70/1.1](day-70.md), [70/1.2](day-70.md), [70/1.3](day-70.md), [70/1.4](day-70.md), [70/1.5](day-70.md), [70/2.1](day-70.md), [70/2.2](day-70.md), [70/2.3](day-70.md), [70/2.4](day-70.md), [70/3.1](day-70.md), [70/3.2](day-70.md), [70/3.3](day-70.md), [70/3.4](day-70.md), [70/4.1](day-70.md), [70/4.2](day-70.md), [70/4.3](day-70.md), [70/4.4](day-70.md), [70/5.1](day-70.md), [70/5.2](day-70.md), [70/5.3](day-70.md), [70/6.1](day-70.md), [70/6.2](day-70.md), [70/6.3](day-70.md)
 - **OPS-13** - 12 parts: [72/1.1](day-72.md), [72/1.2](day-72.md), [72/1.3](day-72.md), [72/2.1](day-72.md), [72/2.2](day-72.md), [72/2.3](day-72.md), [72/3.1](day-72.md), [72/3.2](day-72.md), [72/4.1](day-72.md), [72/4.2](day-72.md), [72/5.1](day-72.md), [72/5.2](day-72.md)
 - **OPS-14** - 18 parts: [78/1.1](day-78.md), [78/1.2](day-78.md), [78/1.3](day-78.md), [78/2.1](day-78.md), [78/2.2](day-78.md), [78/2.3](day-78.md), [78/2.4](day-78.md), [78/3.1](day-78.md), [78/3.2](day-78.md), [78/4.1](day-78.md), [78/4.2](day-78.md), [78/4.3](day-78.md), [78/4.4](day-78.md), [78/4.5](day-78.md), [78/4.6](day-78.md), [78/4.7](day-78.md), [78/5.1](day-78.md), [78/5.2](day-78.md)
+- **OPS-15** - 11 parts: [82/1.1](day-82.md), [82/1.2](day-82.md), [82/1.3](day-82.md), [82/2.3](day-82.md), [82/3.1](day-82.md), [82/3.2](day-82.md), [82/3.3](day-82.md), [82/4.1](day-82.md), [82/4.2](day-82.md), [82/5.1](day-82.md), [82/5.2](day-82.md)
+- **OPS-16** - 8 parts: [84/1.3](day-84.md), [84/3.1](day-84.md), [84/3.2](day-84.md), [84/3.3](day-84.md), [84/4.1](day-84.md), [84/4.2](day-84.md), [84/5.1](day-84.md), [84/5.2](day-84.md)
+- **OPS-17** - 8 parts: [86/2.2](day-86.md), [86/2.3](day-86.md), [86/3.3](day-86.md), [86/4.1](day-86.md), [86/4.2](day-86.md), [86/5.1](day-86.md), [86/5.2](day-86.md), [86/5.3](day-86.md)
+- **OPS-18** - 8 parts: [88/1.3](day-88.md), [88/2.2](day-88.md), [88/3.1](day-88.md), [88/3.2](day-88.md), [88/3.3](day-88.md), [88/3.4](day-88.md), [88/5.1](day-88.md), [88/5.2](day-88.md)
 - **SEC-01** - 4 parts: [16/4.3](day-16.md), [16/6.1](day-16.md), [16/6.3](day-16.md), [16/8.1](day-16.md)
 - **SEC-02** - 8 parts: [21/1.1](day-21.md), [21/1.2](day-21.md), [21/1.3](day-21.md), [21/3.1](day-21.md), [21/3.2](day-21.md), [21/3.3](day-21.md), [21/4.1](day-21.md), [21/5.1](day-21.md)
 - **SEC-03** - 9 parts: [40/1.2](day-40.md), [40/2.3](day-40.md), [40/2.4](day-40.md), [40/3.2](day-40.md), [40/5.2](day-40.md), [40/6.1](day-40.md), [40/6.2](day-40.md), [40/6.3](day-40.md), [40/6.4](day-40.md)
@@ -183,6 +201,8 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 
 A paper is taught once in the whole curriculum.
 
+- **Google Technical Report dapper-2010-1** - The trace tree at scale
+  - taught in day 84; cited by no parts
 - **arXiv:1508.07909** - Neural Machine Translation of Rare Words with Subword Units — why a token is not a word
   - taught in day 02; cited by 02/2.1
 - **arXiv:1904.09751** - The Curious Case of Neural Text Degeneration — why the most likely word is the wrong word
@@ -209,6 +229,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 57; cited by 57/3.1
 - **arXiv:2304.03442** - Generative Agents: Interactive Simulacra of Human Behavior
   - taught in day 46; cited by 52/1.1
+- **arXiv:2306.05685** - Judging the judge — agreement, and the three biases
+  - taught in day 81; cited by 81/2.1, 81/2.2, 81/2.3
 - **arXiv:2307.03172** - Lost in the Middle: How Language Models Use Long Contexts
   - taught in day 19; cited by 19/3.3, 35/5.2, 50/3.3, 50/5.4, 57/1.2
 - **arXiv:2307.09702** - Efficient Guided Generation for Large Language Models
@@ -229,6 +251,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 56; cited by 56/1.1, 56/5.1, 56/6.4
 - **doi:10.1016/0005-1098(83)90046-8** - Ironies of automation
   - taught in day 62; cited by 62/7.1
+- **doi:10.1016/0149-7189(79)90048-X** - The number that became the target
+  - taught in day 83; cited by no parts
 - **doi:10.1017/S0269888900008122** - Intelligent agents: theory and practice — where the word came from
   - taught in day 01; cited by 01/1.1, 01/1.2
 - **doi:10.1037/h0043158** - The magical number seven, plus or minus two: Some limits on our capacity for processing information.
@@ -237,6 +261,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 70; cited by 70/2.4
 - **doi:10.1109/C-M.1978.218136** - Hints on Test Data Selection: Help for the Practicing Programmer
   - taught in day 30; cited by 30/3.3, 30/6.2
+- **doi:10.1109/ISPASS.2015.7095802** - What isolation costs
+  - taught in day 86; cited by 86/1.1
 - **doi:10.1109/MCOM.1986.1092946** - New directions in communications — the leaky bucket
   - taught in day 24; cited by 44/3.2, 57/2.4, 57/5.2
 - **doi:10.1109/PROC.1975.9939** - The protection of information in computer systems
@@ -253,6 +279,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 53; cited by 53/4.1, 53/4.4
 - **doi:10.1145/1476589.1476628** - Response time in man-computer conversational transactions
   - taught in day 74; cited by no parts
+- **doi:10.1145/1721654.1721672** - The bill that follows the load
+  - taught in day 87; cited by no parts
 - **doi:10.1145/2080.357392** - Implementing remote procedure calls
   - taught in day 15; cited by 15/4.1, 15/4.2, 32/1.4, 33/1.1, 34/2.4
 - **doi:10.1145/214451.214456** - Distributed snapshots: determining global states of distributed systems
@@ -263,6 +291,10 @@ A paper is taught once in the whole curriculum.
   - taught in day 44; cited by 44/2.1
 - **doi:10.1145/289.291** - Principles of transaction-oriented database recovery
   - taught in day 47; cited by 47/3.1, 61/2.4, 64/3.4, 64/5.1
+- **doi:10.1145/2890784** - Labels over hierarchies
+  - taught in day 88; cited by no parts
+- **doi:10.1145/318774.318946** - Which change broke it — narrowing by experiment
+  - taught in day 82; cited by 82/1.3
 - **doi:10.1145/321738.321743** - Does it fit? — the 1973 utilisation test
   - taught in day 78; cited by 78/1.3
 - **doi:10.1145/357369.357371** - Fail-stop processors: an approach to designing fault-tolerant computing systems
@@ -289,9 +321,13 @@ A paper is taught once in the whole curriculum.
   - taught in day 68; cited by 68/1.1
 - **doi:10.1147/sj.92.0078** - Evaluation techniques for storage hierarchies
   - taught in day 51; cited by 51/5.1
+- **doi:10.1177/001316446002000104** - Agreement above chance — the 1960 coefficient
+  - taught in day 80; cited by 80/4.2
 - **doi:10.17487/RFC9207** - OAuth 2.0 Authorization Server Issuer Identification
   - taught in day 37; cited by 37/2.1
 - **doi:10.17487/RFC9413** - Maintaining Robust Protocols
   - taught in day 38; cited by no parts
+- **doi:10.17487/RFC9457** - An error a client can act on
+  - taught in day 85; cited by 85/3.3
 - **doi:10.2307/412243** - A simplest systematics for the organization of turn-taking for conversation
   - taught in day 75; cited by no parts
