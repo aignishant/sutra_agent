@@ -77,3 +77,7 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [69](wiki/day-69.md) | PII & data boundaries — synthetic data only, free-tier training caveat | SEC-12, SEC-13 | 22 | arXiv:2012.07805 |
 | [70](wiki/day-70.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom | OPS-12, ADK-49 | 23 | doi:10.1109/71.963420 |
 | [71](wiki/day-71.md) | Computer use & the sandbox — browser agent vs a local dummy site; execution isolation in practice | AG-31, ADK-50, SEC-14 | 13 | doi:10.1109/SP.2009.25 |
+| [72](wiki/day-72.md) | Backoff with honesty — retry-after, 1→2→4→8s, escalate after N; never invent a result | SEC-15, OPS-13 | 12 | doi:10.1145/360248.360253 |
+| [73](wiki/day-73.md) | Ambient agents — the nightly job (re-index, full evals, digest) | AG-24, ADK-51 | 14 | doi:10.1145/2181796.2187821 |
+| [74](wiki/day-74.md) | Live API I — streaming architecture; free-quota check | ADK-52, ADK-53 | 13 | doi:10.1145/1476589.1476628 |
+| [75](wiki/day-75.md) | Live API II — the bidi voice loop | ADK-54, ADK-55 | 11 | doi:10.2307/412243 |

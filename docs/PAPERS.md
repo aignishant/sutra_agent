@@ -80,3 +80,8 @@ can be found in prose without guessing where it ends.
 | Extracting Training Data from Large Language Models | arXiv:2012.07805 | 2020 | 2026-09-06 | 69 | `days/day-69-pii-and-data-boundaries/papers/01-extracting-training-data.md` |
 | The power of two choices in randomized load balancing | doi:10.1109/71.963420 | 2001 | 2026-09-06 | 70 | `days/day-70-the-quota-router/papers/01-the-power-of-two-choices.md` |
 | Native Client: A Sandbox for Portable, Untrusted x86 Native Code | doi:10.1109/SP.2009.25 | 2009 | 2026-09-06 | 71 | `days/day-71-computer-use-and-the-sandbox/papers/01-native-client.md` |
+| Ethernet: distributed packet switching for local computer networks | doi:10.1145/360248.360253 | 1976 | 2026-09-06 | 72 | `days/day-72-backoff-with-honesty/papers/01-binary-exponential-backoff.md` |
+| Idempotence Is Not a Medical Condition | doi:10.1145/2181796.2187821 | 2012 | 2026-09-06 | 73 | `days/day-73-ambient-agents/papers/01-idempotence.md` |
+| Response time in man-computer conversational transactions | doi:10.1145/1476589.1476628 | 1968 | 2026-09-06 | 74 | `days/day-74-live-api-streaming/papers/01-response-time.md` |
+| A simplest systematics for the organization of turn-taking for conversation | doi:10.2307/412243 | 1974 | 2026-09-06 | 75 | `days/day-75-the-bidi-voice-loop/papers/01-turn-taking.md` |
+| An Algorithm for Determining the Endpoints of Isolated Utterances | doi:10.1002/j.1538-7305.1975.tb02840.x | 1975 | 2026-09-06 | 76 | `days/day-76-vad-and-non-blocking-tools/papers/01-endpoint-detection.md` |

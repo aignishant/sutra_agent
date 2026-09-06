@@ -34,7 +34,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-21` | [59](../days/day-59-runaway-agents-contained/LESSON.md) | Phase gate + failure lab — loops, runaway agents, containment |
 | `AG-22` | [60](../days/day-60-durable-execution/LESSON.md) | Durable execution — resume, replay, idempotency |
 | `AG-23` | [62](../days/day-62-human-in-the-loop/LESSON.md) | Human-in-the-loop patterns |
-| `AG-24` | [73](../days/day-73/LESSON.md) | Ambient agents — the nightly job (re-index, full evals, digest) |
+| `AG-24` | [73](../days/day-73-ambient-agents/LESSON.md) | Ambient agents — the nightly job (re-index, full evals, digest) |
 | `AG-25` | [77](../days/day-77/LESSON.md) | The standup agent — voice client over the queue state |
 | `AG-26` | [79](../days/day-79/LESSON.md) | Evals are tests — evalsets, metrics, Flash-Lite as the eval workhorse |
 | `AG-27` | [81](../days/day-81/LESSON.md) | LLM-as-judge & honest baselines |
@@ -100,11 +100,11 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-48` | [64](../days/day-64-approval-gates-build/LESSON.md) | Approval gates — build; HITL resumption for standalone nodes + `NodeTool` (2.5) |
 | `ADK-49` | [70](../days/day-70-the-quota-router/LESSON.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom |
 | `ADK-50` | [71](../days/day-71-computer-use-and-the-sandbox/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
-| `ADK-51` | [73](../days/day-73/LESSON.md) | Ambient agents — the nightly job (re-index, full evals, digest) |
-| `ADK-52` | [74](../days/day-74/LESSON.md) | Live API I — streaming architecture; free-quota check (SSE-text + browser speech fallba… |
-| `ADK-53` | [74](../days/day-74/LESSON.md) | Live API I — streaming architecture; free-quota check (SSE-text + browser speech fallba… |
-| `ADK-54` | [75](../days/day-75/LESSON.md) | Live API II — the bidi voice loop |
-| `ADK-55` | [75](../days/day-75/LESSON.md) | Live API II — the bidi voice loop |
+| `ADK-51` | [73](../days/day-73-ambient-agents/LESSON.md) | Ambient agents — the nightly job (re-index, full evals, digest) |
+| `ADK-52` | [74](../days/day-74-live-api-streaming/LESSON.md) | Live API I — streaming architecture; free-quota check (SSE-text + browser speech fallba… |
+| `ADK-53` | [74](../days/day-74-live-api-streaming/LESSON.md) | Live API I — streaming architecture; free-quota check (SSE-text + browser speech fallba… |
+| `ADK-54` | [75](../days/day-75-the-bidi-voice-loop/LESSON.md) | Live API II — the bidi voice loop |
+| `ADK-55` | [75](../days/day-75-the-bidi-voice-loop/LESSON.md) | Live API II — the bidi voice loop |
 | `ADK-56` | [76](../days/day-76/LESSON.md) | VAD events & non-blocking tools (2.5) — the conversation doesn't freeze mid-tool |
 | `ADK-57` | [77](../days/day-77/LESSON.md) | The standup agent — voice client over the queue state |
 | `ADK-58` | [79](../days/day-79/LESSON.md) | Evals are tests — evalsets, metrics, Flash-Lite as the eval workhorse |
@@ -208,7 +208,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `OPS-10` | [51](../days/day-51-caching-the-quota-lifeline/LESSON.md) | Caching — context & response caching as the quota lifeline |
 | `OPS-11` | [65](../days/day-65-kill-it-mid-run/LESSON.md) | Phase gate — kill it mid-run; durable triage with human approval |
 | `OPS-12` | [70](../days/day-70-the-quota-router/LESSON.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom |
-| `OPS-13` | [72](../days/day-72/LESSON.md) | Backoff with honesty — `retry-after`, 1→2→4→8s, escalate after N; never invent a result |
+| `OPS-13` | [72](../days/day-72-backoff-with-honesty/LESSON.md) | Backoff with honesty — `retry-after`, 1→2→4→8s, escalate after N; never invent a result |
 | `OPS-14` | [78](../days/day-78/LESSON.md) | Phase gate — ambient + voice, inside free quota |
 | `OPS-15` | [82](../days/day-82/LESSON.md) | Regression discipline — evals in CI; full runs ride the Day 73 nightly |
 | `OPS-16` | [84](../days/day-84/LESSON.md) | Tracing — OTel + `AutoTracingPlugin` (2.2): every node, tool call & model call in the t… |
@@ -233,7 +233,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `SEC-12` | [69](../days/day-69-pii-and-data-boundaries/LESSON.md) | PII & data boundaries — synthetic data only, free-tier training caveat |
 | `SEC-13` | [69](../days/day-69-pii-and-data-boundaries/LESSON.md) | PII & data boundaries — synthetic data only, free-tier training caveat |
 | `SEC-14` | [71](../days/day-71-computer-use-and-the-sandbox/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
-| `SEC-15` | [72](../days/day-72/LESSON.md) | Backoff with honesty — `retry-after`, 1→2→4→8s, escalate after N; never invent a result |
+| `SEC-15` | [72](../days/day-72-backoff-with-honesty/LESSON.md) | Backoff with honesty — `retry-after`, 1→2→4→8s, escalate after N; never invent a result |
 | `SEC-16` | [92](../days/day-92/LESSON.md) | Hardening pass — full security review before going public |
 
 **199 IDs across 6 curricula.**

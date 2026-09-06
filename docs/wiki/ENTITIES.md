@@ -54,6 +54,11 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-48** - 20 parts: [64/1.1](day-64.md), [64/1.2](day-64.md), [64/1.3](day-64.md), [64/1.4](day-64.md), [64/2.1](day-64.md), [64/2.2](day-64.md), [64/2.3](day-64.md), [64/3.1](day-64.md), [64/3.2](day-64.md), [64/3.3](day-64.md), [64/3.4](day-64.md), [64/3.5](day-64.md), [64/5.1](day-64.md), [64/5.2](day-64.md), [64/6.1](day-64.md), [64/6.2](day-64.md), [64/6.3](day-64.md), [64/7.1](day-64.md), [64/7.2](day-64.md), [64/7.3](day-64.md)
 - **ADK-49** - 4 parts: [70/3.1](day-70.md), [70/3.2](day-70.md), [70/3.3](day-70.md), [70/3.4](day-70.md)
 - **ADK-50** - 7 parts: [71/2.1](day-71.md), [71/2.2](day-71.md), [71/2.3](day-71.md), [71/3.1](day-71.md), [71/3.2](day-71.md), [71/3.3](day-71.md), [71/3.4](day-71.md)
+- **ADK-51** - 14 parts: [73/1.1](day-73.md), [73/1.2](day-73.md), [73/1.3](day-73.md), [73/2.1](day-73.md), [73/2.2](day-73.md), [73/2.3](day-73.md), [73/2.4](day-73.md), [73/3.1](day-73.md), [73/3.2](day-73.md), [73/3.3](day-73.md), [73/4.1](day-73.md), [73/4.2](day-73.md), [73/5.1](day-73.md), [73/5.2](day-73.md)
+- **ADK-52** - 13 parts: [74/1.1](day-74.md), [74/1.2](day-74.md), [74/1.3](day-74.md), [74/2.1](day-74.md), [74/2.2](day-74.md), [74/2.3](day-74.md), [74/3.1](day-74.md), [74/3.2](day-74.md), [74/3.3](day-74.md), [74/4.1](day-74.md), [74/4.2](day-74.md), [74/5.1](day-74.md), [74/5.2](day-74.md)
+- **ADK-53** - 13 parts: [74/1.1](day-74.md), [74/1.2](day-74.md), [74/1.3](day-74.md), [74/2.1](day-74.md), [74/2.2](day-74.md), [74/2.3](day-74.md), [74/3.1](day-74.md), [74/3.2](day-74.md), [74/3.3](day-74.md), [74/4.1](day-74.md), [74/4.2](day-74.md), [74/5.1](day-74.md), [74/5.2](day-74.md)
+- **ADK-54** - 11 parts: [75/1.1](day-75.md), [75/1.2](day-75.md), [75/1.3](day-75.md), [75/2.1](day-75.md), [75/2.2](day-75.md), [75/2.3](day-75.md), [75/3.1](day-75.md), [75/3.2](day-75.md), [75/4.1](day-75.md), [75/4.2](day-75.md), [75/4.3](day-75.md)
+- **ADK-55** - 11 parts: [75/1.1](day-75.md), [75/1.2](day-75.md), [75/1.3](day-75.md), [75/2.1](day-75.md), [75/2.2](day-75.md), [75/2.3](day-75.md), [75/3.1](day-75.md), [75/3.2](day-75.md), [75/4.1](day-75.md), [75/4.2](day-75.md), [75/4.3](day-75.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **ADK-76** - 7 parts: [64/4.1](day-64.md), [64/4.2](day-64.md), [64/4.3](day-64.md), [64/4.4](day-64.md), [64/4.5](day-64.md), [64/6.1](day-64.md), [64/7.3](day-64.md)
 - **ADK-78** - 1 parts: [39/4.3](day-39.md)
@@ -80,6 +85,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-21** - 13 parts: [59/1.1](day-59.md), [59/1.2](day-59.md), [59/1.3](day-59.md), [59/1.4](day-59.md), [59/1.5](day-59.md), [59/2.2](day-59.md), [59/2.3](day-59.md), [59/3.4](day-59.md), [59/5.1](day-59.md), [59/5.4](day-59.md), [59/5.5](day-59.md), [59/5.6](day-59.md), [59/6.2](day-59.md)
 - **AG-22** - 19 parts: [60/1.1](day-60.md), [60/1.2](day-60.md), [60/1.3](day-60.md), [60/2.1](day-60.md), [60/2.2](day-60.md), [60/2.3](day-60.md), [60/2.4](day-60.md), [60/2.5](day-60.md), [60/3.1](day-60.md), [60/3.2](day-60.md), [60/3.3](day-60.md), [60/3.4](day-60.md), [60/3.5](day-60.md), [60/5.1](day-60.md), [60/5.2](day-60.md), [60/6.1](day-60.md), [60/6.2](day-60.md), [60/7.1](day-60.md), [60/7.2](day-60.md)
 - **AG-23** - 14 parts: [62/1.1](day-62.md), [62/1.2](day-62.md), [62/1.3](day-62.md), [62/3.3](day-62.md), [62/4.3](day-62.md), [62/5.1](day-62.md), [62/5.2](day-62.md), [62/6.1](day-62.md), [62/6.2](day-62.md), [62/6.3](day-62.md), [62/7.1](day-62.md), [62/7.2](day-62.md), [62/8.1](day-62.md), [62/8.2](day-62.md)
+- **AG-24** - 14 parts: [73/1.1](day-73.md), [73/1.2](day-73.md), [73/1.3](day-73.md), [73/2.1](day-73.md), [73/2.2](day-73.md), [73/2.3](day-73.md), [73/2.4](day-73.md), [73/3.1](day-73.md), [73/3.2](day-73.md), [73/3.3](day-73.md), [73/4.1](day-73.md), [73/4.2](day-73.md), [73/5.1](day-73.md), [73/5.2](day-73.md)
 - **AG-31** - 7 parts: [71/1.1](day-71.md), [71/1.2](day-71.md), [71/1.3](day-71.md), [71/2.1](day-71.md), [71/2.2](day-71.md), [71/2.3](day-71.md), [71/4.3](day-71.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **AG-33** - 14 parts: [49/1.1](day-49.md), [49/1.2](day-49.md), [49/1.3](day-49.md), [49/1.4](day-49.md), [49/1.5](day-49.md), [49/2.1](day-49.md), [49/2.2](day-49.md), [49/3.1](day-49.md), [49/3.2](day-49.md), [49/3.3](day-49.md), [49/3.4](day-49.md), [49/5.1](day-49.md), [49/5.2](day-49.md), [49/6.1](day-49.md)
@@ -128,6 +134,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **OPS-10** - 17 parts: [51/1.1](day-51.md), [51/1.2](day-51.md), [51/1.3](day-51.md), [51/2.4](day-51.md), [51/3.2](day-51.md), [51/4.2](day-51.md), [51/4.3](day-51.md), [51/5.1](day-51.md), [51/5.2](day-51.md), [51/5.3](day-51.md), [51/5.4](day-51.md), [51/5.5](day-51.md), [51/6.1](day-51.md), [51/6.2](day-51.md), [51/6.3](day-51.md), [51/7.1](day-51.md), [51/7.2](day-51.md)
 - **OPS-11** - 24 parts: [65/1.1](day-65.md), [65/1.2](day-65.md), [65/1.3](day-65.md), [65/2.1](day-65.md), [65/2.2](day-65.md), [65/2.3](day-65.md), [65/3.1](day-65.md), [65/3.2](day-65.md), [65/3.3](day-65.md), [65/3.4](day-65.md), [65/3.5](day-65.md), [65/4.1](day-65.md), [65/4.2](day-65.md), [65/4.3](day-65.md), [65/5.1](day-65.md), [65/5.2](day-65.md), [65/5.3](day-65.md), [65/5.4](day-65.md), [65/5.5](day-65.md), [65/5.6](day-65.md), [65/5.7](day-65.md), [65/5.8](day-65.md), [65/6.1](day-65.md), [65/6.2](day-65.md)
 - **OPS-12** - 23 parts: [70/1.1](day-70.md), [70/1.2](day-70.md), [70/1.3](day-70.md), [70/1.4](day-70.md), [70/1.5](day-70.md), [70/2.1](day-70.md), [70/2.2](day-70.md), [70/2.3](day-70.md), [70/2.4](day-70.md), [70/3.1](day-70.md), [70/3.2](day-70.md), [70/3.3](day-70.md), [70/3.4](day-70.md), [70/4.1](day-70.md), [70/4.2](day-70.md), [70/4.3](day-70.md), [70/4.4](day-70.md), [70/5.1](day-70.md), [70/5.2](day-70.md), [70/5.3](day-70.md), [70/6.1](day-70.md), [70/6.2](day-70.md), [70/6.3](day-70.md)
+- **OPS-13** - 12 parts: [72/1.1](day-72.md), [72/1.2](day-72.md), [72/1.3](day-72.md), [72/2.1](day-72.md), [72/2.2](day-72.md), [72/2.3](day-72.md), [72/3.1](day-72.md), [72/3.2](day-72.md), [72/4.1](day-72.md), [72/4.2](day-72.md), [72/5.1](day-72.md), [72/5.2](day-72.md)
 - **SEC-01** - 4 parts: [16/4.3](day-16.md), [16/6.1](day-16.md), [16/6.3](day-16.md), [16/8.1](day-16.md)
 - **SEC-02** - 8 parts: [21/1.1](day-21.md), [21/1.2](day-21.md), [21/1.3](day-21.md), [21/3.1](day-21.md), [21/3.2](day-21.md), [21/3.3](day-21.md), [21/4.1](day-21.md), [21/5.1](day-21.md)
 - **SEC-03** - 9 parts: [40/1.2](day-40.md), [40/2.3](day-40.md), [40/2.4](day-40.md), [40/3.2](day-40.md), [40/5.2](day-40.md), [40/6.1](day-40.md), [40/6.2](day-40.md), [40/6.3](day-40.md), [40/6.4](day-40.md)
@@ -142,6 +149,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **SEC-12** - 20 parts: [69/1.1](day-69.md), [69/1.2](day-69.md), [69/1.3](day-69.md), [69/1.4](day-69.md), [69/2.1](day-69.md), [69/2.2](day-69.md), [69/2.3](day-69.md), [69/2.4](day-69.md), [69/3.3](day-69.md), [69/4.1](day-69.md), [69/4.2](day-69.md), [69/4.3](day-69.md), [69/5.1](day-69.md), [69/5.2](day-69.md), [69/5.3](day-69.md), [69/6.1](day-69.md), [69/6.2](day-69.md), [69/6.3](day-69.md), [69/7.1](day-69.md), [69/7.2](day-69.md)
 - **SEC-13** - 4 parts: [69/3.1](day-69.md), [69/3.2](day-69.md), [69/3.3](day-69.md), [69/7.2](day-69.md)
 - **SEC-14** - 7 parts: [71/3.1](day-71.md), [71/3.2](day-71.md), [71/3.3](day-71.md), [71/3.4](day-71.md), [71/4.1](day-71.md), [71/4.2](day-71.md), [71/4.3](day-71.md)
+- **SEC-15** - 12 parts: [72/1.1](day-72.md), [72/1.2](day-72.md), [72/1.3](day-72.md), [72/2.1](day-72.md), [72/2.2](day-72.md), [72/2.3](day-72.md), [72/3.1](day-72.md), [72/3.2](day-72.md), [72/4.1](day-72.md), [72/4.2](day-72.md), [72/5.1](day-72.md), [72/5.2](day-72.md)
 - **SK-01** - 3 parts: [25/1.1](day-25.md), [25/1.2](day-25.md), [25/1.3](day-25.md)
 - **SK-02** - 6 parts: [25/2.1](day-25.md), [25/2.2](day-25.md), [25/2.3](day-25.md), [25/2.4](day-25.md), [25/4.1](day-25.md), [25/4.2](day-25.md)
 - **SK-03** - 6 parts: [25/3.1](day-25.md), [25/3.2](day-25.md), [25/3.3](day-25.md), [25/4.1](day-25.md), [25/5.1](day-25.md), [25/5.2](day-25.md)
@@ -229,10 +237,14 @@ A paper is taught once in the whole curriculum.
   - taught in day 23; cited by 23/1.1, 23/1.4
 - **doi:10.1145/1272998.1273005** - Dryad — the job is a graph, and the graph is the program
   - taught in day 53; cited by 53/4.1, 53/4.4
+- **doi:10.1145/1476589.1476628** - Response time in man-computer conversational transactions
+  - taught in day 74; cited by no parts
 - **doi:10.1145/2080.357392** - Implementing remote procedure calls
   - taught in day 15; cited by 15/4.1, 15/4.2, 32/1.4, 33/1.1, 34/2.4
 - **doi:10.1145/214451.214456** - Distributed snapshots: determining global states of distributed systems
   - taught in day 60; cited by 60/2.5, 61/4.3, 65/2.1
+- **doi:10.1145/2181796.2187821** - Idempotence Is Not a Medical Condition
+  - taught in day 73; cited by no parts
 - **doi:10.1145/2408776.2408794** - The tail at scale
   - taught in day 44; cited by 44/2.1
 - **doi:10.1145/289.291** - Principles of transaction-oriented database recovery
@@ -247,6 +259,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 22; cited by 22/1.4, 52/6.2
 - **doi:10.1145/359576.359585** - Communicating sequential processes
   - taught in day 54; cited by no parts
+- **doi:10.1145/360248.360253** - Ethernet: distributed packet switching for local computer networks
+  - taught in day 72; cited by no parts
 - **doi:10.1145/361219.361220** - A vector space model for automatic indexing
   - taught in day 49; cited by 49/1.2, 49/1.3, 49/1.4, 52/4.1
 - **doi:10.1145/362384.362685** - A Relational Model of Data for Large Shared Data Banks
@@ -263,3 +277,5 @@ A paper is taught once in the whole curriculum.
   - taught in day 37; cited by 37/2.1
 - **doi:10.17487/RFC9413** - Maintaining Robust Protocols
   - taught in day 38; cited by no parts
+- **doi:10.2307/412243** - A simplest systematics for the organization of turn-taking for conversation
+  - taught in day 75; cited by no parts
