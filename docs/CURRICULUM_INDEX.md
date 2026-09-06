@@ -35,7 +35,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-22` | [60](../days/day-60-durable-execution/LESSON.md) | Durable execution — resume, replay, idempotency |
 | `AG-23` | [62](../days/day-62-human-in-the-loop/LESSON.md) | Human-in-the-loop patterns |
 | `AG-24` | [73](../days/day-73-ambient-agents/LESSON.md) | Ambient agents — the nightly job (re-index, full evals, digest) |
-| `AG-25` | [77](../days/day-77/LESSON.md) | The standup agent — voice client over the queue state |
+| `AG-25` | [77](../days/day-77-the-standup-agent/LESSON.md) | The standup agent — voice client over the queue state |
 | `AG-26` | [79](../days/day-79/LESSON.md) | Evals are tests — evalsets, metrics, Flash-Lite as the eval workhorse |
 | `AG-27` | [81](../days/day-81/LESSON.md) | LLM-as-judge & honest baselines |
 | `AG-28` | [83](../days/day-83/LESSON.md) | Phase gate — Sutra's eval suite green |
@@ -106,7 +106,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-54` | [75](../days/day-75-the-bidi-voice-loop/LESSON.md) | Live API II — the bidi voice loop |
 | `ADK-55` | [75](../days/day-75-the-bidi-voice-loop/LESSON.md) | Live API II — the bidi voice loop |
 | `ADK-56` | [76](../days/day-76-vad-and-non-blocking-tools/LESSON.md) | VAD events & non-blocking tools (2.5) — the conversation doesn't freeze mid-tool |
-| `ADK-57` | [77](../days/day-77/LESSON.md) | The standup agent — voice client over the queue state |
+| `ADK-57` | [77](../days/day-77-the-standup-agent/LESSON.md) | The standup agent — voice client over the queue state |
 | `ADK-58` | [79](../days/day-79/LESSON.md) | Evals are tests — evalsets, metrics, Flash-Lite as the eval workhorse |
 | `ADK-59` | [79](../days/day-79/LESSON.md) | Evals are tests — evalsets, metrics, Flash-Lite as the eval workhorse |
 | `ADK-60` | [80](../days/day-80/LESSON.md) | Trajectory & rubric evaluation — `RubricBasedMultiTurnTrajectoryEvaluator` (2.2); "esca… |

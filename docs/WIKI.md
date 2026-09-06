@@ -82,3 +82,4 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [74](wiki/day-74.md) | Live API I — streaming architecture; free-quota check | ADK-52, ADK-53 | 13 | doi:10.1145/1476589.1476628 |
 | [75](wiki/day-75.md) | Live API II — the bidi voice loop | ADK-54, ADK-55 | 11 | doi:10.2307/412243 |
 | [76](wiki/day-76.md) | VAD events and non-blocking tools — the conversation doesn't freeze mid-tool | ADK-56, ADK-77 | 11 | doi:10.1002/j.1538-7305.1975.tb02840.x |
+| [77](wiki/day-77.md) | The standup agent — a voice client over the queue state | ADK-57, AG-25 | 11 | doi:10.1037/h0043158 |

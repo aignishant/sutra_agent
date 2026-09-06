@@ -60,6 +60,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-54** - 11 parts: [75/1.1](day-75.md), [75/1.2](day-75.md), [75/1.3](day-75.md), [75/2.1](day-75.md), [75/2.2](day-75.md), [75/2.3](day-75.md), [75/3.1](day-75.md), [75/3.2](day-75.md), [75/4.1](day-75.md), [75/4.2](day-75.md), [75/4.3](day-75.md)
 - **ADK-55** - 11 parts: [75/1.1](day-75.md), [75/1.2](day-75.md), [75/1.3](day-75.md), [75/2.1](day-75.md), [75/2.2](day-75.md), [75/2.3](day-75.md), [75/3.1](day-75.md), [75/3.2](day-75.md), [75/4.1](day-75.md), [75/4.2](day-75.md), [75/4.3](day-75.md)
 - **ADK-56** - 11 parts: [76/1.1](day-76.md), [76/1.2](day-76.md), [76/1.3](day-76.md), [76/2.1](day-76.md), [76/2.2](day-76.md), [76/2.3](day-76.md), [76/3.1](day-76.md), [76/3.2](day-76.md), [76/3.3](day-76.md), [76/4.1](day-76.md), [76/4.2](day-76.md)
+- **ADK-57** - 11 parts: [77/1.1](day-77.md), [77/1.2](day-77.md), [77/1.3](day-77.md), [77/2.1](day-77.md), [77/2.2](day-77.md), [77/2.3](day-77.md), [77/3.1](day-77.md), [77/3.2](day-77.md), [77/4.1](day-77.md), [77/4.2](day-77.md), [77/4.3](day-77.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **ADK-76** - 7 parts: [64/4.1](day-64.md), [64/4.2](day-64.md), [64/4.3](day-64.md), [64/4.4](day-64.md), [64/4.5](day-64.md), [64/6.1](day-64.md), [64/7.3](day-64.md)
 - **ADK-77** - 11 parts: [76/1.1](day-76.md), [76/1.2](day-76.md), [76/1.3](day-76.md), [76/2.1](day-76.md), [76/2.2](day-76.md), [76/2.3](day-76.md), [76/3.1](day-76.md), [76/3.2](day-76.md), [76/3.3](day-76.md), [76/4.1](day-76.md), [76/4.2](day-76.md)
@@ -88,6 +89,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-22** - 19 parts: [60/1.1](day-60.md), [60/1.2](day-60.md), [60/1.3](day-60.md), [60/2.1](day-60.md), [60/2.2](day-60.md), [60/2.3](day-60.md), [60/2.4](day-60.md), [60/2.5](day-60.md), [60/3.1](day-60.md), [60/3.2](day-60.md), [60/3.3](day-60.md), [60/3.4](day-60.md), [60/3.5](day-60.md), [60/5.1](day-60.md), [60/5.2](day-60.md), [60/6.1](day-60.md), [60/6.2](day-60.md), [60/7.1](day-60.md), [60/7.2](day-60.md)
 - **AG-23** - 14 parts: [62/1.1](day-62.md), [62/1.2](day-62.md), [62/1.3](day-62.md), [62/3.3](day-62.md), [62/4.3](day-62.md), [62/5.1](day-62.md), [62/5.2](day-62.md), [62/6.1](day-62.md), [62/6.2](day-62.md), [62/6.3](day-62.md), [62/7.1](day-62.md), [62/7.2](day-62.md), [62/8.1](day-62.md), [62/8.2](day-62.md)
 - **AG-24** - 14 parts: [73/1.1](day-73.md), [73/1.2](day-73.md), [73/1.3](day-73.md), [73/2.1](day-73.md), [73/2.2](day-73.md), [73/2.3](day-73.md), [73/2.4](day-73.md), [73/3.1](day-73.md), [73/3.2](day-73.md), [73/3.3](day-73.md), [73/4.1](day-73.md), [73/4.2](day-73.md), [73/5.1](day-73.md), [73/5.2](day-73.md)
+- **AG-25** - 11 parts: [77/1.1](day-77.md), [77/1.2](day-77.md), [77/1.3](day-77.md), [77/2.1](day-77.md), [77/2.2](day-77.md), [77/2.3](day-77.md), [77/3.1](day-77.md), [77/3.2](day-77.md), [77/4.1](day-77.md), [77/4.2](day-77.md), [77/4.3](day-77.md)
 - **AG-31** - 7 parts: [71/1.1](day-71.md), [71/1.2](day-71.md), [71/1.3](day-71.md), [71/2.1](day-71.md), [71/2.2](day-71.md), [71/2.3](day-71.md), [71/4.3](day-71.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **AG-33** - 14 parts: [49/1.1](day-49.md), [49/1.2](day-49.md), [49/1.3](day-49.md), [49/1.4](day-49.md), [49/1.5](day-49.md), [49/2.1](day-49.md), [49/2.2](day-49.md), [49/3.1](day-49.md), [49/3.2](day-49.md), [49/3.3](day-49.md), [49/3.4](day-49.md), [49/5.1](day-49.md), [49/5.2](day-49.md), [49/6.1](day-49.md)
@@ -223,6 +225,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 62; cited by 62/7.1
 - **doi:10.1017/S0269888900008122** - Intelligent agents: theory and practice — where the word came from
   - taught in day 01; cited by 01/1.1, 01/1.2
+- **doi:10.1037/h0043158** - The magical number seven, plus or minus two: Some limits on our capacity for processing information.
+  - taught in day 77; cited by no parts
 - **doi:10.1109/71.963420** - The power of two choices in randomized load balancing
   - taught in day 70; cited by 70/2.4
 - **doi:10.1109/C-M.1978.218136** - Hints on Test Data Selection: Help for the Practicing Programmer
