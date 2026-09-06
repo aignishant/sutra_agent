@@ -53,6 +53,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-47** - 3 parts: [63/7.1](day-63.md), [63/7.2](day-63.md), [63/7.3](day-63.md)
 - **ADK-48** - 20 parts: [64/1.1](day-64.md), [64/1.2](day-64.md), [64/1.3](day-64.md), [64/1.4](day-64.md), [64/2.1](day-64.md), [64/2.2](day-64.md), [64/2.3](day-64.md), [64/3.1](day-64.md), [64/3.2](day-64.md), [64/3.3](day-64.md), [64/3.4](day-64.md), [64/3.5](day-64.md), [64/5.1](day-64.md), [64/5.2](day-64.md), [64/6.1](day-64.md), [64/6.2](day-64.md), [64/6.3](day-64.md), [64/7.1](day-64.md), [64/7.2](day-64.md), [64/7.3](day-64.md)
 - **ADK-49** - 4 parts: [70/3.1](day-70.md), [70/3.2](day-70.md), [70/3.3](day-70.md), [70/3.4](day-70.md)
+- **ADK-50** - 7 parts: [71/2.1](day-71.md), [71/2.2](day-71.md), [71/2.3](day-71.md), [71/3.1](day-71.md), [71/3.2](day-71.md), [71/3.3](day-71.md), [71/3.4](day-71.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **ADK-76** - 7 parts: [64/4.1](day-64.md), [64/4.2](day-64.md), [64/4.3](day-64.md), [64/4.4](day-64.md), [64/4.5](day-64.md), [64/6.1](day-64.md), [64/7.3](day-64.md)
 - **ADK-78** - 1 parts: [39/4.3](day-39.md)
@@ -79,6 +80,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **AG-21** - 13 parts: [59/1.1](day-59.md), [59/1.2](day-59.md), [59/1.3](day-59.md), [59/1.4](day-59.md), [59/1.5](day-59.md), [59/2.2](day-59.md), [59/2.3](day-59.md), [59/3.4](day-59.md), [59/5.1](day-59.md), [59/5.4](day-59.md), [59/5.5](day-59.md), [59/5.6](day-59.md), [59/6.2](day-59.md)
 - **AG-22** - 19 parts: [60/1.1](day-60.md), [60/1.2](day-60.md), [60/1.3](day-60.md), [60/2.1](day-60.md), [60/2.2](day-60.md), [60/2.3](day-60.md), [60/2.4](day-60.md), [60/2.5](day-60.md), [60/3.1](day-60.md), [60/3.2](day-60.md), [60/3.3](day-60.md), [60/3.4](day-60.md), [60/3.5](day-60.md), [60/5.1](day-60.md), [60/5.2](day-60.md), [60/6.1](day-60.md), [60/6.2](day-60.md), [60/7.1](day-60.md), [60/7.2](day-60.md)
 - **AG-23** - 14 parts: [62/1.1](day-62.md), [62/1.2](day-62.md), [62/1.3](day-62.md), [62/3.3](day-62.md), [62/4.3](day-62.md), [62/5.1](day-62.md), [62/5.2](day-62.md), [62/6.1](day-62.md), [62/6.2](day-62.md), [62/6.3](day-62.md), [62/7.1](day-62.md), [62/7.2](day-62.md), [62/8.1](day-62.md), [62/8.2](day-62.md)
+- **AG-31** - 7 parts: [71/1.1](day-71.md), [71/1.2](day-71.md), [71/1.3](day-71.md), [71/2.1](day-71.md), [71/2.2](day-71.md), [71/2.3](day-71.md), [71/4.3](day-71.md)
 - **AG-32** - 5 parts: [16/5.2](day-16.md), [16/6.1](day-16.md), [16/6.2](day-16.md), [16/6.3](day-16.md), [16/8.3](day-16.md)
 - **AG-33** - 14 parts: [49/1.1](day-49.md), [49/1.2](day-49.md), [49/1.3](day-49.md), [49/1.4](day-49.md), [49/1.5](day-49.md), [49/2.1](day-49.md), [49/2.2](day-49.md), [49/3.1](day-49.md), [49/3.2](day-49.md), [49/3.3](day-49.md), [49/3.4](day-49.md), [49/5.1](day-49.md), [49/5.2](day-49.md), [49/6.1](day-49.md)
 - **MCP-01** - 6 parts: [32/1.1](day-32.md), [32/1.2](day-32.md), [32/1.3](day-32.md), [32/1.4](day-32.md), [32/1.5](day-32.md), [32/6.2](day-32.md)
@@ -139,6 +141,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **SEC-11** - 15 parts: [68/1.1](day-68.md), [68/1.2](day-68.md), [68/1.4](day-68.md), [68/2.2](day-68.md), [68/3.1](day-68.md), [68/3.4](day-68.md), [68/4.2](day-68.md), [68/4.3](day-68.md), [68/4.4](day-68.md), [68/4.5](day-68.md), [68/5.1](day-68.md), [68/5.2](day-68.md), [68/5.3](day-68.md), [68/6.1](day-68.md), [68/6.2](day-68.md)
 - **SEC-12** - 20 parts: [69/1.1](day-69.md), [69/1.2](day-69.md), [69/1.3](day-69.md), [69/1.4](day-69.md), [69/2.1](day-69.md), [69/2.2](day-69.md), [69/2.3](day-69.md), [69/2.4](day-69.md), [69/3.3](day-69.md), [69/4.1](day-69.md), [69/4.2](day-69.md), [69/4.3](day-69.md), [69/5.1](day-69.md), [69/5.2](day-69.md), [69/5.3](day-69.md), [69/6.1](day-69.md), [69/6.2](day-69.md), [69/6.3](day-69.md), [69/7.1](day-69.md), [69/7.2](day-69.md)
 - **SEC-13** - 4 parts: [69/3.1](day-69.md), [69/3.2](day-69.md), [69/3.3](day-69.md), [69/7.2](day-69.md)
+- **SEC-14** - 7 parts: [71/3.1](day-71.md), [71/3.2](day-71.md), [71/3.3](day-71.md), [71/3.4](day-71.md), [71/4.1](day-71.md), [71/4.2](day-71.md), [71/4.3](day-71.md)
 - **SK-01** - 3 parts: [25/1.1](day-25.md), [25/1.2](day-25.md), [25/1.3](day-25.md)
 - **SK-02** - 6 parts: [25/2.1](day-25.md), [25/2.2](day-25.md), [25/2.3](day-25.md), [25/2.4](day-25.md), [25/4.1](day-25.md), [25/4.2](day-25.md)
 - **SK-03** - 6 parts: [25/3.1](day-25.md), [25/3.2](day-25.md), [25/3.3](day-25.md), [25/4.1](day-25.md), [25/5.1](day-25.md), [25/5.2](day-25.md)
@@ -218,6 +221,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 40; cited by 40/1.1, 40/1.2, 40/2.4, 45/4.1, 48/2.3, 62/2.1, 64/1.1, 64/6.2, 66/4.4
 - **doi:10.1109/SP.1987.10001** - Well-formed transactions and separation of duty
   - taught in day 63; cited by 63/4.3
+- **doi:10.1109/SP.2009.25** - Native Client: A Sandbox for Portable, Untrusted x86 Native Code
+  - taught in day 71; cited by no parts
 - **doi:10.1109/TC.1980.1675516** - The Contract Net Protocol — asking instead of assigning
   - taught in day 55; cited by 55/1.3
 - **doi:10.1145/1028664.1028765** - Mock roles, not objects

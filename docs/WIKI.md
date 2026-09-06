@@ -76,3 +76,4 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [68](wiki/day-68.md) | Permissions & least privilege for tools | SEC-11, SEC-10 | 22 | doi:10.1145/54289.871709 |
 | [69](wiki/day-69.md) | PII & data boundaries — synthetic data only, free-tier training caveat | SEC-12, SEC-13 | 22 | arXiv:2012.07805 |
 | [70](wiki/day-70.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom | OPS-12, ADK-49 | 23 | doi:10.1109/71.963420 |
+| [71](wiki/day-71.md) | Computer use & the sandbox — browser agent vs a local dummy site; execution isolation in practice | AG-31, ADK-50, SEC-14 | 13 | doi:10.1109/SP.2009.25 |

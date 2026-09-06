@@ -41,7 +41,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-28` | [83](../days/day-83/LESSON.md) | Phase gate — Sutra's eval suite green |
 | `AG-29` | [90](../days/day-90/LESSON.md) | Agent identity & the registry |
 | `AG-30` | [91](../days/day-91/LESSON.md) | Integrations survey — Slack-shaped intake, ecosystems; paid-only items noted "requires … |
-| `AG-31` | [71](../days/day-71/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
+| `AG-31` | [71](../days/day-71-computer-use-and-the-sandbox/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
 | `AG-32` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `AG-33` | [49](../days/day-49-retrieval-and-embeddings/LESSON.md) | Retrieval & embeddings — one honest RAG day (local embedding index over the ticket arch… |
 | `AG-34` | [89](../days/day-89/LESSON.md) | A2A v1.0 — signed Agent Cards verified hands-on; AP2 mandates, x402/TAP 🅿️ — *know the … |
@@ -99,7 +99,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-47` | [63](../days/day-63-approval-gates-design/LESSON.md) | Approval gates — design (what needs a human, and why) |
 | `ADK-48` | [64](../days/day-64-approval-gates-build/LESSON.md) | Approval gates — build; HITL resumption for standalone nodes + `NodeTool` (2.5) |
 | `ADK-49` | [70](../days/day-70-the-quota-router/LESSON.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom |
-| `ADK-50` | [71](../days/day-71/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
+| `ADK-50` | [71](../days/day-71-computer-use-and-the-sandbox/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
 | `ADK-51` | [73](../days/day-73/LESSON.md) | Ambient agents — the nightly job (re-index, full evals, digest) |
 | `ADK-52` | [74](../days/day-74/LESSON.md) | Live API I — streaming architecture; free-quota check (SSE-text + browser speech fallba… |
 | `ADK-53` | [74](../days/day-74/LESSON.md) | Live API I — streaming architecture; free-quota check (SSE-text + browser speech fallba… |
@@ -232,7 +232,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `SEC-11` | [68](../days/day-68-least-privilege-tools/LESSON.md) | Permissions & least privilege for tools |
 | `SEC-12` | [69](../days/day-69-pii-and-data-boundaries/LESSON.md) | PII & data boundaries — synthetic data only, free-tier training caveat |
 | `SEC-13` | [69](../days/day-69-pii-and-data-boundaries/LESSON.md) | PII & data boundaries — synthetic data only, free-tier training caveat |
-| `SEC-14` | [71](../days/day-71/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
+| `SEC-14` | [71](../days/day-71-computer-use-and-the-sandbox/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
 | `SEC-15` | [72](../days/day-72/LESSON.md) | Backoff with honesty — `retry-after`, 1→2→4→8s, escalate after N; never invent a result |
 | `SEC-16` | [92](../days/day-92/LESSON.md) | Hardening pass — full security review before going public |
 
