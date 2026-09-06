@@ -52,6 +52,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **ADK-46** - 8 parts: [62/2.1](day-62.md), [62/2.2](day-62.md), [62/2.3](day-62.md), [62/3.1](day-62.md), [62/3.2](day-62.md), [62/4.1](day-62.md), [62/4.2](day-62.md), [62/7.3](day-62.md)
 - **ADK-47** - 3 parts: [63/7.1](day-63.md), [63/7.2](day-63.md), [63/7.3](day-63.md)
 - **ADK-48** - 20 parts: [64/1.1](day-64.md), [64/1.2](day-64.md), [64/1.3](day-64.md), [64/1.4](day-64.md), [64/2.1](day-64.md), [64/2.2](day-64.md), [64/2.3](day-64.md), [64/3.1](day-64.md), [64/3.2](day-64.md), [64/3.3](day-64.md), [64/3.4](day-64.md), [64/3.5](day-64.md), [64/5.1](day-64.md), [64/5.2](day-64.md), [64/6.1](day-64.md), [64/6.2](day-64.md), [64/6.3](day-64.md), [64/7.1](day-64.md), [64/7.2](day-64.md), [64/7.3](day-64.md)
+- **ADK-49** - 4 parts: [70/3.1](day-70.md), [70/3.2](day-70.md), [70/3.3](day-70.md), [70/3.4](day-70.md)
 - **ADK-73** - 4 parts: [05/3.1](day-05.md), [05/3.2](day-05.md), [05/3.3](day-05.md), [05/6.1](day-05.md)
 - **ADK-76** - 7 parts: [64/4.1](day-64.md), [64/4.2](day-64.md), [64/4.3](day-64.md), [64/4.4](day-64.md), [64/4.5](day-64.md), [64/6.1](day-64.md), [64/7.3](day-64.md)
 - **ADK-78** - 1 parts: [39/4.3](day-39.md)
@@ -124,7 +125,7 @@ Cross-day lookups. Answers 'which day taught this?' without opening a day folder
 - **OPS-09** - 5 parts: [45/4.2](day-45.md), [45/6.1](day-45.md), [45/7.1](day-45.md), [45/7.2](day-45.md), [45/7.3](day-45.md)
 - **OPS-10** - 17 parts: [51/1.1](day-51.md), [51/1.2](day-51.md), [51/1.3](day-51.md), [51/2.4](day-51.md), [51/3.2](day-51.md), [51/4.2](day-51.md), [51/4.3](day-51.md), [51/5.1](day-51.md), [51/5.2](day-51.md), [51/5.3](day-51.md), [51/5.4](day-51.md), [51/5.5](day-51.md), [51/6.1](day-51.md), [51/6.2](day-51.md), [51/6.3](day-51.md), [51/7.1](day-51.md), [51/7.2](day-51.md)
 - **OPS-11** - 24 parts: [65/1.1](day-65.md), [65/1.2](day-65.md), [65/1.3](day-65.md), [65/2.1](day-65.md), [65/2.2](day-65.md), [65/2.3](day-65.md), [65/3.1](day-65.md), [65/3.2](day-65.md), [65/3.3](day-65.md), [65/3.4](day-65.md), [65/3.5](day-65.md), [65/4.1](day-65.md), [65/4.2](day-65.md), [65/4.3](day-65.md), [65/5.1](day-65.md), [65/5.2](day-65.md), [65/5.3](day-65.md), [65/5.4](day-65.md), [65/5.5](day-65.md), [65/5.6](day-65.md), [65/5.7](day-65.md), [65/5.8](day-65.md), [65/6.1](day-65.md), [65/6.2](day-65.md)
-- **OPS-12** - 9 parts: [70/1.1](day-70.md), [70/1.2](day-70.md), [70/1.3](day-70.md), [70/1.4](day-70.md), [70/1.5](day-70.md), [70/2.1](day-70.md), [70/2.2](day-70.md), [70/2.3](day-70.md), [70/2.4](day-70.md)
+- **OPS-12** - 23 parts: [70/1.1](day-70.md), [70/1.2](day-70.md), [70/1.3](day-70.md), [70/1.4](day-70.md), [70/1.5](day-70.md), [70/2.1](day-70.md), [70/2.2](day-70.md), [70/2.3](day-70.md), [70/2.4](day-70.md), [70/3.1](day-70.md), [70/3.2](day-70.md), [70/3.3](day-70.md), [70/3.4](day-70.md), [70/4.1](day-70.md), [70/4.2](day-70.md), [70/4.3](day-70.md), [70/4.4](day-70.md), [70/5.1](day-70.md), [70/5.2](day-70.md), [70/5.3](day-70.md), [70/6.1](day-70.md), [70/6.2](day-70.md), [70/6.3](day-70.md)
 - **SEC-01** - 4 parts: [16/4.3](day-16.md), [16/6.1](day-16.md), [16/6.3](day-16.md), [16/8.1](day-16.md)
 - **SEC-02** - 8 parts: [21/1.1](day-21.md), [21/1.2](day-21.md), [21/1.3](day-21.md), [21/3.1](day-21.md), [21/3.2](day-21.md), [21/3.3](day-21.md), [21/4.1](day-21.md), [21/5.1](day-21.md)
 - **SEC-03** - 9 parts: [40/1.2](day-40.md), [40/2.3](day-40.md), [40/2.4](day-40.md), [40/3.2](day-40.md), [40/5.2](day-40.md), [40/6.1](day-40.md), [40/6.2](day-40.md), [40/6.3](day-40.md), [40/6.4](day-40.md)
@@ -207,8 +208,8 @@ A paper is taught once in the whole curriculum.
   - taught in day 62; cited by 62/7.1
 - **doi:10.1017/S0269888900008122** - Intelligent agents: theory and practice — where the word came from
   - taught in day 01; cited by 01/1.1, 01/1.2
-- **doi:10.1109/71.963420** - ?
-  - taught in **not taught anywhere**; cited by 70/2.4
+- **doi:10.1109/71.963420** - The power of two choices in randomized load balancing
+  - taught in day 70; cited by 70/2.4
 - **doi:10.1109/C-M.1978.218136** - Hints on Test Data Selection: Help for the Practicing Programmer
   - taught in day 30; cited by 30/3.3, 30/6.2
 - **doi:10.1109/MCOM.1986.1092946** - New directions in communications — the leaky bucket

@@ -78,3 +78,4 @@ can be found in prose without guessing where it ends.
 | Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection | arXiv:2302.12173 | 2023 | 2026-09-06 | 66 | `days/day-66-injection-threat-model/papers/01-indirect-prompt-injection.md` |
 | Defeating Prompt Injections by Design | arXiv:2503.18813 | 2025 | 2026-09-06 | 67 | `days/day-67-guardrail-callbacks/papers/01-defeating-prompt-injections-by-design.md` |
 | Extracting Training Data from Large Language Models | arXiv:2012.07805 | 2020 | 2026-09-06 | 69 | `days/day-69-pii-and-data-boundaries/papers/01-extracting-training-data.md` |
+| The power of two choices in randomized load balancing | doi:10.1109/71.963420 | 2001 | 2026-09-06 | 70 | `days/day-70-the-quota-router/papers/01-the-power-of-two-choices.md` |
