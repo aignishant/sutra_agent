@@ -85,3 +85,4 @@ can be found in prose without guessing where it ends.
 | Response time in man-computer conversational transactions | doi:10.1145/1476589.1476628 | 1968 | 2026-09-06 | 74 | `days/day-74-live-api-streaming/papers/01-response-time.md` |
 | A simplest systematics for the organization of turn-taking for conversation | doi:10.2307/412243 | 1974 | 2026-09-06 | 75 | `days/day-75-the-bidi-voice-loop/papers/01-turn-taking.md` |
 | An Algorithm for Determining the Endpoints of Isolated Utterances | doi:10.1002/j.1538-7305.1975.tb02840.x | 1975 | 2026-09-06 | 76 | `days/day-76-vad-and-non-blocking-tools/papers/01-endpoint-detection.md` |
+| The magical number seven, plus or minus two: Some limits on our capacity for processing information. | doi:10.1037/h0043158 | 1956 | 2026-09-06 | 77 | `days/day-77-the-standup-agent/papers/01-chunking.md` |
