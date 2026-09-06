@@ -1,6 +1,6 @@
 # 📇 Curriculum index — Project Sutra
 
-_Generated 2026-09-05 by `scripts/trace.py` from the master plan's §14._
+_Generated 2026-09-06 by `scripts/trace.py` from the master plan's §14._
 **Do not edit by hand.**
 
 §14 answers *what does day 43 teach?* This file answers the reverse — *where do I learn
@@ -27,13 +27,13 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `AG-14` | [50](../days/day-50-chunking-and-top-k/LESSON.md) | Chunking, top-k & when RAG is the wrong tool |
 | `AG-15` | [52](../days/day-52-memory-in-triage-flow/LESSON.md) | Phase gate — memory wired into the triage flow |
 | `AG-16` | [55](../days/day-55-delegation-and-transfer/LESSON.md) | Delegation & transfer; agent-as-tool |
-| `AG-17` | [56](../days/day-56/LESSON.md) | Planning patterns — plan-and-execute, replanning |
-| `AG-18` | [56](../days/day-56/LESSON.md) | Planning patterns — plan-and-execute, replanning |
-| `AG-19` | [57](../days/day-57/LESSON.md) | Multi-agent design — orchestrator, Writer↔Critic |
-| `AG-20` | [57](../days/day-57/LESSON.md) | Multi-agent design — orchestrator, Writer↔Critic |
-| `AG-21` | [59](../days/day-59/LESSON.md) | Phase gate + failure lab — loops, runaway agents, containment |
-| `AG-22` | [60](../days/day-60/LESSON.md) | Durable execution — resume, replay, idempotency |
-| `AG-23` | [62](../days/day-62/LESSON.md) | Human-in-the-loop patterns |
+| `AG-17` | [56](../days/day-56-planning-and-replanning/LESSON.md) | Planning patterns — plan-and-execute, replanning |
+| `AG-18` | [56](../days/day-56-planning-and-replanning/LESSON.md) | Planning patterns — plan-and-execute, replanning |
+| `AG-19` | [57](../days/day-57-orchestrator-and-critic/LESSON.md) | Multi-agent design — orchestrator, Writer↔Critic |
+| `AG-20` | [57](../days/day-57-orchestrator-and-critic/LESSON.md) | Multi-agent design — orchestrator, Writer↔Critic |
+| `AG-21` | [59](../days/day-59-runaway-agents-contained/LESSON.md) | Phase gate + failure lab — loops, runaway agents, containment |
+| `AG-22` | [60](../days/day-60-durable-execution/LESSON.md) | Durable execution — resume, replay, idempotency |
+| `AG-23` | [62](../days/day-62-human-in-the-loop/LESSON.md) | Human-in-the-loop patterns |
 | `AG-24` | [73](../days/day-73/LESSON.md) | Ambient agents — the nightly job (re-index, full evals, digest) |
 | `AG-25` | [77](../days/day-77/LESSON.md) | The standup agent — voice client over the queue state |
 | `AG-26` | [79](../days/day-79/LESSON.md) | Evals are tests — evalsets, metrics, Flash-Lite as the eval workhorse |
@@ -89,16 +89,16 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-37` | [54](../days/day-54-sequential-parallel-loop/LESSON.md) | Sequential, parallel & loop patterns |
 | `ADK-38` | [55](../days/day-55-delegation-and-transfer/LESSON.md) | Delegation & transfer; agent-as-tool |
 | `ADK-39` | [55](../days/day-55-delegation-and-transfer/LESSON.md) | Delegation & transfer; agent-as-tool |
-| `ADK-40` | [57](../days/day-57/LESSON.md) | Multi-agent design — orchestrator, Writer↔Critic |
-| `ADK-41` | [58](../days/day-58/LESSON.md) | The triage graph v1 — intake→classify→research→draft→review, end to end |
-| `ADK-42` | [58](../days/day-58/LESSON.md) | The triage graph v1 — intake→classify→research→draft→review, end to end |
-| `ADK-43` | [60](../days/day-60/LESSON.md) | Durable execution — resume, replay, idempotency |
-| `ADK-44` | [61](../days/day-61/LESSON.md) | Pause/resume & checkpoints in ADK |
-| `ADK-45` | [61](../days/day-61/LESSON.md) | Pause/resume & checkpoints in ADK |
-| `ADK-46` | [62](../days/day-62/LESSON.md) | Human-in-the-loop patterns |
-| `ADK-47` | [63](../days/day-63/LESSON.md) | Approval gates — design (what needs a human, and why) |
-| `ADK-48` | [64](../days/day-64/LESSON.md) | Approval gates — build; HITL resumption for standalone nodes + `NodeTool` (2.5) |
-| `ADK-49` | [70](../days/day-70/LESSON.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom |
+| `ADK-40` | [57](../days/day-57-orchestrator-and-critic/LESSON.md) | Multi-agent design — orchestrator, Writer↔Critic |
+| `ADK-41` | [58](../days/day-58-triage-graph-v1/LESSON.md) | The triage graph v1 — intake→classify→research→draft→review, end to end |
+| `ADK-42` | [58](../days/day-58-triage-graph-v1/LESSON.md) | The triage graph v1 — intake→classify→research→draft→review, end to end |
+| `ADK-43` | [60](../days/day-60-durable-execution/LESSON.md) | Durable execution — resume, replay, idempotency |
+| `ADK-44` | [61](../days/day-61-pause-resume-checkpoints/LESSON.md) | Pause/resume & checkpoints in ADK |
+| `ADK-45` | [61](../days/day-61-pause-resume-checkpoints/LESSON.md) | Pause/resume & checkpoints in ADK |
+| `ADK-46` | [62](../days/day-62-human-in-the-loop/LESSON.md) | Human-in-the-loop patterns |
+| `ADK-47` | [63](../days/day-63-approval-gates-design/LESSON.md) | Approval gates — design (what needs a human, and why) |
+| `ADK-48` | [64](../days/day-64-approval-gates-build/LESSON.md) | Approval gates — build; HITL resumption for standalone nodes + `NodeTool` (2.5) |
+| `ADK-49` | [70](../days/day-70-the-quota-router/LESSON.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom |
 | `ADK-50` | [71](../days/day-71/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
 | `ADK-51` | [73](../days/day-73/LESSON.md) | Ambient agents — the nightly job (re-index, full evals, digest) |
 | `ADK-52` | [74](../days/day-74/LESSON.md) | Live API I — streaming architecture; free-quota check (SSE-text + browser speech fallba… |
@@ -125,7 +125,7 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `ADK-73` | [5](../days/day-05-first-adk-agent/LESSON.md) | First ADK agent — install `google-adk`, `Agent` + runner, pin `gemini-3.5-flash` explic… |
 | `ADK-74` | [84](../days/day-84/LESSON.md) | Tracing — OTel + `AutoTracingPlugin` (2.2): every node, tool call & model call in the t… |
 | `ADK-75` | [80](../days/day-80/LESSON.md) | Trajectory & rubric evaluation — `RubricBasedMultiTurnTrajectoryEvaluator` (2.2); "esca… |
-| `ADK-76` | [64](../days/day-64/LESSON.md) | Approval gates — build; HITL resumption for standalone nodes + `NodeTool` (2.5) |
+| `ADK-76` | [64](../days/day-64-approval-gates-build/LESSON.md) | Approval gates — build; HITL resumption for standalone nodes + `NodeTool` (2.5) |
 | `ADK-77` | [76](../days/day-76/LESSON.md) | VAD events & non-blocking tools (2.5) — the conversation doesn't freeze mid-tool |
 | `ADK-78` | [39](../days/day-39-database-tools/LESSON.md) | Database tools — MCP Toolbox for Databases vs hand-written DB tools; 2.6 extras awareness |
 
@@ -206,8 +206,8 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `OPS-08` | [31](../days/day-31-the-quality-gate/LESSON.md) | Quality gate — `./m check`: lint, tests, skills lint, `:free`-suffix lint |
 | `OPS-09` | [45](../days/day-45-the-mcp-audit/LESSON.md) | Phase gate — full MCP audit of sutra-core |
 | `OPS-10` | [51](../days/day-51-caching-the-quota-lifeline/LESSON.md) | Caching — context & response caching as the quota lifeline |
-| `OPS-11` | [65](../days/day-65/LESSON.md) | Phase gate — kill it mid-run; durable triage with human approval |
-| `OPS-12` | [70](../days/day-70/LESSON.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom |
+| `OPS-11` | [65](../days/day-65-kill-it-mid-run/LESSON.md) | Phase gate — kill it mid-run; durable triage with human approval |
+| `OPS-12` | [70](../days/day-70-the-quota-router/LESSON.md) | The Quota-Router plugin — requests-remaining per provider per window; route to headroom |
 | `OPS-13` | [72](../days/day-72/LESSON.md) | Backoff with honesty — `retry-after`, 1→2→4→8s, escalate after N; never invent a result |
 | `OPS-14` | [78](../days/day-78/LESSON.md) | Phase gate — ambient + voice, inside free quota |
 | `OPS-15` | [82](../days/day-82/LESSON.md) | Regression discipline — evals in CI; full runs ride the Day 73 nightly |
@@ -222,16 +222,16 @@ remember. Every ID appears exactly once; a duplicate or a missing ID is a plan b
 | `SEC-01` | [16](../days/day-16-built-in-tools-with-brakes/LESSON.md) | Built-in tools with brakes — search grounding (free-allowance check + open-source searc… |
 | `SEC-02` | [21](../days/day-21-errors-surface-not-swallow/LESSON.md) | Error handling — surface, don't swallow (trap #4) |
 | `SEC-03` | [40](../days/day-40-filtering-and-allowlists/LESSON.md) | Tool filtering, allowlists & MCP security posture |
-| `SEC-04` | [59](../days/day-59/LESSON.md) | Phase gate + failure lab — loops, runaway agents, containment |
-| `SEC-05` | [63](../days/day-63/LESSON.md) | Approval gates — design (what needs a human, and why) |
-| `SEC-06` | [66](../days/day-66/LESSON.md) | Threat model — prompt injection & the lethal trifecta |
-| `SEC-07` | [66](../days/day-66/LESSON.md) | Threat model — prompt injection & the lethal trifecta |
-| `SEC-08` | [67](../days/day-67/LESSON.md) | Defense in depth — input/output guardrail callbacks |
-| `SEC-09` | [67](../days/day-67/LESSON.md) | Defense in depth — input/output guardrail callbacks |
-| `SEC-10` | [68](../days/day-68/LESSON.md) | Permissions & least privilege for tools |
-| `SEC-11` | [68](../days/day-68/LESSON.md) | Permissions & least privilege for tools |
-| `SEC-12` | [69](../days/day-69/LESSON.md) | PII & data boundaries — synthetic data only, free-tier training caveat |
-| `SEC-13` | [69](../days/day-69/LESSON.md) | PII & data boundaries — synthetic data only, free-tier training caveat |
+| `SEC-04` | [59](../days/day-59-runaway-agents-contained/LESSON.md) | Phase gate + failure lab — loops, runaway agents, containment |
+| `SEC-05` | [63](../days/day-63-approval-gates-design/LESSON.md) | Approval gates — design (what needs a human, and why) |
+| `SEC-06` | [66](../days/day-66-injection-threat-model/LESSON.md) | Threat model — prompt injection & the lethal trifecta |
+| `SEC-07` | [66](../days/day-66-injection-threat-model/LESSON.md) | Threat model — prompt injection & the lethal trifecta |
+| `SEC-08` | [67](../days/day-67-guardrail-callbacks/LESSON.md) | Defense in depth — input/output guardrail callbacks |
+| `SEC-09` | [67](../days/day-67-guardrail-callbacks/LESSON.md) | Defense in depth — input/output guardrail callbacks |
+| `SEC-10` | [68](../days/day-68-least-privilege-tools/LESSON.md) | Permissions & least privilege for tools |
+| `SEC-11` | [68](../days/day-68-least-privilege-tools/LESSON.md) | Permissions & least privilege for tools |
+| `SEC-12` | [69](../days/day-69-pii-and-data-boundaries/LESSON.md) | PII & data boundaries — synthetic data only, free-tier training caveat |
+| `SEC-13` | [69](../days/day-69-pii-and-data-boundaries/LESSON.md) | PII & data boundaries — synthetic data only, free-tier training caveat |
 | `SEC-14` | [71](../days/day-71/LESSON.md) | Computer use & the sandbox — browser agent vs a local dummy site; `e2b`/`daytona` 🅿️; e… |
 | `SEC-15` | [72](../days/day-72/LESSON.md) | Backoff with honesty — `retry-after`, 1→2→4→8s, escalate after N; never invent a result |
 | `SEC-16` | [92](../days/day-92/LESSON.md) | Hardening pass — full security review before going public |

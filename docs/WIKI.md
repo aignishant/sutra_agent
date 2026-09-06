@@ -56,3 +56,23 @@ only to write it. Cross-day lookups live in `docs/wiki/ENTITIES.md`.
 | [48](wiki/day-48.md) | Memory design — what to remember, what to forget | AG-12, AG-13 | 19 | - |
 | [49](wiki/day-49.md) | Retrieval & embeddings — one honest RAG day | AG-33, ADK-30 | 20 | doi:10.1145/361219.361220, arXiv:2005.11401 |
 | [50](wiki/day-50.md) | Chunking, top-k & when RAG is the wrong tool | AG-14 | 19 | - |
+| [51](wiki/day-51.md) | Caching — context & response caching as the quota lifeline | ADK-31, OPS-10 | 23 | doi:10.1147/sj.92.0078 |
+| [52](wiki/day-52.md) | Phase gate — memory wired into the triage flow | AG-15 | 19 | - |
+| [53](wiki/day-53.md) | The graph Workflow Runtime — nodes, edges, the 2.x composition model | ADK-32, ADK-34, ADK-33 | 21 | doi:10.1145/1272998.1273005 |
+| [54](wiki/day-54.md) | Sequential, parallel & loop patterns | ADK-35, ADK-36, ADK-37 | 19 | doi:10.1145/359576.359585 |
+| [55](wiki/day-55.md) | Delegation & transfer; agent-as-tool | AG-16, ADK-38, ADK-39 | 23 | doi:10.1109/TC.1980.1675516 |
+| [56](wiki/day-56.md) | Planning patterns — plan-and-execute, replanning | AG-17, AG-18 | 23 | doi:10.1016/0004-3702(71)90010-5 |
+| [57](wiki/day-57.md) | Multi-agent design — orchestrator, Writer↔Critic | AG-19, AG-20, ADK-40 | 24 | arXiv:2303.17651 |
+| [58](wiki/day-58.md) | The triage graph v1 — intake→classify→research→draft→review, end to end | ADK-41, ADK-42 | 24 | - |
+| [59](wiki/day-59.md) | Phase gate + failure lab — loops, runaway agents, containment | AG-21, SEC-04 | 24 | doi:10.1145/357369.357371 |
+| [60](wiki/day-60.md) | Durable execution — resume, replay, idempotency | AG-22, ADK-43 | 23 | doi:10.1145/214451.214456 |
+| [61](wiki/day-61.md) | Pause/resume & checkpoints in ADK | ADK-44, ADK-45 | 21 | - |
+| [62](wiki/day-62.md) | Human-in-the-loop patterns | AG-23, ADK-46 | 22 | doi:10.1016/0005-1098(83)90046-8 |
+| [63](wiki/day-63.md) | Approval gates — design (what needs a human, and why) | SEC-05, ADK-47 | 25 | doi:10.1109/SP.1987.10001 |
+| [64](wiki/day-64.md) | Approval gates — build; HITL resumption for standalone nodes & NodeTool | ADK-48, ADK-76 | 25 | - |
+| [65](wiki/day-65.md) | Phase gate — kill it mid-run; durable triage with human approval | OPS-11 | 24 | - |
+| [66](wiki/day-66.md) | Threat model — prompt injection & the lethal trifecta | SEC-06, SEC-07 | 22 | arXiv:2302.12173 |
+| [67](wiki/day-67.md) | Defense in depth — input/output guardrail callbacks | SEC-08, SEC-09 | 24 | arXiv:2503.18813 |
+| [68](wiki/day-68.md) | Permissions & least privilege for tools | SEC-11, SEC-10 | 22 | doi:10.1145/54289.871709 |
+| [69](wiki/day-69.md) | PII & data boundaries — synthetic data only, free-tier training caveat | SEC-12, SEC-13 | 22 | arXiv:2012.07805 |
+| [70](wiki/day-70.md) | day-70-the-quota-router | OPS-12 | 9 | - |

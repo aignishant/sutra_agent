@@ -74,5 +74,7 @@ can be found in prose without guessing where it ends.
 | Fail-stop processors: an approach to designing fault-tolerant computing systems | doi:10.1145/357369.357371 | 1983 | 2026-09-05 | 59 | `days/day-59-runaway-agents-contained/papers/01-fail-stop-processors.md` |
 | A Comparison of Commercial and Military Computer Security Policies | doi:10.1109/SP.1987.10001 | 1987 | 2026-09-05 | 63 | `days/day-63-approval-gates-design/papers/01-well-formed-transactions.md` |
 | Ironies of automation | doi:10.1016/0005-1098(83)90046-8 | 1983 | 2026-09-06 | 62 | `days/day-62-human-in-the-loop/papers/01-ironies-of-automation.md` |
-| The Confused Deputy (or why capabilities might have been invented) | doi:10.1145/54289.871709 | 1988 | 2026-09-06 | 68 | `days/day-68-least-privilege-tools/papers/01-the-confused-deputy.md` |
+| "The Confused Deputy" (or why capabilities might have been invented) | doi:10.1145/54289.871709 | 1988 | 2026-09-06 | 68 | `days/day-68-least-privilege-tools/papers/01-the-confused-deputy.md` |
 | Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection | arXiv:2302.12173 | 2023 | 2026-09-06 | 66 | `days/day-66-injection-threat-model/papers/01-indirect-prompt-injection.md` |
+| Defeating Prompt Injections by Design | arXiv:2503.18813 | 2025 | 2026-09-06 | 67 | `days/day-67-guardrail-callbacks/papers/01-defeating-prompt-injections-by-design.md` |
+| Extracting Training Data from Large Language Models | arXiv:2012.07805 | 2020 | 2026-09-06 | 69 | `days/day-69-pii-and-data-boundaries/papers/01-extracting-training-data.md` |
